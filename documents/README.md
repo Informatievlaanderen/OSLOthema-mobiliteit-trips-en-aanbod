@@ -1,4 +1,4 @@
-# Documenten
+# Nuttige bronnen
 
 ## Bestaande standaarden
 
@@ -7,6 +7,9 @@
 - [MobiVoc](http://schema.mobivoc.org/)
 
 ## Taxonomie transportmodi
+
+### Taxonomievoorstel 1
+[Bron](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/documents/transportmodi_NL.png)
 
 - Fietsdelen
 - Autodelen
