@@ -5,6 +5,7 @@
 - [General Bikeshare Feed Specification (GBFS)](https://github.com/NABSA/gbfs)
 - [Mobility Data Specification (MDS)](https://github.com/CityOfLosAngeles/mobility-data-specification/tree/master)
 - [MobiVoc](http://schema.mobivoc.org/)
+- [NeTEx](https://github.com/NeTEx-CEN/NeTEx)
 
 ## Taxonomie transportmodi
 
