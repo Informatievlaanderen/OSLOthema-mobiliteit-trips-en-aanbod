@@ -17,4 +17,4 @@
 ## Input voor taxonomieën
 
 ### Transportmodi
-[Bron 1](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/resources/documents/transportmodi_NL.png)
+[Bron 1](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/resources/taxonomy/transportmodi_NL.png)
