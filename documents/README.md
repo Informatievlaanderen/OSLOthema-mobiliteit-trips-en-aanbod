@@ -2,13 +2,11 @@
 
 ## Bestaande standaarden
 
-### Semantische standaarden
 - [MobiVoc](http://schema.mobivoc.org/)
-
-### API-standaarden
 - [General Bikeshare Feed Specification (GBFS)](https://github.com/NABSA/gbfs)
 - [Mobility Data Specification (MDS)](https://github.com/CityOfLosAngeles/mobility-data-specification/tree/master)
 - [NeTEx](https://github.com/NeTEx-CEN/NeTEx)
+- [MaaS Alliance](https://github.com/maas-alliance)
 
 ## Taxonomie transportmodi
 
