@@ -14,20 +14,7 @@
 - [Blueprint for an API from Transport Operator to MaaS Provider](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/documents/Blueprint%20for%20a%20TO%20to%20MSP%20API%20v1.0.pdf)
 - [National Access Points - Getting closer to MaaS EU-wide](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/documents/Introduction-to-MMTIS-NAP-v-2.0.pdf)
 
-## Taxonomie transportmodi
+## Input voor taxonomieën
 
-### Taxonomievoorstel 1
-[Bron](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/documents/transportmodi_NL.png)
-
-- Fietsdelen
-- Autodelen
-- Openbaar vervoer
-- Elektromobiliteit
-- Microtransit
-- Micromobiliteit
-- Ritdelen (carpooling)
-- Ridesourcing/TNC en taxis
-- Shuttlediensten
-- Scooterdelen
-- On- en offstreet parking
-- Kortetermijnverhuur
+### Transportmodi
+[Bron 1](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/documents/transportmodi_NL.png)
