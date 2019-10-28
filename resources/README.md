@@ -3,10 +3,14 @@
 ## Bestaande standaarden
 
 - [MobiVoc](http://schema.mobivoc.org/)
+- [Open Transport](https://github.com/OpenTransport/vocabulary)
+- [Linked GTFS](https://github.com/OpenTransport/linked-gtfs)
+- [Stop Times](https://github.com/OpenTransport/StopTimes)
 - [General Bikeshare Feed Specification (GBFS)](https://github.com/NABSA/gbfs)
 - [Mobility Data Specification (MDS)](https://github.com/CityOfLosAngeles/mobility-data-specification/tree/master)
 - [NeTEx](https://github.com/NeTEx-CEN/NeTEx)
 - [MaaS Alliance](https://github.com/maas-alliance)
+- [Transmodel](http://www.transmodel-cen.eu/downloads/)
 
 ## Nuttige documenten
 
