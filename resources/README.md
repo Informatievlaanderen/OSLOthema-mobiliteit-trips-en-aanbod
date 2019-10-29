@@ -14,7 +14,6 @@
 - [MaaS Alliance](https://github.com/maas-alliance)
 - [Intelligent Transportation Systems (ITS) ISO/TC204](https://www.iso.org/committee/54706.html)
 - [Intelligent Transportation systems (ITS) CEN/TC278](https://www.itsstandards.eu/)
-- [General Transit Feed Specification (GTFS)](https://en.wikipedia.org/wiki/General_Transit_Feed_Specification)
 - [INSPRE Data Specification on Transport Networks](https://inspire.ec.europa.eu/Themes/115/2892)
 
 ## Nuttige documenten
