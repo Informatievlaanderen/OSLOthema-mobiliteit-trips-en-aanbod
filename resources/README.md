@@ -12,12 +12,18 @@
 - [Mobility Data Specification (MDS)](https://github.com/CityOfLosAngeles/mobility-data-specification/tree/master)
 - [NeTEx](https://github.com/NeTEx-CEN/NeTEx)
 - [MaaS Alliance](https://github.com/maas-alliance)
+- [Intelligent Transportation Systems (ITS) ISO/TC204](https://www.iso.org/committee/54706.html)
+- [Intelligent Transportation systems (ITS) CEN/TC278](https://www.itsstandards.eu/)
+- [INSPRE Data Specification on Transport Networks](https://inspire.ec.europa.eu/Themes/115/2892)
+- [Open Trip Planner](http://docs.opentripplanner.org/en/latest/)
 
 ## Nuttige documenten
 
 - [Maas Alliance Whitepaper](https://maas-alliance.eu/wp-content/uploads/sites/7/2017/09/MaaS-WhitePaper_final_040917-2.pdf)
 - [Blueprint for an API from Transport Operator to MaaS Provider](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/resources/documents/Blueprint%20for%20a%20TO%20to%20MSP%20API%20v1.0.pdf)
 - [National Access Points - Getting closer to MaaS EU-wide](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/resources/documents/Introduction-to-MMTIS-NAP-v-2.0.pdf)
+- [Basisbereikbaarheid](https://www.vlaanderen.be/basisbereikbaarheid)
+- [Het decreet Basisbereikbaarheid](https://www.vlaanderen.be/basisbereikbaarheid/het-decreet-basisbereikbaarheid)
 
 ## Input voor taxonomieën
 
