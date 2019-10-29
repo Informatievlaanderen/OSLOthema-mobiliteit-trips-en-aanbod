@@ -15,6 +15,7 @@
 - [Intelligent Transportation Systems (ITS) ISO/TC204](https://www.iso.org/committee/54706.html)
 - [Intelligent Transportation systems (ITS) CEN/TC278](https://www.itsstandards.eu/)
 - [INSPRE Data Specification on Transport Networks](https://inspire.ec.europa.eu/Themes/115/2892)
+- [Open Trip Planner](http://docs.opentripplanner.org/en/latest/)
 
 ## Nuttige documenten
 
