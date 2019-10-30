@@ -17,6 +17,7 @@
 - [INSPRE Data Specification on Transport Networks](https://inspire.ec.europa.eu/Themes/115/2892)
 - [Open Trip Planner](http://docs.opentripplanner.org/en/latest/)
 - [EU Regulation with regard to the provision of EU-wide multimodal travel information services](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R1926)
+- [Schema.org](https://schema.org/)
 
 ## Nuttige documenten
 
@@ -25,7 +26,6 @@
 - [National Access Points - Getting closer to MaaS EU-wide](https://github.com/Informatievlaanderen/OSLOthema-mobiliteit/blob/master/resources/documents/Introduction-to-MMTIS-NAP-v-2.0.pdf)
 - [Basisbereikbaarheid](https://www.vlaanderen.be/basisbereikbaarheid)
 - [Het decreet Basisbereikbaarheid](https://www.vlaanderen.be/basisbereikbaarheid/het-decreet-basisbereikbaarheid)
-- 
 
 ## Input voor taxonomieën
 
