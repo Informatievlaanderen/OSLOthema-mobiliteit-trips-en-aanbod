@@ -16,6 +16,7 @@
 - [Intelligent Transportation systems (ITS) CEN/TC278](https://www.itsstandards.eu/)
 - [INSPRE Data Specification on Transport Networks](https://inspire.ec.europa.eu/Themes/115/2892)
 - [Open Trip Planner](http://docs.opentripplanner.org/en/latest/)
+- [Schema.org](https://schema.org/)
 
 ## Nuttige documenten
 
