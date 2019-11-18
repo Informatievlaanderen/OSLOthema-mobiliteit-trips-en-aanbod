@@ -1,7 +1,7 @@
 [{
   "name": "mobiliteit-maas",
   "type": "ap",
-  "eap": "OSLO-Mobiliteit4.eap",
+  "eap": "OSLO-Mobiliteit4.EAP",
   "diagram": "OSLO-Mobiliteit",
   "template": "mobiliteit-maas-ap.j2",
   "title": "Mobiliteit MaaS",
