@@ -12,5 +12,6 @@
   "contributors-column": "Mobiliteit",
   "site": "site-skeleton",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/" 
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
+  "dependencies": "https://otl-test.data.vlaanderen.be/doc/applicatieprofiel/generiek-basis/zonderstatus/20190701"
 }]
