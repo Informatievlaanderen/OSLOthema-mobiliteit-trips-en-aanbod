@@ -4,7 +4,7 @@
   "eap": "Mobiliteit.EAP",
   "diagram": "OSLO-Mobiliteit",
   "template": "mobiliteit-ap.j2",
-  "title": "Mobiliteit Trips & Aanbod",
+  "title": "OSLO-Mobiliteit: Trips & Aanbod",
   "publication-state": "https://data.vlaanderen.be/id/conceptscheme/OntwerpStandaard",
   "publication-date": "04-12-2019",
   "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
