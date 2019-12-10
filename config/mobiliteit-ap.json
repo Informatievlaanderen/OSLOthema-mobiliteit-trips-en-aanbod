@@ -18,6 +18,7 @@
 {
   "name": "mobiliteit-trips-en-aanbod-voc",
   "type": "voc",
+  "prefix": "mobiliteit",
   "eap": "OSLO-Mobiliteit-Trips-En-Aanbod-VOC.EAP",
   "diagram": "OSLO-Mobiliteit-Trips-En-Aanbod",
   "template": "mobiliteit-trips-en-aanbod-voc.j2",
