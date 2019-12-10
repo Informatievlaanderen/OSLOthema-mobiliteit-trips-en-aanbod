@@ -1,4 +1,5 @@
-[{
+[
+{
   "name": "mobiliteit-ap",
   "type": "ap",
   "eap": "Mobiliteit.EAP",
@@ -13,4 +14,20 @@
   "site": "site-skeleton",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
-}]
+},
+{
+  "name": "mobiliteit-trips-en-aanbod-voc",
+  "type": "voc",
+  "eap": "OSLO-Mobiliteit-Trips-En-Aanbod-VOC.EAP",
+  "diagram": "OSLO-Mobiliteit-Trips-En-Aanbod",
+  "template": "mobiliteit-trips-en-aanbod-voc.j2",
+  "title": "OSLO-Mobiliteit: Trips & Aanbod",
+  "publication-state": "https://data.vlaanderen.be/id/conceptscheme/OntwerpStandaard",
+  "publication-date": "11-12-2019",
+  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Mobiliteit",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+}
+]
