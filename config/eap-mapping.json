@@ -1,34 +1,34 @@
 [
 {
-  "name": "mobiliteit-ap",
+  "name": "mobiliteit-trips-en-aanbod-ap",
   "type": "ap",
-  "eap": "Mobiliteit.EAP",
-  "diagram": "OSLO-Mobiliteit",
-  "template": "mobiliteit-ap.j2",
+  "eap": "OSLO-Mobiliteit-Trips-En-Aanbod.EAP",
+  "diagram": "OSLO-Mobiliteit-Trips-En-Aanbod-Applicatieprofiel",
+  "template": "mobiliteit-trips-en-aanbod-ap.j2",
   "title": "OSLO-Mobiliteit: Trips & Aanbod",
   "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpStandaard",
   "publication-date": "16-12-2019",
-  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Mobiliteit",
   "site": "site-skeleton",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
 },
 {
   "name": "mobiliteit-trips-en-aanbod-voc",
   "type": "voc",
   "prefix": "mobiliteit",
-  "eap": "OSLO-Mobiliteit-Trips-En-Aanbod-VOC.EAP",
+  "eap": "OSLO-Mobiliteit-Trips-En-Aanbod.EAP",
   "diagram": "OSLO-Mobiliteit-Trips-En-Aanbod",
   "template": "mobiliteit-trips-en-aanbod-voc.j2",
   "title": "OSLO-Mobiliteit: Trips & Aanbod",
   "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpStandaard",
-  "publication-date": "11-12-2019",
+  "publication-date": "16-12-2019",
   "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Mobiliteit",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
 }
 ]
