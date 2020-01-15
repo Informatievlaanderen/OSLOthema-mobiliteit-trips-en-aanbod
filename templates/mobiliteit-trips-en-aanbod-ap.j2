@@ -6,35 +6,35 @@ Het applicatieprofiel OSLO-Mobiliteit: Trips en Aanbod toont hoe termen uit het 
 </p>
  
 <p>
-Met deze gegevens kunnen mobiliteitsvraag en -aanbod beter op elkaar afgestemd worden, bv. door aggregatie en analyse van trip- en aanboddata. Het ultieme doel is het realiseren van een verhoogde basisbereikbaarheid onder andere door middel van intermodaal vervoer. 
+Met deze gegevens kunnen mobiliteitsvraag en -aanbod beter op elkaar afgestemd worden, bv. door aggregatie en analyse van trip- en aanboddata. Het uiteindelijk doel is het realiseren van een verhoogde basisbereikbaarheid o.a. door middel van intermodaal vervoer. 
 </p>
  
 <p>
-Het model bestaat uit een deel dat de reis beschrijft en de daaraan gerelateerde route en een deel dat de mobiliteitsdienst en de bijbehorende concepten, incl. het transportnetwerk waarvan gebruik wordt gemaakt om de diensten en ultiem de reis te kunnen realiseren.
+Het model bestaat uit een deel dat de reis beschrijft en de daaraan gerelateerde route, en een deel dat de mobiliteitsdienst en de bijbehorende concepten modelleert, incl. het transportnetwerk waarvan gebruik wordt gemaakt om de diensten en ultiem de reis te kunnen realiseren.
 </p>
  
 <p>
-De entiteit Reiziger beschrijft (anoniem) de persoon die de Reis onderneemt. Hierbij wordt rekening gehouden met persoonlijke en situationele Kenmerken en Voorkeuren. Een Reiziger kan eventueel vergezeld worden door medereizigers. Een Reis kan ook deel uitmaken van een grotere, bv. de heen- en de terugreis.
+De entiteit Reiziger beschrijft (anoniem) de persoon die de Reis onderneemt. Hierbij wordt rekening gehouden met persoonlijke en situationele Kenmerken en Voorkeuren. Een Reiziger kan eventueel vergezeld worden door medereizigers. Een Reis kan deel uitmaken van een grotere Reis, die bv. is samengesteld uit een heen- en een terugreis.
 </p>
  
 <p>
-Aan een Reis, zijn Routes verbonden. Zo zijn er de mogelijke Routes die voorgesteld worden door de Routeplanner en de uiteindelijk gekozen Route. Er kunnen meerdere gekozen Routes zijn indien de Reiziger zijn Route wijzigt nadat de Reis reeds is aangevangen. Ten slotte, is er de effectief uitgevoerde Route.
+Aan een Reis zijn Routes verbonden. Zo zijn er de mogelijke Routes die bv. door een Routeplanner worden voorgesteld en de uiteindelijk daaruit gekozen Route. Er kunnen meerdere gekozen Routes zijn indien de Reiziger zijn Route wijzigt als de Reis al is aangevangen. Ten slotte is er nog de effectief uitgevoerde Route.
 </p>
  
 <p>
-Een Route is een opeenvolging van Routesegmenten waarbij een segment het deel van de Route voorstelt dat met hetzelfde vervoermiddel is afgelegd. Zo kan een Reis bv. bestaan uit een segment gerealiseerd met de auto, een tweede segment met de trein, en een laatste segment te voet. Een Overstap tussen twee dezelfde vervoermiddelen (bv. van de ene trein op de andere trein) zal ook twee Routesegmenten creëren. De klasse Routeknoop beschrijft het begin- en eindpunt van het Routesegment. De klasse Overstap kan, ten slotte, gebruikt worden om Reizen eenvoudiger te beschrijven. Bv. de afgelegde weg van perron 2 naar perron 8 kan beschreven worden als een volwaardig Routesegment of beknopter gemodelleerd worden als een Overstap.
+Een Route is een opeenvolging van Routesegmenten waarbij een segment het deel van de Route voorstelt dat met hetzelfde vervoermiddel wordt afgelegd. Zo kan een Reis bv. bestaan uit een segment gerealiseerd met de auto, een tweede segment met de trein, en een laatste segment te voet. Een Overstap tussen twee dezelfde vervoermiddelen (bv. van de ene trein op de andere) zal ook twee Routesegmenten creëren. De klasse Routeknoop beschrijft het begin- en eindpunt van het Routesegment. De klasse Overstap kan gebruikt worden om Reizen eenvoudiger te beschrijven. Bv. de afgelegde weg van perron 2 naar perron 8 kan beschreven worden als een volwaardig Routesegment of beknopter gemodelleerd worden als een Overstap.
 </p>
  
 <p>
-Een Reis wordt vastgelegd door één of meerdere Boekingen waarbij de Reiziger de nodige Vervoersbewijzen verkrijgt om de voor de verplaatsing vereiste Mobiliteitsdiensten te kunnen gebruiken. Een Boeking kan mogelijk een Reservatie inhouden van een bepaalde Resource, bv. een parkeerplaats, een zitplaats op een trein etc. Een Reiziger kan ook op voorhand al over de nodige Vervoersbewijzen beschikken d.m.v. een abonnement.
+Een Reis wordt vastgelegd door één of meerdere Boekingen waarbij de Reiziger de nodige Vervoersbewijzen verkrijgt voor de Mobiliteitsdiensten waarvan hij gebruik maakt. Een Boeking kan mogelijk een Reservatie inhouden van een bepaalde Resource, bv. een parkeerplaats, een zitplaats op een trein etc. Een Reiziger kan echter ook op voorhand al over de nodige Vervoersbewijzen beschikken d.m.v. een abonnement.
 </p>
  
 <p>
-De Mobiliteitsdienst neemt een centrale rol op in het model en beschrijft wat de Aanbieder in huis heeft om de verplaatsing van personen tussen locaties mogelijk te maken. Dat kunnen lijndiensten of deelsteps zijn, maar evengoed parkeerplaatsen of fietspompen. Een Mobiliteitsdienst kan andere Mobiliteitsdiensten omvatten, bv. een MaaS-aanbieder die verschillende diensten integreert tot één dienst, maar ook een Aanbieder die zijn diensten beschrijft op verschillende granulariteitsniveaus.
+De Mobiliteitsdienst neemt een centrale rol op in het model en beschrijft wat de Aanbieder in huis heeft om de verplaatsing van personen tussen locaties mogelijk te maken. Dat kunnen lijndiensten of deelsteps zijn, maar evengoed parkeerplaatsen of fietspompen. Een Mobiliteitsdienst kan andere Mobiliteitsdiensten omvatten, bv. in het geval van een MaaS-aanbieder die verschillende diensten integreert tot één dienst, maar ook bij een Aanbieder die zijn diensten beschrijft op verschillende granulariteitsniveaus.
 </p>
  
 <p>
-Een Mobiliteitsdienst wordt uitgevoerd door de Uitvoerder (dikwijls maar niet altijd gelijk aan de Aanbieder), en heeft een zekere Toegankelijkheid en Beschikbaarheid. Een Mobiliteitsdienst wordt doorgaans aangeboden binnen een bepaald Formeel Kader zoals een wet, en heeft middels een Licentie de nodige toestemming verkregen om te mogen opereren in een bepaald gebied. Een Mobiliteitsdienst beschikt over een aantal Resources (bv. parkeerplaatsen bij een carpoolparking, zitplaatsen op een trein, auto’s in het geval van autodelen etc.).
+Een Mobiliteitsdienst wordt uitgevoerd door een Uitvoerder (dikwijls maar niet altijd gelijk aan de Aanbieder), en heeft een zekere Toegankelijkheid en Beschikbaarheid. Een Mobiliteitsdienst wordt doorgaans aangeboden binnen een bepaald Formeel Kader zoals een wet, en heeft middels een Licentie de nodige toestemming verkregen om te mogen opereren in een bepaald gebied. Een Mobiliteitsdienst beschikt over een aantal Resources (bv. parkeerplaatsen bij een carpoolparking, zitplaatsen op een trein, auto’s in het geval van autodelen etc.).
 </p>
  
 <p>
