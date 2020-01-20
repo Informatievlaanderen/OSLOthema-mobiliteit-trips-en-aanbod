@@ -1,17 +1,18 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;Mobiliteit
 Annelies;Van den Bruele;Agentschap voor Maritieme Dienstverlening en Kust;annelies.vandenbruele@mow.vlaanderen.be;http://www.agentschapmdk.be/;C
-Bart ;Van Herbruggen;Departement Mobiliteit en Openbare Werken;;https://departement-mow.vlaanderen.be/nl;C
+Bart;Van Herbruggen;Departement Mobiliteit en Openbare Werken;https://mow-contact.be/;https://departement-mow.vlaanderen.be/nl;C
 Bert;Van Nuffelen;Informatie Vlaanderen;bert.vannuffelen@vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;E
 Brecht;Van de Vyvere;imec - UGent;brecht.vandevyvere@ugent.be;http://idlab.technology/;C
 Chris;de Guytenaer;BattMobiel;chris@battmobiel.be;https://www.battmobiel.be/;C
 David;Schoenmaekers;Federale Overheidsdienst Mobiliteit en Vervoer;david.schoenmaekers@mobilit.fgov.be;https://mobilit.belgium.be/nl;C
 Dimitri;Schepers;PwC;dimitri.schepers@pwc.com;https://www.pwc.be;E
 Eric;Sempels;Departement Mobiliteit en Openbare Werken;eric.sempels@mow.vlaanderen.be;https://departement-mow.vlaanderen.be/nl;A
+Erwin;Vermassen;Ertico - ITS Europe;e.vermassen@mail.ertico.com;https://ertico.com/;C
 Erwin;Hermans;Departement Mobiliteit en Openbare Werken;erwin.hermans@mow.vlaanderen.be;https://departement-mow.vlaanderen.be/nl;C
 Geert;Thijs;Informatie Vlaanderen;geert.thijs@vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;E
 Hans;Buschop;Federale Overheidsdienst Mobiliteit en Vervoer;hans.buschop@mobilit.fgov.be;https://mobilit.belgium.be/nl;C
-Ine;Lippens;Autodelen.net, Vlaams Netwerk Autodelen;ine@autodelen.net;https://www.autodelen.net/;C
-Jeroen;Nyckees;Departement Mobiliteit en Openbare Werken;jeroen.nyckees@mow.vlaanderen.be;https://departement-mow.vlaanderen.be/nl;C
+Ine;Lippens;Autodelen.net;ine@autodelen.net;https://www.autodelen.net/;C
+Jeroen;Nyckees;Departement Mobiliteit en Openbare Werken;https://mow-contact.be/;https://departement-mow.vlaanderen.be/nl;C
 Joachim;Dero;Agentschap Wegen en Verkeer;joachim.dero@mow.vlaanderen.be;https://wegenenverkeer.be/;C
 Laurens;Vercauteren;PwC;laurens.vercauteren@pwc.com;https://www.pwc.be;E
 Luk;Mutsaerts;Departement Omgeving;luk.mutsaerts@vlaanderen.be;https://www.omgevingvlaanderen.be/;C
@@ -21,6 +22,7 @@ Michiel;De Keyzer;PwC;michiel.de.keyzer@pwc.com;https://www.pwc.be;E
 Odette;Buntinx;Departement Mobiliteit en Openbare Werken;odette.buntinx@mow.vlaanderen.be;https://departement-mow.vlaanderen.be/nl;A
 Paul;Theyskens;De Lijn;Paul.Theyskens.ext@delijn.be;https://www.delijn.be/nl/overdelijn/organisatie/organisatie/;A
 Peter;Peeters;Departement Mobiliteit en Openbare Werken;peter.peeters@mow.vlaanderen.be;https://departement-mow.vlaanderen.be/nl;C
+Peter;Van der Perre;ITS.be;pv@its.be;http://www.its.be;A
 Pieter;Colpaert;imec - UGent;pieter.colpaert@imec.be;http://idlab.technology/;C
 Raf;Buyle;Informatie Vlaanderen;raf.buyle@vlaanderen.be;https://overheid.vlaanderen.be/informatie-vlaanderen;E
 Sien;Maes;De Lijn;Sien.Maes@delijn.be;https://www.delijn.be/nl/overdelijn/organisatie/organisatie/;C
@@ -29,3 +31,4 @@ Tim;Coninx;De Lijn;tim.coninx@delijn.be;https://www.delijn.be/nl/overdelijn/orga
 Tom;Storme;imec - UGent;tom.storme@ugent.be;http://idlab.ugent.be/;C
 Welmoed;Neijmeijer;Voi;welmoed.neijmeijer@voiapp.io;https://www.voiscooters.com/;C
 Yanick;Van Hoeymissen;Agentschap Wegen en Verkeer;yanick.vanhoeymissen@mow.vlaanderen.be;https://wegenenverkeer.be/;C
+
