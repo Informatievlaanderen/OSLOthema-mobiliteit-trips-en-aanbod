@@ -18,6 +18,7 @@
 - [Open Trip Planner](http://docs.opentripplanner.org/en/latest/)
 - [Schema.org](https://schema.org/)
 - [DATEX II](https://datex2.eu/)
+- [NGSI](https://github.com/smart-data-models/data-models)
 
 ## Nuttige documenten
 
