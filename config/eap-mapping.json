@@ -34,7 +34,7 @@
 {
   "name": "netwerk-voc",
   "type": "voc",
-  "eap": "OSLO-netwerk.EAP",
+  "eap": "OSLO-Netwerk.EAP",
   "diagram": "OSLO-Netwerk",
   "template": "netwerk-voc.j2",
   "title": "OSLO-Netwerk",
