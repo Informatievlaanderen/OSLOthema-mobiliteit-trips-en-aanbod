@@ -36,7 +36,7 @@
   "type": "voc",
   "eap": "OSLO-netwerk.EAP",
   "diagram": "OSLO-Netwerk",
-  "template": "mobiliteit-trips-en-aanbod-voc.j2",
+  "template": "netwerk-voc.j2",
   "title": "OSLO-Netwerk",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "publication-date": "09-04-2020",
