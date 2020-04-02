@@ -30,5 +30,20 @@
   "contributors-column": "Mobiliteit",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
-}
+},
+{
+  "name": "netwerk-voc",
+  "type": "voc",
+  "eap": "OSLO-netwerk.EAP",
+  "diagram": "OSLO-Netwerk",
+  "template": "mobiliteit-trips-en-aanbod-voc.j2",
+  "title": "OSLO-Netwerk",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
+  "publication-date": "09-04-2020",
+  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Mobiliteit",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+}  
 ]
