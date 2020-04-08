@@ -13,14 +13,7 @@
   "contributors-column": "Mobiliteit",
   "site": "site-skeleton",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
-  "dependencies": [
-    {
-      "package":"OSLO-Generiek",
-      "packagelabel":"Applicatieprofiel Generiek Basis",
-      "packageurl":"https://test.data.vlaanderen.be/doc/applicatieprofiel/generiek-basis/zonderstatus/2019-07-01"
-    }
-  ]
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
 },
 {
   "name": "mobiliteit-trips-en-aanbod-voc",
