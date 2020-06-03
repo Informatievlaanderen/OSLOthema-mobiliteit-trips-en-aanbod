@@ -13,7 +13,7 @@
   "contributors-column": "Mobiliteit",
   "site": "site-skeleton",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/applicatieprofiel-mobiliteit-trips-en-aanbod/index.html"
 },
 {
   "name": "mobiliteit-trips-en-aanbod-voc",
@@ -29,7 +29,7 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Mobiliteit",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-mobiliteit-trips-en-aanbod/index.html"
 },
 {
   "name": "netwerk-voc",
@@ -44,7 +44,7 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Mobiliteit",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-mobiliteit-trips-en-aanbod/index.html"
 },
 {
   "name": "transportnetwerk-voc",
@@ -59,6 +59,6 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Mobiliteit",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-mobiliteit-trips-en-aanbod/index.html"
 }
 ]
