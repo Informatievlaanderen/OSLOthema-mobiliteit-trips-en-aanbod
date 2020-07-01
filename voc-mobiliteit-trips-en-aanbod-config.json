@@ -1,0 +1,103 @@
+{
+  "naam": "Vocabularium Mobiliteit Trips en Aanbod",
+  "verantwoordelijke_organisatie": "Departement Mobiliteit en Openbare Werken",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000096",
+  "publicatiedatum": "2020-04-23",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
+  "categorie": "Vocabularium & applicatieprofielen",
+  "specificatiedocument": [
+    {
+      "naam": "Vocabularium OSLO-Mobiliteit",
+      "waarde": "https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod"
+    },
+    {
+      "naam" : "Vocabularium OSLO-Netwerk",
+      "waarde" : "https://data.vlaanderen.be/ns/netwerk"
+    },
+    {
+      "naam" : "Vocabularium OSLO-Transportnetwerk",
+      "waarde" : "https://data.vlaanderen.be/ns/transportnetwerk"
+    }
+  ],
+  "documentatie": [
+    {
+      "naam" : "Datamodel OSLO-Netwerk",
+      "waarde" : "OSLO-Netwerk.jpg"
+    },
+    {
+      "naam" : "Datamodel OSLO-Transportnetwerk",
+      "waarde" : "OSLO-Transportnetwerk.jpg"
+    }
+  ],
+  "charter": [
+    {
+      "naam": "Werkgroep Charter OSLO Mobiliteit Trips en Aanbod",
+      "waarde": "OSLO Mobiliteit - Charter.pdf"
+    }
+  ],
+  "verslagen": [
+    {
+      "naam" : "Verslag business werkgroep - 25 september 2019",
+      "waarde" : "OSLO Mobiliteit - Business Workshop 25_09_19 verslag.pdf"
+    },
+    {
+      "naam" : "Verslag thematische werkgroep 1 - 9 oktober 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 1 09_10_19 - Verslag.pdf"
+    },
+    {
+      "naam" : "Verslag thematische werkgroep 2 - 23 oktober 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 2 23_10_19 - Verslag.pdf"
+    },
+    {
+      "naam" : "Verslag thematische werkgroep 3 - 6 november 2019",
+      "waarde": "OSLO Mobiliteit - Thematische Workshop 3 06_11_19 - Verslag.pdf"
+    },
+    {
+      "naam" : "Verslag thematische werkgroep 4 - 20 november 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 4 20_11_19 - Verslag.pdf"
+    },
+    {
+      "naam" : "Verslag thematische werkgroep 5 - 4 december 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 5 04_12_19 - Verslag.pdf"
+    }
+  ],
+  "presentaties": [
+    {
+      "naam" : "Presentatie kick-off werkgroep - 17 september 2019",
+      "waarde" : "Kick-off werkgroep standaardisatie mobiliteitsinformatie 20190916.pptx"
+    },
+    {
+      "naam" : "Presentatie business werkgroep - 25 september 2019",
+      "waarde" : "Business werkgroep standaardisatie mobiliteitsinformatie 20190925.pptx"
+    },
+    {
+      "naam" : "Presentatie thematische werkgroep 1 - 9 oktober 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 1 09_10_19 - Presentatie.pdf"
+    },
+    {
+      "naam" : "Presentatie thematische werkgroep 2 - 23 oktober 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 2 23_10_19 - Presentatie.pdf"
+    },
+    {
+      "naam" : "Presentatie thematische werkgroep 3 - 6 november 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 3 06_11_19 - Presentatie.pdf"
+    },
+    {
+      "naam" : "Presentatie thematische werkgroep 4 - 20 november 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 4 20_11_19 - Presentatie.pdf"
+    },
+    {
+      "naam" : "Presentatie thematische werkgroep 5 - 4 december 2019",
+      "waarde" : "OSLO Mobiliteit - Thematische Workshop 5 04_12_19 - Presentatie.pdf"
+    },
+    {
+      "naam" : "Webinar einde publieke review - 9 april 2020",
+      "waarde" : "https://www.youtube.com/watch?v=DIiR8v9EnBs"
+    }
+  ],
+  "functioneel_toepassingsgebied": "Semantische standaard voor informatie over basismobiliteit",
+  "organisatorisch_werkingsgebied": "alle entiteiten van de Vlaamse overheid",
+  "datum_van_aanmelding": "17 September 2019",
+  "erkenning_werkgroep_datastandaarden": "23 April 2020",
+  "erkenning_stuurgroep": "23 April 2020"
+}
