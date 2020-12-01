@@ -16,7 +16,7 @@
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/applicatieprofiel-mobiliteit-trips-en-aanbod/index.html"
 },
 {
-  "name": "mobiliteit-trips-en-aanbod-voc",
+  "name": "trips-en-aanbod",
   "type": "voc",
   "prefix": "mobiliteit",
   "eap": "OSLO-Mobiliteit-Trips-En-Aanbod.EAP",
@@ -32,7 +32,7 @@
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-mobiliteit-trips-en-aanbod/index.html"
 },
 {
-  "name": "netwerk-voc",
+  "name": "netwerk",
   "type": "voc",
   "eap": "OSLO-Netwerk.EAP",
   "diagram": "OSLO-Netwerk",
@@ -47,7 +47,7 @@
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-mobiliteit-trips-en-aanbod/index.html"
 },
 {
-  "name": "transportnetwerk-voc",
+  "name": "transportnetwerk",
   "type": "voc",
   "eap": "OSLO-Transportnetwerk.EAP",
   "diagram": "OSLO-Transportnetwerk",
