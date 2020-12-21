@@ -1,5 +1,5 @@
 {
-  "naam": "Applicatieprofiel Mobiliteit Trips en Aanbod",
+  "naam": "Applicatieprofiel Mobiliteit: Trips & Aanbod",
   "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/mobiliteit-trips-en-aanbod/kandidaatstandaard/2020-04-09/all-mobiliteit-trips-en-aanbod-ap.jsonld",
   "verantwoordelijke_organisatie": "Departement Mobiliteit en Openbare Werken",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000096",
@@ -9,7 +9,7 @@
   "beschrijving" : "ap-mobiliteit-trips-en-aanbod.md",
   "specificatiedocument": [
     {
-      "naam": "OSLO-Mobiliteit: Trips en Aanbod",
+      "naam": "OSLO-Mobiliteit: Trips & Aanbod",
       "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/mobiliteit-trips-en-aanbod"
     }
   ],
@@ -87,6 +87,10 @@
     {
       "naam" : "Webinar einde publieke review - 9 april 2020",
       "waarde" : "https://www.youtube.com/watch?v=DIiR8v9EnBs"
+    },
+    {
+      "naam" : "Overzichtspresentatie",
+      "waarde" : "OSLO Mobiliteit Trips en Aanbod - Overzichtspresentatie.pdf"
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over basismobiliteit",

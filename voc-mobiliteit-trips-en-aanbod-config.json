@@ -95,6 +95,10 @@
     {
       "naam" : "Webinar einde publieke review - 9 april 2020",
       "waarde" : "https://www.youtube.com/watch?v=DIiR8v9EnBs"
+    },
+    {
+      "naam" : "Overzichtspresentatie",
+      "waarde" : "OSLO Mobiliteit Trips en Aanbod - Overzichtspresentatie.pdf"
     }
   ],
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie over basismobiliteit",
