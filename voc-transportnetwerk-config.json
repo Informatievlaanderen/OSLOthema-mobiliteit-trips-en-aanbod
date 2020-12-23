@@ -1,6 +1,6 @@
 {
-  "naam": "Vocabularium Mobiliteit Trips en Aanbod",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/mobiliteit-trips-en-aanbod/kandidaatstandaard/2020-04-09/all-mobiliteit-trips-en-aanbod-voc.jsonld",
+  "naam": "Vocabularium Transportnetwerk",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/transportnetwerk/erkendestandaard/2020-04-23/all-transportnetwerk.jsonld",
   "verantwoordelijke_organisatie": "Departement Mobiliteit en Openbare Werken",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000096",
   "publicatiedatum": "2020-04-23",
