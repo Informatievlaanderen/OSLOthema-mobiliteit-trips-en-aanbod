@@ -2,46 +2,47 @@
  
 {% block summary %}
 <p>
-Het applicatieprofiel OSLO-Mobiliteit: Trips en Aanbod toont hoe termen uit het overeenstemmend <a href="https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod">vocabularium</a> gebruikt moeten worden om gegevens uit te wisselen over 1) door personen uitgevoerde reizen en 2) de mobiliteitsdiensten die ze daarvoor ter beschikking hebben.
+The application profile OSLO-Mobility: Trips and Offers shows how terms from the corresponding <a href="https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod">vocabulary</a> should be used to exchange data on 1) trips made by individuals and 2) the mobility services available to them.
 </p>
  
 <p>
-Met deze gegevens kunnen mobiliteitsvraag en -aanbod beter op elkaar afgestemd worden, bv. door aggregatie en analyse van trip- en aanboddata. Het uiteindelijk doel is het realiseren van een verhoogde basisbereikbaarheid o.a. door middel van intermodaal vervoer. 
+With this data, mobility demand and supply can be better matched, e.g. through aggregation and analysis of trip and supply data. The ultimate goal is to realise increased basic accessibility, e.g. by means of intermodal transport.
 </p>
  
 <p>
-Het model bestaat uit een deel dat de reis beschrijft en de daaraan gerelateerde route, en een deel dat de mobiliteitsdienst en de bijbehorende concepten modelleert, incl. het transportnetwerk waarvan gebruik wordt gemaakt om de diensten en ultiem de reis te kunnen realiseren.
+The model consists of a part that describes the journey and the related route, and a part that models the mobility service and the related concepts, including the transport network that is used to realise the services and ultimately the journey.
 </p>
  
 <p>
-De entiteit Reiziger beschrijft (anoniem) de persoon die de Reis onderneemt. Hierbij wordt rekening gehouden met persoonlijke en situationele Kenmerken en Voorkeuren. Een Reiziger kan eventueel vergezeld worden door medereizigers. Een Reis kan deel uitmaken van een grotere Reis, die bv. is samengesteld uit een heen- en een terugreis.
+The entity Traveller describes (anonymously) the person undertaking the Trip. It takes into account personal and situational Characteristics and Preferences. A Traveller may be accompanied by fellow Travellers. A Trip can be part of a larger Trip, e.g. composed of an outward and a return Trip.
 </p>
  
 <p>
-Aan een Reis zijn Routes verbonden. Zo zijn er de mogelijke Routes die bv. door een Routeplanner worden voorgesteld en de uiteindelijk daaruit gekozen Route. Er kunnen meerdere gekozen Routes zijn indien de Reiziger zijn Route wijzigt als de Reis al is aangevangen. Ten slotte is er nog de effectief uitgevoerde Route.
+There are Routes associated with a Trip. There are the possible Routes proposed by a Route Planner, for example, and the Route ultimately chosen from them. There may be several selected Routes if the Passenger changes his Route once the Trip has begun. Finally, there is the Route that is actually executed.
 </p>
  
 <p>
-Een Route is een opeenvolging van Routesegmenten waarbij een segment het deel van de Route voorstelt dat met hetzelfde vervoermiddel wordt afgelegd. Zo kan een Reis bv. bestaan uit een segment gerealiseerd met de auto, een tweede segment met de trein, en een laatste segment te voet. Een Overstap tussen twee dezelfde vervoermiddelen (bv. van de ene trein op de andere) zal ook twee Routesegmenten creëren. De klasse Routeknoop beschrijft het begin- en eindpunt van het Routesegment. De klasse Overstap kan gebruikt worden om Reizen eenvoudiger te beschrijven. Bv. de afgelegde weg van perron 2 naar perron 8 kan beschreven worden als een volwaardig Routesegment of beknopter gemodelleerd worden als een Overstap.
+A Route is a sequence of Route segments where a segment represents the part of the Route travelled by the same means of transport. For example, a Trip may consist of a segment realised by car, a second segment by train, and a final segment on foot. A Transfer between two same modes of transport (e.g. from one train to another) will also create two Route segments. The class Route node describes the start and end point of the Route segment. The class Transition can be used to describe Trips more simply. E.g. the trip from platform 2 to platform 8 can be described as a full Route Segment or more concisely modelled as a Transfer.
 </p>
  
 <p>
-Een Reis wordt vastgelegd door één of meerdere Boekingen waarbij de Reiziger de nodige Vervoersbewijzen verkrijgt voor de Mobiliteitsdiensten waarvan hij gebruik maakt. Een Boeking kan mogelijk een Reservatie inhouden van een bepaalde Resource, bv. een parkeerplaats, een zitplaats op een trein etc. Een Reiziger kan echter ook op voorhand al over de nodige Vervoersbewijzen beschikken zoals in het geval van een abonnement of een tienrittenkaart.</p>
- 
-<p>
-De Mobiliteitsdienst neemt een centrale rol op in het model en beschrijft wat de Aanbieder in huis heeft om de verplaatsing van personen tussen locaties mogelijk te maken. Dat kunnen lijndiensten of deelsteps zijn, maar evengoed parkeerplaatsen of fietspompen. Een Mobiliteitsdienst kan andere Mobiliteitsdiensten omvatten, bv. in het geval van een MaaS-aanbieder die verschillende diensten integreert tot één dienst, maar ook bij een Aanbieder die zijn diensten beschrijft op verschillende granulariteitsniveaus (bv. op een hoog niveau, de dienst "deelmobiliteit in Vlaanderen" en op een lager niveau, de diensten "deelauto's in Antwerpen" en "deelfietsen in Gent").
+A Trip is defined by one or more Bookings whereby the Passenger acquires the necessary Tickets for the Mobility Services he uses. A Reservation can possibly include a Reservation of a certain Resource, e.g. a parking place, a seat on a train, etc. A Passenger may also acquire the necessary Tickets in advance, such as in the case of a season ticket or a ten-ride ticket.
 </p>
  
 <p>
-Een Mobiliteitsdienst wordt uitgevoerd door een Uitvoerder (dikwijls maar niet altijd gelijk aan de Aanbieder), en heeft een zekere Toegankelijkheid en Beschikbaarheid. Een Mobiliteitsdienst wordt doorgaans aangeboden binnen een bepaald Formeel Kader zoals een wet, en heeft middels een Licentie de nodige toestemming verkregen om te mogen opereren in een bepaald gebied. Een Mobiliteitsdienst beschikt over een aantal Resources (bv. parkeerplaatsen bij een carpoolparking, zitplaatsen op een trein, auto’s in het geval van autodelen etc.).
+The Mobility Service takes a central role in the model and describes what the Provider has in place to enable the movement of people between locations. This can be scheduled services or shared steps, but also parking spaces or bicycle pumps. A Mobility Service can include other Mobility Services, e.g. in the case of a MaaS Provider integrating different services into one service, but also in the case of a Provider describing its services at different levels of granularity (e.g. at a high level, the service "shared mobility in Flanders" and at a lower level, the services "shared cars in Antwerp" and "shared bicycles in Ghent").
 </p>
  
 <p>
-Het Transportnetwerk, ten slotte, bestaat uit verschillende Transportobjecten. In het bijzonder beschrijven we Transportconnecties, Transportknopen (zoals haltes, stations etc.) en Transportgebieden (zoals mobipunten, dropzones etc.). We maakten hierbij gebruik van het vocabularium <a href="https://data.vlaanderen.be/ns/transportnetwerk">OSLO-Transportnetwerk</a>.
+A Mobility Service is performed by an Operator (often but not always the same as the Provider), and has a certain Accessibility and Availability. A Mobility Service is usually offered within a certain Formal Framework, such as a law, and has obtained through a License the necessary permission to operate in a certain area. A Mobility Service has a number of Resources (e.g. parking spaces at a car pool, seats on a train, cars in the case of car sharing etc.).
+</p>
+ 
+<p>
+Finally, the Transport Network consists of different Transport Objects. In particular, we describe Transport Connections, Transport Nodes (E.g. stops, stations etc.) and Transport Areas (E.g. mobipoints, dropzones etc.). We used the Vocabulary <a href="https://data.vlaanderen.be/ns/transportnetwerk">OSLO-Transportnetwerk</a>.
 </p>
 
 <p>
-Enumeraties worden in principe buiten het applicatieprofiel beschreven, de in het diagram weergegeven enumeratiewaarden zijn dus illustratief.
+Enumerations are basically described outside the application profile, so the enumeration values shown in the diagram are illustrative.
 </p>
  
 {% endblock %}
