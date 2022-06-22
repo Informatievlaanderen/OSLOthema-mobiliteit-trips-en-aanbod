@@ -6,15 +6,15 @@
       "name": "Aanbieder",
       "label": {
         "nl": "Aanbieder",
-        "en": "Enter your translation here BERT"
+        "en": "Provider"
       },
       "definition": {
         "nl": "Geregistreerde Organisatie die Mobiliteitsdiensten aanbiedt.",
-        "en": "Enter your translation here"
+        "en": "Registered Organisation providing Mobility Services."
       },
       "usage": {
         "nl": "Onder een Geregistreerde Organisaties verstaan we een Organisatie met een juridisch statuut (vastgelegd door registratie), bv NV, VZW...",
-        "en": "Enter your translation here"
+        "en": "By a Registered Organisation, we mean an organisation with a legal status (established through registration), e.g. LC, NPO..."
       }
     },
     {
@@ -22,15 +22,15 @@
       "name": "Beschikbaarheid",
       "label": {
         "nl": "Beschikbaarheid",
-        "en": "Enter your translation here"
+        "en": "Availability"
       },
       "definition": {
         "nl": "Mate waarin iets voorhanden is voor gebruik.",
-        "en": "Enter your translation here"
+        "en": "Degree to which something is available for use."
       },
       "usage": {
         "nl": "Bv uren waarin een dienst wordt aangeboden of openingsuren van een gebouw.",
-        "en": "Enter your translation here"
+        "en": "E.g. hours when a service is offered or opening hours of a building."
       }
     },
     {
@@ -38,15 +38,15 @@
       "name": "Boeking",
       "label": {
         "nl": "Boeking",
-        "en": "Enter your translation here"
+        "en": "Booking"
       },
       "definition": {
         "nl": "Het vastleggen van een Reis door aankoop van een Vervoersbewijs en/of het reserveren van een Resource.",
-        "en": "Enter your translation here"
+        "en": "Committing to a Journey by purchasing a Ticket and/or reserving a Resource."
       },
       "usage": {
         "nl": "Bv het aankopen van een treinticket of het reserveren van een zitplaats op de trein.",
-        "en": "Enter your translation here"
+        "en": "E.g. buying a train ticket or reserving a seat on the train."
       }
     },
     {
@@ -54,11 +54,11 @@
       "name": "Dienstregeling",
       "label": {
         "nl": "Dienstregeling",
-        "en": "Enter your translation here"
+        "en": "Timetable"
       },
       "definition": {
         "nl": "Planning in tijd en ruimte van een dienst.",
-        "en": "Enter your translation here"
+        "en": "Planning in time and space of a service."
       }
     },
     {
@@ -66,15 +66,15 @@
       "name": "Kenmerk",
       "label": {
         "nl": "Kenmerk",
-        "en": "Enter your translation here"
+        "en": "Characteristic"
       },
       "definition": {
         "nl": "Eigenschap van de Reiziger.",
-        "en": "Enter your translation here"
+        "en": "Feature of the Traveller."
       },
       "usage": {
         "nl": "Bv leeftijd, beperking, rijbewijs.",
-        "en": "Enter your translation here"
+        "en": "E.g. Age, disability, driving license."
       }
     },
     {
@@ -82,11 +82,11 @@
       "name": "Licentie",
       "label": {
         "nl": "Licentie",
-        "en": "Enter your translation here"
+        "en": "License"
       },
       "definition": {
         "nl": "Formele toestemming om een Mobiliteitsdienst aan te bieden.",
-        "en": "Enter your translation here"
+        "en": "Formal authorisation to offer a Mobility Service."
       }
     },
     {
@@ -94,15 +94,15 @@
       "name": "Mobiliteitsdienst",
       "label": {
         "nl": "Mobiliteitsdienst",
-        "en": "Enter your translation here"
+        "en": "MobilityService"
       },
       "definition": {
         "nl": "Dienstverlening die verplaatsingen van Personen tussen Locaties mogelijk maakt.",
-        "en": "Enter your translation here"
+        "en": "Service that enables movement of Persons between Locations."
       },
       "usage": {
         "nl": "Hieronder verstaan we zowel klassieke mobiliteitsdiensten zoals openbaar vervoer (typisch aangeboden als lijndienst, bv metrolijn 5 in Brussel), maar ook deelvervoer zoals free floating deelsteps (bv deelsteps in grote steden).",
-        "en": "Enter your translation here"
+        "en": "This includes classic mobility services such as public transport (typically offered as a scheduled service, e.g. Metro Line 5 in Brussels), but also partial transport such as free-floating partial steps (e.g. partial steps in large cities)."
       }
     },
     {
@@ -110,15 +110,15 @@
       "name": "Overstap",
       "label": {
         "nl": "Overstap",
-        "en": "Enter your translation here"
+        "en": "Transfer"
       },
       "definition": {
         "nl": "Logische verbinding tussen twee Routeknopen.",
-        "en": "Enter your translation here"
+        "en": "Logical connection between two Route nodes."
       },
       "usage": {
         "nl": "Bedoeld om de overgang tussen twee Routesegmenten te beschrijven indien deze niet zelf door een Routesegment wordt voorgesteld. Men kan overstappen tussen twee dezelfde Routeknopen (bv overstap van de ene trein op de andere in hetzelfde station) of tussen twee verschillende (bv overstap van de parking bij het station naar - de perrons van - het station).",
-        "en": "Enter your translation here"
+        "en": "Means to describe the transition between two Route segments if not represented by a Route segment itself. One can interchange between two same Route nodes (e.g. changing from one train to another at the same station) or between two different ones (e.g. interchanging from the station car park to the station platforms)."
       }
     },
     {
@@ -126,11 +126,11 @@
       "name": "Pseudoniem",
       "label": {
         "nl": "Pseudoniem",
-        "en": "Enter your translation here"
+        "en": "Pseudonym"
       },
       "definition": {
         "nl": "Naam van een Persoon die afwijkt van zijn werkelijke naam.",
-        "en": "Enter your translation here"
+        "en": "Name of a Person differing from his real name."
       }
     },
     {
@@ -138,11 +138,11 @@
       "name": "Reiziger",
       "label": {
         "nl": "Reiziger",
-        "en": "Enter your translation here"
+        "en": "Traveler"
       },
       "definition": {
         "nl": "Persoon die een Reis onderneemt of wil ondernemen.",
-        "en": "Enter your translation here"
+        "en": "Person who undertakes or wants to undertake a Journey."
       }
     },
     {
@@ -150,11 +150,11 @@
       "name": "Reservatie",
       "label": {
         "nl": "Reservatie",
-        "en": "Enter your translation here"
+        "en": "Reservation"
       },
       "definition": {
         "nl": "Kenmerken van de Reservatie van een Resource bij een Boeking.",
-        "en": "Enter your translation here"
+        "en": "Characteristics of the Reservation of a Resource at a Booking."
       }
     },
     {
@@ -162,15 +162,15 @@
       "name": "Resource",
       "label": {
         "nl": "Resource",
-        "en": "Enter your translation here"
+        "en": "Resource"
       },
       "definition": {
         "nl": "Middel dat de Mobiliteitsdienst aan de Reiziger kan aanbieden om zijn verplaatsing te maken.",
-        "en": "Enter your translation here"
+        "en": "Means the Mobility Service can offer to the Passenger to make the trip."
       },
       "usage": {
         "nl": "Bv zitplaats op een trein, deelfiets aan een station, parkeerplaats in een parking.",
-        "en": "Enter your translation here"
+        "en": "E.g. a seat on a train, a shared bicycle at a station, a parking space in a car park."
       }
     },
     {
@@ -178,11 +178,11 @@
       "name": "Route",
       "label": {
         "nl": "Route",
-        "en": "Enter your translation here"
+        "en": "Route"
       },
       "definition": {
         "nl": "Mogelijke, gekozen of afgelegde weg tussen twee Locaties (resp het vertrekpunt en het aankomstpunt).",
-        "en": "Enter your translation here"
+        "en": "Possible, chosen or travelled route between two Locations (respectively the point of departure and the point of arrival)"
       }
     },
     {
@@ -190,15 +190,15 @@
       "name": "Routebeschrijving",
       "label": {
         "nl": "Routebeschrijving",
-        "en": "Enter your translation here"
+        "en": "RouteDescription"
       },
       "definition": {
         "nl": "Beschrijving van een Route.",
-        "en": "Enter your translation here"
+        "en": "Description of a route."
       },
       "usage": {
         "nl": "Typisch de beschrijving zoals ze in een Routeplanner zou worden getoond.",
-        "en": "Enter your translation here"
+        "en": "Typically the description as it would be shown in a Route Planner."
       }
     },
     {
@@ -206,11 +206,11 @@
       "name": "Routeknoop",
       "label": {
         "nl": "Routeknoop",
-        "en": "Enter your translation here"
+        "en": "RouteNode"
       },
       "definition": {
         "nl": "Significante positie in de Route die steeds samenvalt met het begin of het einde van een Routesegment.",
-        "en": "Enter your translation here"
+        "en": "Significant position in the Route that always coincides with the beginning or the end of a Route segment."
       }
     },
     {
@@ -218,11 +218,11 @@
       "name": "Routeplanner",
       "label": {
         "nl": "Routeplanner",
-        "en": "Enter your translation here"
+        "en": "RoutePlanner"
       },
       "definition": {
         "nl": "Software waarmee de Route van een Reis kan worden berekend.",
-        "en": "Enter your translation here"
+        "en": "Software that can calculate the Route of a Journey."
       }
     },
     {
@@ -230,11 +230,11 @@
       "name": "Routesegment",
       "label": {
         "nl": "Routesegment",
-        "en": "Enter your translation here"
+        "en": "RouteSegment"
       },
       "definition": {
         "nl": "Deel van een Route dat zonder Overstap wordt afgelegd met hetzelfde vervoermiddel.",
-        "en": "Enter your translation here"
+        "en": "Part of a Route that is travelled without a transfer using the same means of transport."
       }
     },
     {
@@ -242,15 +242,15 @@
       "name": "Toegankelijkheid",
       "label": {
         "nl": "Toegankelijkheid",
-        "en": "Enter your translation here"
+        "en": "Accessibility"
       },
       "definition": {
         "nl": "Mate waarin iets bereikt kan worden.",
-        "en": "Enter your translation here"
+        "en": "Degree to which something can be accessed."
       },
       "usage": {
         "nl": "Bv fysieke toegankelijkheid van een dienst of gebouw voor personen met een beperking.",
-        "en": "Enter your translation here"
+        "en": "E.g. physical accessibility of a service or building for people with disabilities."
       }
     },
     {
@@ -258,11 +258,11 @@
       "name": "Transportconnectie",
       "label": {
         "nl": "Transportconnectie",
-        "en": "Enter your translation here"
+        "en": "TransportConnection"
       },
       "definition": {
         "nl": "Logische verbinding tussen twee of meer Transportobjecten in verschillende Transportnetwerken.",
-        "en": "Enter your translation here"
+        "en": "Logical connection between two or more Transport objects in different Transport Networks."
       }
     },
     {
@@ -270,11 +270,11 @@
       "name": "Uitvoerder",
       "label": {
         "nl": "Uitvoerder",
-        "en": "Enter your translation here"
+        "en": "Executor"
       },
       "definition": {
         "nl": "Agent die Mobiliteitsdienst uitvoert.",
-        "en": "Enter your translation here"
+        "en": "Agent performing the Mobility Service."
       }
     },
     {
@@ -282,15 +282,15 @@
       "name": "Vervoersbewijs",
       "label": {
         "nl": "Vervoersbewijs",
-        "en": "Enter your translation here"
+        "en": "TransportTicket"
       },
       "definition": {
         "nl": "Bewijs van bepaald recht op vervoer of diensten daarmee geassocieerd.",
-        "en": "Enter your translation here"
+        "en": "Proof of certain right to transport or services associated with it."
       },
       "usage": {
         "nl": "Vervoer of dienst zijn nog te consumeren of al geconsumeerd. Typisch een ticket voor of een abonnement op een Mobiliteitsdienst zoals openbaar vervoer, maar kan ook bv een parkeerticket zijn.",
-        "en": "Enter your translation here"
+        "en": "Transport or service to be consumed or already consumed. Typically a ticket or a subscription to a mobility service such as public transport, but can also be a parking ticket, for example."
       }
     },
     {
@@ -298,15 +298,15 @@
       "name": "Voorkeur",
       "label": {
         "nl": "Voorkeur",
-        "en": "Enter your translation here"
+        "en": "Preference"
       },
       "definition": {
         "nl": "Voorkeur van de Reiziger.",
-        "en": "Enter your translation here"
+        "en": "Preference of the Traveler"
       },
       "usage": {
         "nl": "Bv routetype, vervoermiddel...",
-        "en": "Enter your translation here"
+        "en": "E.g. route type, means of transport..."
       }
     },
     {
@@ -314,15 +314,15 @@
       "name": "Waarde",
       "label": {
         "nl": "Waarde",
-        "en": "Enter your translation here"
+        "en": "Value"
       },
       "definition": {
         "nl": "De concrete, kwantitatieve of kwalitatieve invulling van een grootheid of categorie.",
-        "en": "Enter your translation here"
+        "en": "The concrete, quantitative or qualitative interpretation of a quantity or category."
       },
       "usage": {
         "nl": "Kwantitatief bv gewicht, kwalitatief bv categorie.",
-        "en": "Enter your translation here"
+        "en": "Quantitative e.g. weight, qualitative e.g. category."
       }
     }
   ],
@@ -332,11 +332,11 @@
       "name": "voorkeur",
       "label": {
         "nl": "voorkeur",
-        "en": "Enter your translation here"
+        "en": "preference"
       },
       "definition": {
         "nl": "Voorkeuren van de Reiziger.",
-        "en": "Enter your translation here"
+        "en": "Preferences of the Traveler."
       }
     },
     {
@@ -344,11 +344,11 @@
       "name": "vervoersautoriteit",
       "label": {
         "nl": "vervoersautoriteit",
-        "en": "Enter your translation here"
+        "en": "transportAuthority"
       },
       "definition": {
         "nl": "Publieke Organisatie verantwoordelijk voor het verkeersmanagement of de planning, controle of het beheer van een bepaald vervoersnetwerk of vervoerswijze, of beide, die onder haar territoriale bevoegdheid vallen.",
-        "en": "Enter your translation here"
+        "en": "Public organisation responsible for traffic management or the planning, control or management of a particular transport network or mode of transport, or both, that falls under its territorial competence."
       }
     },
     {
@@ -356,15 +356,15 @@
       "name": "vertrekpunt",
       "label": {
         "nl": "vertrekpunt",
-        "en": "Enter your translation here"
+        "en": "startingPoint"
       },
       "definition": {
         "nl": "Locatie waar de Route begint.",
-        "en": "Enter your translation here"
+        "en": "Location where the Route starts."
       },
       "usage": {
         "nl": "Coordinaten van dit punt kunnen afgeleid worden uit de set van Routesegmenten. Vooral nuttig om de ligging dmv een toponiem, adreslabel of verwijzing naar een plaats aan te duiden.",
-        "en": "Enter your translation here"
+        "en": "Coordinates of this point can be derived from the set of Route segments. Especially useful to indicate the location by a toponym, address label or reference to a place."
       }
     },
     {
@@ -372,15 +372,15 @@
       "name": "vertrekknoop",
       "label": {
         "nl": "vertrekknoop",
-        "en": "Enter your translation here"
+        "en": "departureNode"
       },
       "definition": {
         "nl": "Knoop waar het Routesegment begint.",
-        "en": "Enter your translation here"
+        "en": "Node where the Route Segment starts."
       },
       "usage": {
         "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt",
-        "en": "Enter your translation here"
+        "en": "Useful if at the departure or arrival point a Mobility Service or Resource is used (e.g. car park) or to indicate with which Transport Object the point coincides."
       }
     },
     {
@@ -388,15 +388,15 @@
       "name": "verkregen binnen",
       "label": {
         "nl": "verkregen binnen",
-        "en": "Enter your translation here"
+        "en": "obtainedWithin"
       },
       "definition": {
         "nl": "Formeel Kader waarbinnen de Licentie is verkregen.",
-        "en": "Enter your translation here"
+        "en": "Formal Framework within which the Licence is obtained."
       },
       "usage": {
         "nl": "Bv de set van criteria waaraan een Mobiliteitsdienst moet voldoen.",
-        "en": "Enter your translation here"
+        "en": "E.g. the set of criteria that a Mobility Service has to meet."
       }
     },
     {
@@ -404,11 +404,11 @@
       "name": "uitvoerder",
       "label": {
         "nl": "uitvoerder",
-        "en": "Enter your translation here"
+        "en": "executor"
       },
       "definition": {
         "nl": "Uitvoerder van het Routesegment.",
-        "en": "Enter your translation here"
+        "en": "Executor of the Route Segment."
       }
     },
     {
@@ -416,15 +416,15 @@
       "name": "uitgevoerde route",
       "label": {
         "nl": "uitgevoerde route",
-        "en": "Enter your translation here"
+        "en": "performedRoute"
       },
       "definition": {
         "nl": "Route die uiteindelijk uitgevoerd is om de Reis te realiseren.",
-        "en": "Enter your translation here"
+        "en": "Route finally implemented to realise the Journey."
       },
       "usage": {
         "nl": "Werkelijke aankomst- en vertrektijdstip, reisduur etc.",
-        "en": "Enter your translation here"
+        "en": "Actual time of arrival and departure, duration of journey, etc."
       }
     },
     {
@@ -432,14 +432,14 @@
       "name": "uitgevoerd door",
       "label": {
         "nl": "uitgevoerd door",
-        "en": "Enter your translation here"
+        "en": "performedBy"
       },
       "definition": {
         "nl": "Uitvoerder van de Mobiliteitsdienst.",
-        "en": "Enter your translation here"
+        "en": "Executor of the Mobility Service."
       },
       "usage": {
-        "nl": "Kan verschillen van de Aanbieder.",
+        "nl": "May differ from the Provider.",
         "en": "Enter your translation here"
       }
     },
@@ -448,15 +448,15 @@
       "name": "routebeschrijving",
       "label": {
         "nl": "routebeschrijving",
-        "en": "Enter your translation here"
+        "en": "routeDescription"
       },
       "definition": {
         "nl": "Beschrijving van de Route.",
-        "en": "Enter your translation here"
+        "en": "Description of the Route"
       },
       "usage": {
         "nl": "Af te leiden uit andere kenmerken van de Route, bv de routesegmenten waaruit de Route bestaat en de kenmerken daarvan.",
-        "en": "Enter your translation here"
+        "en": "Inferred from other features of the Route, e.g. the route segments that make up the Route and their characteristics."
       }
     },
     {
@@ -464,15 +464,15 @@
       "name": "reisduur",
       "label": {
         "nl": "reisduur",
-        "en": "Enter your translation here"
+        "en": "travelTime"
       },
       "definition": {
         "nl": "Tijd waarin de Route wordt afgelegd.",
-        "en": "Enter your translation here"
+        "en": "Time in which the Route is traveled."
       },
       "usage": {
         "nl": "Af te leiden uit andere kenmerken van de Route, bv uit het vertrek- en aankomsttijdstip.",
-        "en": "Enter your translation here"
+        "en": "Inferred from other characteristics of the Route, e.g. time of departure and arrival."
       }
     },
     {
@@ -480,11 +480,11 @@
       "name": "reis",
       "label": {
         "nl": "reis",
-        "en": "Enter your translation here"
+        "en": "trip"
       },
       "definition": {
         "nl": "Reis die geboekt wordt.",
-        "en": "Enter your translation here"
+        "en": "Journey that is booked."
       }
     },
     {
@@ -492,15 +492,15 @@
       "name": "pseudoniem",
       "label": {
         "nl": "pseudoniem",
-        "en": "Enter your translation here"
+        "en": "pseudonym"
       },
       "definition": {
         "nl": "Naam van de Reiziger die afwijkt van zijn werkelijke naam.",
-        "en": "Enter your translation here"
+        "en": "Name of the Passenger which differs from his actual name."
       },
       "usage": {
         "nl": "Doel is dat de werkelijke identiteit van de Reiziger niet meer achterhaald kan worden maar dat tripdata toch op individueel niveau bestudeerd kan worden.",
-        "en": "Enter your translation here"
+        "en": "The aim is that the real identity of the Traveller can no longer be traced but that data can still be studied on an individual level."
       }
     },
     {
@@ -508,11 +508,11 @@
       "name": "prijsplan",
       "label": {
         "nl": "prijsplan",
-        "en": "Enter your translation here"
+        "en": "pricePlan"
       },
       "definition": {
         "nl": "Prijsplan van de Mobiliteitsdienst.",
-        "en": "Enter your translation here"
+        "en": "Price plan of the Mobility Service."
       }
     },
     {
@@ -520,15 +520,15 @@
       "name": "periode",
       "label": {
         "nl": "periode",
-        "en": "Enter your translation here"
+        "en": "period"
       },
       "definition": {
         "nl": "Periode waarin iets beschikbaar is.",
-        "en": "Enter your translation here"
+        "en": "Period in which something is available"
       },
       "usage": {
         "nl": "Bv startdatum zonder einddatum voor dienstverlening die nog actief is of een aanduiding van het seizoen waarin de dienstverlening wordt aangeboden. Een ingevulde einddatum geeft aan wanneer de dienstverlening werd beëindigd. Begin- en einddatum volgens ISO8601 syntax.",
-        "en": "Enter your translation here"
+        "en": "E.g. start date without end date for services that are still active or an indication of the season in which the services are offered. A completed end date indicates when the service was terminated. Start and end date according to ISO8601 syntax."
       }
     },
     {
@@ -536,11 +536,11 @@
       "name": "overstaptijd",
       "label": {
         "nl": "overstaptijd",
-        "en": "Enter your translation here"
+        "en": "transferTime"
       },
       "definition": {
         "nl": "Tijd waarin de overstap gebeurt.",
-        "en": "Enter your translation here"
+        "en": "Time in which the transfer happens."
       }
     },
     {
@@ -548,23 +548,23 @@
       "name": "overstap",
       "label": {
         "nl": "overstap",
-        "en": "Enter your translation here"
+        "en": "transfer"
       },
       "definition": {
         "nl": "Routeknoop waarnaar wordt overgestapt.",
-        "en": "Enter your translation here"
+        "en": "Route node to which is switched."
       }
     },
     {
       "EA-Guid": "{A9986069-25A2-4c5d-94B4-589C7B5A7D22}",
       "name": "onderneemt",
       "label": {
-        "nl": "Onderneemt",
-        "en": "Enter your translation here"
+        "nl": "onderneemt",
+        "en": "undertakes"
       },
       "definition": {
         "nl": "Reis die een Reiziger onderneemt of wil ondernemen.",
-        "en": "Enter your translation here"
+        "en": "Trip that a traveler undertakes or wants to undertake."
       }
     },
     {
@@ -572,11 +572,11 @@
       "name": "onderdeel",
       "label": {
         "nl": "onderdeel",
-        "en": "Enter your translation here"
+        "en": "part"
       },
       "definition": {
-        "nl": "Deel van de dienst of infrastructuur waarop de Toegankelijkheid betrekking heeft..",
-        "en": "Enter your translation here"
+        "nl": "Deel van de dienst of infrastructuur waarop de Toegankelijkheid betrekking heeft.",
+        "en": "Part of the service or infrastructure to which Accessibility relates."
       }
     },
     {
@@ -584,15 +584,15 @@
       "name": "omvat",
       "label": {
         "nl": "omvat",
-        "en": "Enter your translation here"
+        "en": "includes"
       },
       "definition": {
         "nl": "Meer specifieke Mobiliteitsdiensten waaruit de Mobiliteitsdienst is samengesteld.",
-        "en": "Enter your translation here"
+        "en": "More specific Mobility Services that make up the Mobility Service."
       },
       "usage": {
         "nl": "Bv openbaar vervoer in Brussel aangeboden door de MIVB bestaat uit een aantal metrolijnen bv lijn 5 Erasmus-Herman-Debroux.Of een MAAS-aanbieder integreert meerdere diensten, bv openbaar vervoer en deelvervoer.",
-        "en": "Enter your translation here"
+        "en": "For example, public transport in Brussels offered by STIB consists of a number of metro lines, e.g. line 5 Erasmus-Herman-Debroux, or a MAAS provider integrates several services, e.g. public transport and shared transport."
       }
     },
     {
@@ -600,11 +600,11 @@
       "name": "niveau",
       "label": {
         "nl": "niveau",
-        "en": "Enter your translation here"
+        "en": "level"
       },
       "definition": {
         "nl": "Niveau van toegankelijkheid.",
-        "en": "Enter your translation here"
+        "en": "Level of accessibility"
       }
     },
     {
@@ -612,11 +612,11 @@
       "name": "mogelijke route",
       "label": {
         "nl": "mogelijke route",
-        "en": "Enter your translation here"
+        "en": "possibleRoute"
       },
       "definition": {
         "nl": "Routes die gevolgd kunnen worden om de Reis uit te voeren.",
-        "en": "Enter your translation here"
+        "en": "Routes that can be followed to perform the Journey."
       }
     },
     {
@@ -624,11 +624,11 @@
       "name": "link",
       "label": {
         "nl": "link",
-        "en": "Enter your translation here"
+        "en": "link"
       },
       "definition": {
         "nl": "Opeenvolging van Gerichte Links waaruit het Routesegment bestaat.",
-        "en": "Enter your translation here"
+        "en": "Sequence of Directed Links that make up the Route Segment."
       }
     },
     {
@@ -636,11 +636,11 @@
       "name": "licentie",
       "label": {
         "nl": "licentie",
-        "en": "Enter your translation here"
+        "en": "license"
       },
       "definition": {
         "nl": "Licentie waaronder de Mobiliteitsdienst wordt aangeboden.",
-        "en": "Enter your translation here"
+        "en": "Licence under which the Mobility Service is offered."
       }
     },
     {
@@ -648,15 +648,15 @@
       "name": "kostprijs",
       "label": {
         "nl": "kostprijs",
-        "en": "Enter your translation here"
+        "en": "costPrice"
       },
       "definition": {
         "nl": "Prijs van de Route.",
-        "en": "Enter your translation here"
+        "en": "Price of the Route."
       },
       "usage": {
         "nl": "Bv de som van de kostprijs van de aangekochte Vervoersbewijzen.",
-        "en": "Enter your translation here"
+        "en": "E.g. the sum of the cost of the purchased Tickets."
       }
     },
     {
@@ -664,11 +664,11 @@
       "name": "kenmerk",
       "label": {
         "nl": "kenmerk",
-        "en": "Enter your translation here"
+        "en": "characteristic"
       },
       "definition": {
         "nl": "Kenmerk van de Reiziger.",
-        "en": "Enter your translation here"
+        "en": "Characteristic of the Traveler"
       }
     },
     {
@@ -676,15 +676,15 @@
       "name": "is medereiziger van",
       "label": {
         "nl": "is medereiziger van",
-        "en": "Enter your translation here"
+        "en": "isFellowTravelerOf"
       },
       "definition": {
         "nl": "Reiziger die de Reiziger vergezelt tijdens de Reis.",
-        "en": "Enter your translation here"
+        "en": "Traveller who accompanies another Traveller on the Journey."
       },
       "usage": {
         "nl": "Bv de kinderen van een gezin dat samenreist. Van belang bij bv bij het bepalen van de prijs van een Vervoersbewijs wanneer jonge kinderen gratis meereizen.",
-        "en": "Enter your translation here"
+        "en": "E.g. the children of a family travelling together. Important e.g. when determining the price of a Ticket when young children travel for free."
       }
     },
     {
@@ -692,15 +692,15 @@
       "name": "integreert info over",
       "label": {
         "nl": "integreert info over",
-        "en": "Enter your translation here"
+        "en": "integratesInfoOn"
       },
       "definition": {
         "nl": "Info over Transportnetwerken die een Routeplanner gebruikt om Routes te berekenen.",
-        "en": "Enter your translation here"
+        "en": "Info about Transport Networks that a Route Planner uses to calculate Routes."
       },
       "usage": {
         "nl": "Die integratie houdt typisch in  het samenvoegen van beschrijvingen van Transportnetwerken tot een graph waarover kortste, snelste etc paden kunnen worden berekend.",
-        "en": "Enter your translation here"
+        "en": "This integration typically involves merging descriptions of Transport Networks into a graph over which shortest, fastest etc paths can be calculated."
       }
     },
     {
@@ -708,15 +708,15 @@
       "name": "identificator",
       "label": {
         "nl": "identificator",
-        "en": "Enter your translation here"
+        "en": "identifier"
       },
       "definition": {
         "nl": "Identificator van de Resource.",
-        "en": "Enter your translation here"
+        "en": "Identifier of the Resource"
       },
       "usage": {
         "nl": "Bv nummerplaat van de huurauto, nummer vd zitplaats...",
-        "en": "Enter your translation here"
+        "en": "E.g. number plate of the rental car, number of the seating place..."
       }
     },
     {
@@ -724,15 +724,15 @@
       "name": "gekozen route",
       "label": {
         "nl": "gekozen route",
-        "en": "Enter your translation here"
+        "en": "chosenRoute"
       },
       "definition": {
         "nl": "Route die de Reiziger kiest uit de mogelijke Routes.",
-        "en": "Enter your translation here"
+        "en": "Route which the Passenger chooses from the possible Routes."
       },
       "usage": {
         "nl": "Eventueel meer dan 1 gekozen Route als de reiziger onderweg van Route verandert.",
-        "en": "Enter your translation here"
+        "en": "Possibly more than 1 selected Route if the traveller changes Route on the way."
       }
     },
     {
@@ -740,11 +740,11 @@
       "name": "gebruiker",
       "label": {
         "nl": "gebruiker",
-        "en": "Enter your translation here"
+        "en": "user"
       },
       "definition": {
         "nl": "Type gebruiker waarvoor de beschikbaarheid geldt.",
-        "en": "Enter your translation here"
+        "en": "Type of user to which the availability applies."
       }
     },
     {
@@ -752,15 +752,15 @@
       "name": "duur",
       "label": {
         "nl": "duur",
-        "en": "Enter your translation here"
+        "en": "duration"
       },
       "definition": {
         "nl": "Totale tijd waarvan men met het Vervoersbewijs van een Mobiliteitsdienst gebruik mag maken.",
-        "en": "Enter your translation here"
+        "en": "Total time a Mobility Service can be used with the Ticket."
       },
       "usage": {
         "nl": "Bv 1 uur in het geval van een metroticket of 1 dag voor een dagticket of een krediet van 120 minuten deelstep.",
-        "en": "Enter your translation here"
+        "en": "E.g. 1 hour in the case of a metro ticket or 1 day for a day ticket or a credit of 120 minutes part step."
       }
     },
     {
@@ -768,11 +768,11 @@
       "name": "dienstregeling",
       "label": {
         "nl": "dienstregeling",
-        "en": "Enter your translation here"
+        "en": "timetable"
       },
       "definition": {
         "nl": "Schema met tijdstippen waarop iets wordt aangeboden.",
-        "en": "Enter your translation here"
+        "en": "Schedule of times when something is offered."
       }
     },
     {
@@ -780,11 +780,11 @@
       "name": "bestaat uit",
       "label": {
         "nl": "bestaat uit",
-        "en": "Enter your translation here"
+        "en": "consistsOf"
       },
       "definition": {
         "nl": "Opeenvolging van Routesegmenten waaruit de Route bestaat.",
-        "en": "Enter your translation here"
+        "en": "Sequence of Route Segments that make up the Route."
       }
     },
     {
@@ -792,15 +792,15 @@
       "name": "beschikbaar op",
       "label": {
         "nl": "beschikbaar op",
-        "en": "Enter your translation here"
+        "en": "availableOn"
       },
       "definition": {
         "nl": "Transportobject waarop de Mobiliteitsdienst wordt aangeboden.",
-        "en": "Enter your translation here"
+        "en": "Transport object on which the Mobility Service is offered."
       },
       "usage": {
         "nl": "Bv P+R wordt aangeboden op parking van station, deelfiets+trein aangeboden in combipunt.",
-        "en": "Enter your translation here"
+        "en": "E.g. P+R is offered in station car park, shared bicycle + train in combination point."
       }
     },
     {
@@ -808,11 +808,11 @@
       "name": "berekend met",
       "label": {
         "nl": "berekend met",
-        "en": "Enter your translation here"
+        "en": "calculatedWith"
       },
       "definition": {
         "nl": "Routeplanner waarmee de Route is berekend.",
-        "en": "Enter your translation here"
+        "en": "Route planner with which the Route is calculated."
       }
     },
     {
@@ -820,11 +820,11 @@
       "name": "bedrag",
       "label": {
         "nl": "bedrag",
-        "en": "Enter your translation here"
+        "en": "amount"
       },
       "definition": {
         "nl": "Geldbedrag dat aan de Mobiliteitsdienst kan worden besteed.",
-        "en": "Enter your translation here"
+        "en": "Amount of money that can be spent on the Mobility Service."
       }
     },
     {
@@ -832,11 +832,11 @@
       "name": "aantal",
       "label": {
         "nl": "aantal",
-        "en": "Enter your translation here"
+        "en": "number"
       },
       "definition": {
         "nl": "Aantal reizen dat men met het Vervoersbewijs kan afleggen.",
-        "en": "Enter your translation here"
+        "en": "Number of trips that can be made with the Ticket."
       }
     },
     {
@@ -844,15 +844,15 @@
       "name": "aankomstpunt",
       "label": {
         "nl": "aankomstpunt",
-        "en": "Enter your translation here"
+        "en": "arrivalPoint"
       },
       "definition": {
         "nl": "Locatie waar de Route eindigt.",
-        "en": "Enter your translation here"
+        "en": "Location where the Route ends."
       },
       "usage": {
         "nl": "Coordinaten van dit punt kunnen afgeleid worden uit de set van Routesegmenten. Vooral nuttig om de ligging dmv een toponiem, adreslabel of verwijzing naar een plaats aan te duiden.",
-        "en": "Enter your translation here"
+        "en": "Coordinates of this point can be derived from the set of Route segments. Especially useful to indicate the location by a toponym, address label or reference to a place."
       }
     },
     {
@@ -860,15 +860,15 @@
       "name": "aankomstknoop",
       "label": {
         "nl": "aankomstknoop",
-        "en": "Enter your translation here"
+        "en": "arrivalNode"
       },
       "definition": {
         "nl": "Knoop waar het Routesegment eindigt.",
-        "en": "Enter your translation here"
+        "en": "Node where the route segment ends."
       },
       "usage": {
-        "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt",
-        "en": "Enter your translation here"
+        "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt.",
+        "en": "Useful if at the departure or arrival point a Mobility Service or Resource is used (e.g. car park) or to indicate with which Transport Object the point coincides."
       }
     },
     {
@@ -876,15 +876,15 @@
       "name": "aangeboden binnen",
       "label": {
         "nl": "aangeboden binnen",
-        "en": "Enter your translation here"
+        "en": "offeredWithin"
       },
       "definition": {
         "nl": "Formeel Kader waarbinnen de Mobiliteitsdienst wordt aangeboden.",
-        "en": "Enter your translation here"
+        "en": "Formal Framework within which the Mobility Service is offered."
       },
       "usage": {
         "nl": "Bv Besluit waarin de criteria voor het vergunnen van een Mobiliteitsdienst zijn opgesomd.",
-        "en": "Enter your translation here"
+        "en": "E.g. Decree listing the criteria for authorising a Mobility Service."
       }
     },
     {
@@ -892,11 +892,11 @@
       "name": "aanbieder",
       "label": {
         "nl": "aanbieder",
-        "en": "Enter your translation here"
+        "en": "provider"
       },
       "definition": {
         "nl": "De aanbieder van de Mobiliteitsdienst.",
-        "en": "Enter your translation here"
+        "en": "The provider of the Mobility Service"
       }
     },
     {
@@ -904,15 +904,15 @@
       "name": "reisweg",
       "label": {
         "nl": "reisweg",
-        "en": "Enter your translation here"
+        "en": "itinerary"
       },
       "definition": {
         "nl": "Opeenvolging van Locaties waarvoor het Vervoersbewijs geldig is.",
-        "en": "Enter your translation here"
+        "en": "Sequence of Locations for which the Ticket is valid."
       },
       "usage": {
         "nl": "Typisch de twee opeenvolgende Locaties waartussen men mag reizen met het Vervoersbewijs, bv een treinabonnement tussen Brussel en Gent (waarbij het type Vervoersbewijs dan doorgaans \"retourticket\" is, maw ook een Reis van Gent naar Brussel is mogelijk). Maar kan ook gewoon het Gebied of de Plaats zijn waarvoor het Vervoersbewijs geldt, bv Antwerpen.",
-        "en": "Enter your translation here"
+        "en": "Typically the two consecutive Locations between which one may travel with the Ticket, e.g. a train ticket between Brussels and Ghent (whereby the Ticket type is then usually a return ticket, i.e. also a Journey from Ghent to Brussels is possible). But can also be simply the Area or Place for which the Ticket is valid, e.g. Antwerp."
       }
     },
     {
@@ -920,11 +920,11 @@
       "name": "dienst",
       "label": {
         "nl": "dienst",
-        "en": "Enter your translation here"
+        "en": "service"
       },
       "definition": {
         "nl": "Mobiliteitsdienst waarvan men met het Vervoersbewijs gebruik mag maken.",
-        "en": "Enter your translation here"
+        "en": "Mobility service which the Ticket allows one to use."
       }
     },
     {
@@ -932,11 +932,11 @@
       "name": "afstand",
       "label": {
         "nl": "afstand",
-        "en": "Enter your translation here"
+        "en": "distance"
       },
       "definition": {
         "nl": "Gecumuleerde afstand die men met het Vervoersbewijs mag afleggen.",
-        "en": "Enter your translation here"
+        "en": "Cumulative distance that can be covered with the Ticket."
       }
     },
     {
@@ -944,15 +944,15 @@
       "name": "toegankelijkheid",
       "label": {
         "nl": "toegankelijkheid",
-        "en": "Enter your translation here"
+        "en": "accesibility"
       },
       "definition": {
         "nl": "Toegankelijkheid van het Transportobject.",
-        "en": "Enter your translation here"
+        "en": "Accesibility of the Transport Object"
       },
       "usage": {
         "nl": "Bv of het Transportobject toegankelijk is voor personen met een beperking.",
-        "en": "Enter your translation here"
+        "en": "E.g. whether the Transport object is accessible for persons with a disability."
       }
     },
     {
@@ -960,15 +960,15 @@
       "name": "beschikbaarheid",
       "label": {
         "nl": "beschikbaarheid",
-        "en": "Enter your translation here"
+        "en": "availability"
       },
       "definition": {
         "nl": "Beschikbaarheid van het Transportobject.",
-        "en": "Enter your translation here"
+        "en": "Availability of the Transport Object"
       },
       "usage": {
         "nl": "Bv openingsuren.",
-        "en": "Enter your translation here"
+        "en": "E.g. opening hours"
       }
     },
     {
@@ -976,11 +976,11 @@
       "name": "vervoersbewijs",
       "label": {
         "nl": "vervoersbewijs",
-        "en": "Enter your translation here"
+        "en": "transportTicket"
       },
       "definition": {
         "nl": "Vervoersbewijs waarmee het Routesegment kan worden afgelegd of is afgelegd.",
-        "en": "Enter your translation here"
+        "en": "Ticket with which the Route Segment can be travelled or has been travelled."
       }
     },
     {
@@ -988,11 +988,11 @@
       "name": "vervoermiddel",
       "label": {
         "nl": "vervoermiddel",
-        "en": "Enter your translation here"
+        "en": "meansOfTransport"
       },
       "definition": {
         "nl": "Type vervoermiddel waarmee het Routesegment is afgelegd.",
-        "en": "Enter your translation here"
+        "en": "Type of means of transport the route segment was covered with."
       }
     },
     {
@@ -1000,11 +1000,11 @@
       "name": "vertrektijdstip",
       "label": {
         "nl": "vertrektijdstip",
-        "en": "Enter your translation here"
+        "en": "departureTime"
       },
       "definition": {
         "nl": "Tijdstip waarop het Routesegment begint.",
-        "en": "Enter your translation here"
+        "en": "Time when the route segment starts."
       }
     },
     {
@@ -1012,11 +1012,11 @@
       "name": "gerealiseerd met",
       "label": {
         "nl": "gerealiseerd met",
-        "en": "Enter your translation here"
+        "en": "realisedWith"
       },
       "definition": {
         "nl": "Resource van de Mobiliteitsdienst die de Reiziger heeft gebruikt bij het afleggen van het Routesegment.",
-        "en": "Enter your translation here"
+        "en": "Resource of the Mobility Service used by the Traveller when travelling the Route Segment."
       }
     },
     {
@@ -1024,11 +1024,11 @@
       "name": "gerealiseerd door",
       "label": {
         "nl": "gerealiseerd door",
-        "en": "Enter your translation here"
+        "en": "realisedBy"
       },
       "definition": {
         "nl": "Mobiliteitsdienst die de Reiziger heeft gebruikt bij het afleggen van het Routesegment.",
-        "en": "Enter your translation here"
+        "en": "Mobility Service which the Traveller has used in travelling the Route Segment."
       }
     },
     {
@@ -1036,11 +1036,11 @@
       "name": "aankomsttijdstip",
       "label": {
         "nl": "aankomsttijdstip",
-        "en": "Enter your translation here"
+        "en": "arrivalTime"
       },
       "definition": {
         "nl": "Tijdstip waarop het Routesegment eindigt.",
-        "en": "Enter your translation here"
+        "en": "Time when the Route Segment ends."
       }
     },
     {
@@ -1048,11 +1048,11 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "Enter your translation here"
+        "en": "actuator"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee het Routesegment is afgelegd.",
-        "en": "Enter your translation here"
+        "en": "Propulsion of the means of transport by which the route segment was covered."
       }
     },
     {
@@ -1060,15 +1060,15 @@
       "name": "vervoersbewijs",
       "label": {
         "nl": "vervoersbewijs",
-        "en": "Enter your translation here"
+        "en": "transportTicket"
       },
       "definition": {
         "nl": "Vervoersbewijs dat nodig is of gebruikt is in de Routeknoop.",
-        "en": "Enter your translation here"
+        "en": "Ticket needed or used in the Route node."
       },
       "usage": {
         "nl": "Bv het parkeerticket nodig voor het parkeren van zijn auto in de Routeknoop.",
-        "en": "Enter your translation here"
+        "en": "E.g. the parking ticket needed for parking his car in the Routeknoop."
       }
     },
     {
@@ -1076,15 +1076,15 @@
       "name": "gerealiseerd op",
       "label": {
         "nl": "gerealiseerd op",
-        "en": "Enter your translation here"
+        "en": "realisedOn"
       },
       "definition": {
         "nl": "Transportobject dat met de Routeknoop samenvalt.",
-        "en": "Enter your translation here"
+        "en": "Transport object that coincides with the Route node."
       },
       "usage": {
         "nl": "Bv de halte waar men op- of afstapt, de parking waar men zijn auto parkeert, het deelfietsstation waar men een fiets ophaalt.",
-        "en": "Enter your translation here"
+        "en": "For example, the bus stop where you get on or off, the car park where you park your car, the shared bicycle station where you pick up your bicycle."
       }
     },
     {
@@ -1092,15 +1092,15 @@
       "name": "gerealiseerd met",
       "label": {
         "nl": "gerealiseerd met",
-        "en": "Enter your translation here"
+        "en": "realisedWith"
       },
       "definition": {
         "nl": "Resource van de Mobiliteitsdienst die de reiziger heeft gebruikt in de Routeknoop.",
-        "en": "Enter your translation here"
+        "en": "Resource of the Mobility Service that the traveller has used in the Route node."
       },
       "usage": {
         "nl": "Bv parkeerplaats.",
-        "en": "Enter your translation here"
+        "en": "E.g. parking space"
       }
     },
     {
@@ -1108,15 +1108,15 @@
       "name": "gerealiseerd door",
       "label": {
         "nl": "gerealiseerd door",
-        "en": "Enter your translation here"
+        "en": "realisedBy"
       },
       "definition": {
         "nl": "Mobiliteitsdienst die de Reiziger heeft gebruikt in de Routeknoop.",
-        "en": "Enter your translation here"
+        "en": "Mobility service used by the Passenger in the Route node."
       },
       "usage": {
         "nl": "Bv parking.",
-        "en": "Enter your translation here"
+        "en": "E.g. parking."
       }
     },
     {
@@ -1124,11 +1124,11 @@
       "name": "vertrektijdstip",
       "label": {
         "nl": "vertrektijdstip",
-        "en": "Enter your translation here"
+        "en": "departureTime"
       },
       "definition": {
         "nl": "Tijdstip waarop de Route begint.",
-        "en": "Enter your translation here"
+        "en": "Time when the Route starts."
       }
     },
     {
@@ -1136,11 +1136,11 @@
       "name": "afstand",
       "label": {
         "nl": "afstand",
-        "en": "Enter your translation here"
+        "en": "distance"
       },
       "usage": {
-        "nl": "f te leiden uit de kenmerken vd Route, typisch uit de geometrie van de Routesegmenten.",
-        "en": "Enter your translation here"
+        "nl": "Af te leiden uit de kenmerken vd Route, typisch uit de geometrie van de Routesegmenten.",
+        "en": "Derived from the characteristics of the Route, typically from the geometry of the Route segments."
       }
     },
     {
@@ -1148,11 +1148,11 @@
       "name": "aankomsttijdstip",
       "label": {
         "nl": "aankomsttijdstip",
-        "en": "Enter your translation here"
+        "en": "arrivalTime"
       },
       "definition": {
         "nl": "Tijdstip waarop de Route eindigt.",
-        "en": "Enter your translation here"
+        "en": "Time when the route ends."
       }
     },
     {
@@ -1160,15 +1160,15 @@
       "name": "vervoermiddel",
       "label": {
         "nl": "vervoermiddel",
-        "en": "Enter your translation here"
+        "en": "meansOfTransport"
       },
       "definition": {
         "nl": "Het type vervoermiddel van de Resource.",
-        "en": "Enter your translation here"
+        "en": "The type of means of transport of the Resource."
       },
       "usage": {
         "nl": "Vooral relevant als de resource een voertuig is.",
-        "en": "Enter your translation here"
+        "en": "Especially relevant if the resource is a vehicle."
       }
     },
     {
@@ -1176,15 +1176,15 @@
       "name": "status",
       "label": {
         "nl": "status",
-        "en": "Enter your translation here"
+        "en": "status"
       },
       "definition": {
         "nl": "Toestand waarin een Resource zich bevindt.",
-        "en": "Enter your translation here"
+        "en": "State of a Resource."
       },
       "usage": {
         "nl": "Bv gereserveerd, inactief, beschikbaar. Bepaalt of een Resource gebruikt kan worden.",
-        "en": "Enter your translation here"
+        "en": "E.g. reserved, inactive, available. Determines whether a resource can be used."
       }
     },
     {
@@ -1192,11 +1192,11 @@
       "name": "dienst",
       "label": {
         "nl": "dienst",
-        "en": "Enter your translation here"
+        "en": "service"
       },
       "definition": {
         "nl": "Mobiliteitsdienst van de Resource.",
-        "en": "Enter your translation here"
+        "en": "Mobility Service of the Resource"
       }
     },
     {
@@ -1204,23 +1204,23 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "Enter your translation here"
+        "en": "actuator"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel.",
-        "en": "Enter your translation here"
+        "en": "Propulsion of the means of transport."
       }
     },
     {
       "EA-Guid": "Derived:{DEC227CD-E22B-4cf5-8BC7-17C011FF1C5B}->{C3E40BFA-E2CF-45d9-9AB3-56983A5805A3}",
       "name": "resource",
       "label": {
-        "nl": "Resource",
-        "en": "Enter your translation here"
+        "nl": "resource",
+        "en": "resource"
       },
       "definition": {
         "nl": "Referentie naar verbonden klasse.",
-        "en": "Enter your translation here"
+        "en": "Reference to connected class."
       },
       "usage": {
         "nl": "",
@@ -1232,15 +1232,15 @@
       "name": "reisweg",
       "label": {
         "nl": "reisweg",
-        "en": "Enter your translation here"
+        "en": "itinerary"
       },
       "definition": {
         "nl": "Reisweg waarvoor iets gereserveerd wordt.",
-        "en": "Enter your translation here"
+        "en": "Itinerary for which something is reserved."
       },
       "usage": {
         "nl": "Bv zitplaats van Brussel naar Parijs.",
-        "en": "Enter your translation here"
+        "en": "E.g. seat from Brussels to Paris."
       }
     },
     {
@@ -1248,11 +1248,11 @@
       "name": "boeking",
       "label": {
         "nl": "Boeking",
-        "en": "Enter your translation here"
+        "en": "Booking"
       },
       "definition": {
         "nl": "Referentie naar verbonden klasse.",
-        "en": "Enter your translation here"
+        "en": "Reference to connected class."
       },
       "usage": {
         "nl": "",
@@ -1264,15 +1264,15 @@
       "name": "vervoersbewijs",
       "label": {
         "nl": "vervoersbewijs",
-        "en": "Enter your translation here"
+        "en": "transportTicket"
       },
       "definition": {
         "nl": "Vervoersbewijs van de Reiziger.",
-        "en": "Enter your translation here"
+        "en": "transportTicket of the Traveler"
       },
       "usage": {
         "nl": "Kan los staan van een Reis, ttz men kan beschikken over een Vervoersbewijs waarbij de Reis nog niet vastligt of nog niet is uitgevoerd, bv een abonnement of een dagkaart.",
-        "en": "Enter your translation here"
+        "en": "Can be independent of a Journey, i.e. one can have a Ticket where the Journey is not yet fixed or executed, e.g. a season ticket or a day ticket."
       }
     },
     {
@@ -1280,15 +1280,15 @@
       "name": "vervoersbewijs",
       "label": {
         "nl": "vervoersbewijs",
-        "en": "Enter your translation here"
+        "en": "transportTicket"
       },
       "definition": {
         "nl": "Vervoersbewijs voor de Reis.",
-        "en": "Enter your translation here"
+        "en": "Transport Ticket for the Trip."
       },
       "usage": {
         "nl": "Dit is het Vervoersbewijs waarmee men de Reis wil uitvoeren of men de Reis heeft uitgevoerd. Bv het gekochte ticket of het abonnement waarover men beschikt.",
-        "en": "Enter your translation here"
+        "en": "This is the Ticket with which you intend to travel or have traveled. E.g. the purchased Ticket or the season ticket."
       }
     },
     {
@@ -1296,11 +1296,11 @@
       "name": "boeking",
       "label": {
         "nl": "boeking",
-        "en": "Enter your translation here"
+        "en": "booking"
       },
       "definition": {
         "nl": "Boeking van de Reis.",
-        "en": "Enter your translation here"
+        "en": "Booking of the Trip."
       }
     },
     {
@@ -1308,15 +1308,15 @@
       "name": "vervoermiddel",
       "label": {
         "nl": "vervoermiddel",
-        "en": "Enter your translation here"
+        "en": "meansOfTransport"
       },
       "definition": {
         "nl": "Vervoermiddel waarmee de Overstap gebeurt.",
-        "en": "Enter your translation here"
+        "en": "Means of transport by which the Transfer is made."
       },
       "usage": {
         "nl": "Doorgaans te voet.",
-        "en": "Enter your translation here"
+        "en": "Usually on foot."
       }
     },
     {
@@ -1324,7 +1324,7 @@
       "name": "routeknoop (target)",
       "label": {
         "nl": "Routeknoop (target)",
-        "en": "Enter your translation here"
+        "en": ""
       },
       "definition": {
         "nl": "Referentie naar verbonden klasse.",
@@ -1339,12 +1339,12 @@
       "EA-Guid": "Derived:{5EE2E57A-2685-496b-A5B1-9947A1D3BE83}->{35453307-F7E3-4052-B532-CC571E30CE34}",
       "name": "routeknoop (source)",
       "label": {
-        "nl": "Routeknoop (source)",
-        "en": "Enter your translation here"
+        "nl": "routeknoop (source)",
+        "en": "routeNode (source)"
       },
       "definition": {
         "nl": "Referentie naar verbonden klasse.",
-        "en": "Enter your translation here"
+        "en": "Reference to connected class."
       },
       "usage": {
         "nl": "",
@@ -1356,15 +1356,15 @@
       "name": "gerealiseerd op",
       "label": {
         "nl": "gerealiseerd op",
-        "en": "Enter your translation here"
+        "en": "realisedOn"
       },
       "definition": {
         "nl": "Transportobject waarmee de Routeconnectie samenvalt.",
-        "en": "Enter your translation here"
+        "en": "Transport object with which the Route Connection coincides."
       },
       "usage": {
         "nl": "Bv de halte waar men overstapt tussen twee metrolijnen, het Adresgebied waarbinnen men overstapt tussen twee vervoersmodi.",
-        "en": "Enter your translation here"
+        "en": "E.g. the stop where one changes between two metro lines, the Address area where one changes between two modes of transport."
       }
     },
     {
@@ -1372,11 +1372,11 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "Enter your translation here"
+        "en": "actuator"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee de Overstap gebeurt.",
-        "en": "Enter your translation here"
+        "en": "Propulsion of the means of transport by which the Transfer is made."
       }
     },
     {
@@ -1384,15 +1384,15 @@
       "name": "vervoermiddel",
       "label": {
         "nl": "vervoermiddel",
-        "en": "Enter your translation here"
+        "en": "meansOfTransport"
       },
       "definition": {
         "nl": "Vervoermiddel waarmee of waarvoor de Mobiliteitsdienst doorgaans wordt georganiseerd.",
-        "en": "Enter your translation here"
+        "en": "Means of transport by which or for which the Mobility Service is usually organised."
       },
       "usage": {
         "nl": "Bv metro, tram, bus voor de MIVB. Bv auto, fiets voor parking Coovi.",
-        "en": "Enter your translation here"
+        "en": "E.g. metro, tram, bus for STIB. E.g. car, bicycle for parking Coovi."
       }
     },
     {
@@ -1400,15 +1400,15 @@
       "name": "toegankelijkheid",
       "label": {
         "nl": "toegankelijkheid",
-        "en": "Enter your translation here"
+        "en": "accessibility"
       },
       "definition": {
         "nl": "Toegankelijkheid van de Mobiliteitsdienst.",
-        "en": "Enter your translation here"
+        "en": "Accessibility of the Mobility Service"
       },
       "usage": {
         "nl": "Bv of de Mobiliteitsdienst toegankelijk is voor personen met een beperking.",
-        "en": "Enter your translation here"
+        "en": "E.g. whether the Mobility Service is accessible to persons with disabilities."
       }
     },
     {
@@ -1416,15 +1416,15 @@
       "name": "resource",
       "label": {
         "nl": "resource",
-        "en": "Enter your translation here"
+        "en": "resource"
       },
       "definition": {
         "nl": "Resource waarover de Mobiliteitsdienst beschikt.",
-        "en": "Enter your translation here"
+        "en": "Resource available to the Mobility Service."
       },
       "usage": {
         "nl": "We beperken ons hier tot Resources die een Reiziger kan reserveren voor het uitvoeren van zijn Reis, bv wel de zitplaats op een trein maar niet de trein waarmee de Mobiliteitsdienst wordt gerealiseerd.",
-        "en": "Enter your translation here"
+        "en": "We limit ourselves here to Resources that a Passenger can reserve for the execution of his Journey, e.g. the seat on a train but not the train on which the Mobility Service is realised."
       }
     },
     {
@@ -1432,15 +1432,15 @@
       "name": "beschikbaarheid",
       "label": {
         "nl": "beschikbaarheid",
-        "en": "Enter your translation here"
+        "en": "availability"
       },
       "definition": {
         "nl": "Beschikbaarheid van de Mobiliteitsdienst.",
-        "en": "Enter your translation here"
+        "en": "Availability of the Mobility Service."
       },
       "usage": {
         "nl": "Bv dienstregeling of openingsuren.",
-        "en": "Enter your translation here"
+        "en": "E.g. timetable or opening hours"
       }
     },
     {
@@ -1448,11 +1448,11 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "Enter your translation here"
+        "en": "actuator"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee of waarvoor de Mobiliteitsdienst doorgaans wordt georganiseerd.",
-        "en": "Enter your translation here"
+        "en": "Propulsion of the means of transport with or for which the Mobility Service is usually organised."
       }
     },
     {
@@ -1460,11 +1460,11 @@
       "name": "vervoersbewijs",
       "label": {
         "nl": "vervoersbewijs",
-        "en": "Enter your translation here"
+        "en": "transportTicket"
       },
       "definition": {
         "nl": "Vervoersbewijs voor de geboekte Reis.",
-        "en": "Enter your translation here"
+        "en": "Ticket for the booked Trip."
       }
     },
     {
@@ -1472,15 +1472,15 @@
       "name": "status",
       "label": {
         "nl": "status",
-        "en": "Enter your translation here"
+        "en": "status"
       },
       "definition": {
         "nl": "Status van de Boeking.",
-        "en": "Enter your translation here"
+        "en": "Status of the booking."
       },
       "usage": {
         "nl": "Bv of de Boeking nog hangende is of reeds bevestigd.",
-        "en": "Enter your translation here"
+        "en": "E.g. whether the booking is still pending or already confirmed."
       }
     },
     {
@@ -1488,11 +1488,11 @@
       "name": "resource",
       "label": {
         "nl": "resource",
-        "en": "Enter your translation here"
+        "en": "resource"
       },
       "definition": {
         "nl": "Resource die is gereserveerd.",
-        "en": "Enter your translation here"
+        "en": "Resource that is reserved."
       }
     }
   ],
@@ -1502,15 +1502,15 @@
       "name": "Periode",
       "label": {
         "nl": "Periode",
-        "en": "Enter your translation here"
+        "en": "Period"
       },
       "definition": {
         "nl": "Min of meer afgebakende tijdsduur.",
-        "en": "Enter your translation here"
+        "en": "More or less defined period of time."
       },
       "usage": {
         "nl": "Typisch volgt de duur uit het opgeven ve begin- en eindtijdstip.",
-        "en": "Enter your translation here"
+        "en": "Typically, the duration follows from the specification of the start and end time."
       }
     },
     {
@@ -1518,15 +1518,15 @@
       "name": "Publieke Organisatie",
       "label": {
         "nl": "Publieke Organisatie",
-        "en": "Enter your translation here"
+        "en": "PublicOrganisation"
       },
       "definition": {
         "nl": "Een Organisatie die volgens een wettelijk kader behoort tot de publieke sector, ongeacht het bestuursniveau waarop dat kader van kracht is.",
-        "en": "Enter your translation here"
+        "en": "An organisation that, according to a legal framework, belongs to the public sector, regardless of the level of government at which that framework applies."
       },
       "usage": {
         "nl": "De overheids- en semioverheidsorganisaties die tot men zo tot de publieke sector kan rekenen worden in Europese richtlijn 2003/98/EG \"openbaar lichaam\" genoemd en gedefinieerd als: \"de staat, zijn territoriale lichamen, publiekrechtelijke instellingen, en verenigingen gevormd door een of meer van deze lichamen of een of meer van deze publiekrechtelijke instellingen\". En onder een publiekrechtelijke instelling verstaat men \" iedere instelling die a) is opgericht met het specifieke doel te voorzien in behoeften van algemeen belang die niet van industriële of commerciële aard zijn, en b) rechtspersoonlijkheid heeft, en c) waarvan hetzij de activiteiten in hoofdzaak door de staat of zijn territoriale lichamen of andere publiekrechtelijke instellingen worden gefinancierd, hetzij het beheer is onderworpen aan toezicht door deze laatste, hetzij de leden van het bestuursorgaan, het leidinggevend orgaan of het toezichthoudend orgaan voor meer dan de helft door de staat, zijn territoriale lichamen of andere publiekrechtelijke instellingen zijn aangewezen.\".",
-        "en": "Enter your translation here"
+        "en": "The governmental and semi-governmental organisations that may be considered to belong to the public sector are referred to in European Directive 2003/98/EC as public sector bodies and defined as: \"the State, its local authorities, bodies governed by public law, and associations formed by one or more such authorities or one or more such bodies governed by public law. A body governed by public law shall mean any body (a) established for the specific purpose of meeting needs in the general interest, not having an industrial or commercial character, and (b) having legal personality, and (c) financed, for the most part, by the State, or regional or local authorities, or other bodies governed by public law; or subject to management supervision by those bodies; or having an administrative, managerial or supervisory board, more than half of whose members are appointed by the State, regional or local authorities or by other bodies governed by public law."
       }
     },
     {
@@ -1534,11 +1534,11 @@
       "name": "Plaats",
       "label": {
         "nl": "Plaats",
-        "en": "Enter your translation here"
+        "en": "Place"
       },
       "definition": {
         "nl": "Een ruimtelijk gebied of benoemde plaats.",
-        "en": "Enter your translation here"
+        "en": "A spatial area or named place."
       }
     },
     {
@@ -1546,15 +1546,15 @@
       "name": "Formeel Kader",
       "label": {
         "nl": "Formeel Kader",
-        "en": "Enter your translation here"
+        "en": "FormalFramework"
       },
       "definition": {
         "nl": "Geheel van formele documenten dat regels, rechten, plichten ten aanzien van burgers, overheden, bedrijven etc beschrijft.",
-        "en": "Enter your translation here"
+        "en": "Set of formal documents describing rules, rights, obligations towards citizens, authorities, companies, etc."
       },
       "usage": {
         "nl": "De documenten waarvan sprake zijn wetten, beleidsdocumenten, regulaties, contracten ed.",
-        "en": "Enter your translation here"
+        "en": "The documents in question are laws, policies, regulations, contracts, etc."
       }
     },
     {
@@ -1562,15 +1562,15 @@
       "name": "Contactinfo",
       "label": {
         "nl": "Contactinfo",
-        "en": "Enter your translation here"
+        "en": "ContactInformation"
       },
       "definition": {
         "nl": "Informatie zoals email,telefoon,adres die toelaat om iemand of iets te contacteren.",
-        "en": "Enter your translation here"
+        "en": "Information such as email, phone, address that allows you to contact someone or something."
       },
       "usage": {
         "nl": "Bvb een persoon of organisatie of dienstverlening... Mogelijke vormen van contact: bellen,mailen etc. Meer uitgebreide beschrijving in het AP OSLO-Generiek.",
-        "en": "Enter your translation here"
+        "en": "E.g. a person or organisation or a service... Possible forms of contact: calling, e-mailing etc. More detailed description in the AP OSLO-Generic."
       }
     },
     {
@@ -1578,15 +1578,15 @@
       "name": "Openingsurenspecificatie",
       "label": {
         "nl": "Openingsurenspecificatie",
-        "en": "Enter your translation here"
+        "en": "OpeningHoursSpecification"
       },
       "definition": {
         "nl": "Informatie over de openingsuren ve plaats of dienst.",
-        "en": "Enter your translation here"
+        "en": "Information on opening hours of a location or service."
       },
       "usage": {
         "nl": "Meer uitgebreide beschrijving in het AP OSLO-Dienst.",
-        "en": "Enter your translation here"
+        "en": "More detailed description in the AP OSLO-Service."
       }
     },
     {
@@ -1594,15 +1594,15 @@
       "name": "Lijnstring",
       "label": {
         "nl": "Lijnstring",
-        "en": "Enter your translation here"
+        "en": "LineString"
       },
       "definition": {
         "nl": "Curve met lineaire interpolatie tussen de punten. Elk opeenvolgend paar punten vormt een lijnsegment. De lijnstring heeft ten minste twee punten.",
-        "en": "Enter your translation here"
+        "en": "Curve with linear interpolation between points. Each consecutive pair of points forms a line segment. The line segment has at least two points."
       },
       "usage": {
         "nl": "Een curve is een 1-dimensioneel geometrisch object gedefinieerd als een sequentie van punten. De interpolatie kan op verschillende manieren gebeuren (bv lineair bij een lijnstring).",
-        "en": "Enter your translation here"
+        "en": "A curve is a 1-dimensional geometric object defined as a sequence of points. The interpolation can be done in various ways (e.g. linearly in the case of a line string)."
       }
     },
     {
@@ -1610,11 +1610,11 @@
       "name": "Punt",
       "label": {
         "nl": "Punt",
-        "en": "Enter your translation here"
+        "en": "Point"
       },
       "definition": {
         "nl": "Een 0-dimensioneel geometrisch object dat een bepaalde locatie in een coördinaatruimte voorstelt. Heeft een x-coördinaat en een y-coördinaat. Kan ook een z-coördinaat (hoogte) en een m-coördinaat (afstand langs een curve) hebben.",
-        "en": "Enter your translation here"
+        "en": "A 0-dimensional geometric object that represents a particular location in a coordinate space. Has an x-coordinate and a y-coordinate. Can also have a z-coordinate (height) and an m-coordinate (distance along a curve)."
       }
     },
     {
@@ -1622,15 +1622,15 @@
       "name": "Polygoon",
       "label": {
         "nl": "Polygoon",
-        "en": "Enter your translation here"
+        "en": "Polygon"
       },
       "definition": {
         "nl": "Oppervlak bestaande uit 1 buitengrens en 0 of meer binnengrenzen. Elke binnengrens vormt een gat in de polygoon.",
-        "en": "Enter your translation here"
+        "en": "Surface consisting of one outer boundary and 0 or more inner boundaries. Each internal boundary forms a hole in the polygon."
       },
       "usage": {
         "nl": "De grenzen zijn zgn lineaire ringen,ttz het zijn gesloten (niet zelfsnijdende) lijnstringen. De buitengrens wordt onderscheiden vd binnengrens door resp de kloksgewijze en tegenkloksgewijze richting waarin de ring loopt.",
-        "en": "Enter your translation here"
+        "en": "The boundaries are so-called linear rings, in other words they are closed (not even intersecting) line strings. The outer boundary is distinguished from the inner boundary by the clockwise and counterclockwise directions in which the ring runs, respectively."
       }
     },
     {
@@ -1638,15 +1638,15 @@
       "name": "Geografische Naam",
       "label": {
         "nl": "Geografische Naam",
-        "en": "Enter your translation here"
+        "en": "GeographicalName"
       },
       "definition": {
         "nl": "Benaming toegekend aan of gebruikt voor een geografisch object.",
-        "en": "Enter your translation here"
+        "en": "Name assigned to or used for a geographical object."
       },
       "usage": {
         "nl": "Te implementeren als Langstring.",
-        "en": "Enter your translation here"
+        "en": "To be implemented as Language string."
       }
     },
     {
@@ -1654,15 +1654,15 @@
       "name": "Taalstring",
       "label": {
         "nl": "Taalstring",
-        "en": "Enter your translation here"
+        "en": "LanguageString"
       },
       "definition": {
         "nl": "Combinatie van een string en de taal waarin de inhoud ervan is gesteld.",
-        "en": "Enter your translation here"
+        "en": "Combination of a string and the language its contents are in."
       },
       "usage": {
         "nl": "Bvb 'Rue Mercator' als string en 'fr' als taal. Te implementeren als Langstring.",
-        "en": "Enter your translation here"
+        "en": "E.g. 'Rue Mercator' as a string and 'fr' as a language. Implementable as Language string."
       }
     },
     {
@@ -1670,15 +1670,15 @@
       "name": "Getypeerde String",
       "label": {
         "nl": "Getypeerde String",
-        "en": "Enter your translation here"
+        "en": "TypedString"
       },
       "definition": {
         "nl": "Combinatie van een string en het type van wat de string voorstelt.",
-        "en": "Enter your translation here"
+        "en": "Combination of a string and the type of what the string represents."
       },
       "usage": {
         "nl": "Bvb '20170901' als string en 'datum' als type. Laat automatische interpretatie vd string toe. Te implementeren als Literal.",
-        "en": "Enter your translation here"
+        "en": "E.g. '20170901' as string and 'date' as type. Allows automatic interpretation of the string. Implementable as Literal."
       }
     },
     {
@@ -1686,11 +1686,11 @@
       "name": "Routetype",
       "label": {
         "nl": "Routetype",
-        "en": "Enter your translation here"
+        "en": "RouteType"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1698,11 +1698,11 @@
       "name": "Vervoermiddel",
       "label": {
         "nl": "Vervoermiddel",
-        "en": "Enter your translation here"
+        "en": "MeansOfTransport"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1710,11 +1710,11 @@
       "name": "Resourcetype",
       "label": {
         "nl": "Resourcetype",
-        "en": "Enter your translation here"
+        "en": "ResourceType"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1722,11 +1722,11 @@
       "name": "Dienstverleningtype",
       "label": {
         "nl": "Dienstverleningtype",
-        "en": "Enter your translation here"
+        "en": "ServiceType"
       },
       "definition": {
         "nl": "Aard van een Dienstverlening.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Service"
       }
     },
     {
@@ -1734,11 +1734,11 @@
       "name": "Resourcestatus",
       "label": {
         "nl": "Resourcestatus",
-        "en": "Enter your translation here"
+        "en": "ResourceStatus"
       },
       "definition": {
         "nl": "Toestand waarin een Resource zich bevindt.",
-        "en": "Enter your translation here"
+        "en": "State of a Resource."
       }
     },
     {
@@ -1746,11 +1746,11 @@
       "name": "Reizigerskenmerk",
       "label": {
         "nl": "Reizigerskenmerk",
-        "en": "Enter your translation here"
+        "en": "TravellerCharacteristic"
       },
       "definition": {
         "nl": "Eigenschap van de Reiziger die bepalend kan zijn voor de gevolgde Route van zijn reis.",
-        "en": "Enter your translation here"
+        "en": "Characteristic of the Traveller that may determine the Route followed by the Traveller."
       }
     },
     {
@@ -1758,11 +1758,11 @@
       "name": "Reizigersvoorkeur",
       "label": {
         "nl": "Reizigersvoorkeur",
-        "en": "Enter your translation here"
+        "en": "TravellerPreference"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1770,11 +1770,11 @@
       "name": "Transportgebiedtype",
       "label": {
         "nl": "Transportgebiedtype",
-        "en": "Enter your translation here"
+        "en": "TransportAreaType"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1782,11 +1782,11 @@
       "name": "Transportknooptype",
       "label": {
         "nl": "Transportknooptype",
-        "en": "Enter your translation here"
+        "en": "TransportNodeType"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1794,11 +1794,11 @@
       "name": "Teken",
       "label": {
         "nl": "Teken",
-        "en": "Enter your translation here"
+        "en": "Sign"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1806,11 +1806,11 @@
       "name": "Gebruikerstype",
       "label": {
         "nl": "Gebruikerstype",
-        "en": "Enter your translation here"
+        "en": "UserType"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1818,11 +1818,11 @@
       "name": "Vervoerbewijstype",
       "label": {
         "nl": "Vervoerbewijstype",
-        "en": "Enter your translation here"
+        "en": "TransportTicketType"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1830,11 +1830,11 @@
       "name": "Toegankelijkheidsniveau",
       "label": {
         "nl": "Toegankelijkheidsniveau",
-        "en": "Enter your translation here"
+        "en": "AccessibilityLevel"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1842,11 +1842,11 @@
       "name": "Transporttype",
       "label": {
         "nl": "Transporttype",
-        "en": "Enter your translation here"
+        "en": "TransportType"
       },
       "definition": {
         "nl": "TODO",
-        "en": "Enter your translation here"
+        "en": "TODO"
       }
     },
     {
@@ -1854,11 +1854,11 @@
       "name": "Connectietype",
       "label": {
         "nl": "Connectietype",
-        "en": "Enter your translation here"
+        "en": "ConnectionType"
       },
       "definition": {
         "nl": "Aard van een Connectie.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Connection"
       }
     },
     {
@@ -1882,15 +1882,15 @@
       "name": "Identificator",
       "label": {
         "nl": "Identificator",
-        "en": "Enter your translation here"
+        "en": "Identifier"
       },
       "definition": {
         "nl": "Informatie gebruikt om een object uniek te identificeren.",
-        "en": "Enter your translation here"
+        "en": "Information used to uniquely identify an object."
       },
       "usage": {
         "nl": "Uitgangspunt hier is dat deze string door een organisatie wordt toegekend en dat dit gebeurt volgens een welbepaald systeem. Meer uitgebreide beschrijving in het AP OSLO-Generiek.",
-        "en": "Enter your translation here"
+        "en": "The starting point here is that this string is allocated by an organisation and that this is done according to a well-defined system. More detailed description in the AP OSLO-Generic."
       }
     },
     {
@@ -1898,15 +1898,15 @@
       "name": "Geometrie",
       "label": {
         "nl": "Geometrie",
-        "en": "Enter your translation here"
+        "en": "Geometry"
       },
       "definition": {
         "nl": "Vorm- en positiekenmerken van een object.",
-        "en": "Enter your translation here"
+        "en": "Shape and position characteristics of an object."
       },
       "usage": {
         "nl": "Beschrijft deze kenmerken dmv punten, lijnen, polygonen en coördinaten.",
-        "en": "Enter your translation here"
+        "en": "Describes these features using points, lines, polygons and coordinates."
       }
     },
     {
@@ -1914,15 +1914,15 @@
       "name": "Locatie",
       "label": {
         "nl": "Locatie",
-        "en": "Enter your translation here"
+        "en": "Location"
       },
       "definition": {
         "nl": "Aanduiding van een geografische positie,dmv coordinaten,een toponiem,een adreslabel,een verwijzing naar een plaats/regio of verwijzing naar een adres.",
-        "en": "Enter your translation here"
+        "en": "Indication of a geographical position by means of coordinates, a toponym, an address label, a reference to a place/region or a reference to an address."
       },
       "usage": {
         "nl": "Te gebruiken als de manier waarop de geografische positie wordt aangeduid pas zal worden vastgelegd bij implementatie. Is deze manier nu al gekend dan moet direct gewerkt worden met Geometrie, GeografischeNaam, Adres etc.",
-        "en": "Enter your translation here"
+        "en": "To be used if the way in which the geographical position is indicated will only be determined during implementation. If this method is already known, Geometry, GeographicalName, Address etc. should be used immediately."
       }
     },
     {
@@ -1930,15 +1930,15 @@
       "name": "Standaard Eenheid",
       "label": {
         "nl": "Standaard Eenheid",
-        "en": "Enter your translation here"
+        "en": "StandardUnit"
       },
       "definition": {
         "nl": "Eenheid vastgelegd door een standaardiserende organisatie.",
-        "en": "Enter your translation here"
+        "en": "Unit defined by a standardising organisation."
       },
       "usage": {
         "nl": "Datatype kan een URI zijn of een GetypeerdeString. In het eerste geval wordt verwezen naar op het web gepubliceerde eenheden, bij voorkeur deze van qudt, bv http://qudt.org/vocab/unit/M voor meter. In het geval van een  GetypeerdeString gaat de voorkeur naar de UCUM-codes, bv \"km/h\"^^http://w3id.org/lindt/custom_datatypes#ucumunit.",
-        "en": "Enter your translation here"
+        "en": "Datatype can be a URI or a TypedString. In the first case, reference is made to units published on the web, preferably those of qudt, e.g. http://qudt.org/vocab/unit/M for metres. In the case of a TypedString, preference is given to the UCUM codes, e.g. http://w3id.org/lindt/custom_datatypes#ucumunit."
       }
     },
     {
@@ -1946,11 +1946,11 @@
       "name": "Gerichte link",
       "label": {
         "nl": "Gerichte link",
-        "en": "Enter your translation here"
+        "en": "DirectedLink"
       },
       "definition": {
         "nl": "Link in hetzij zijn positieve, hetzij zijn negatieve richting.",
-        "en": "Enter your translation here"
+        "en": "Link in either its positive or negative direction."
       }
     },
     {
@@ -1958,11 +1958,11 @@
       "name": "Link",
       "label": {
         "nl": "Link",
-        "en": "Enter your translation here"
+        "en": "Link"
       },
       "definition": {
         "nl": "Curvilineair netwerkelement dat twee posities verbindt en een homogeen pad in het Netwerk vertegenwoordigt. De verbonden posities worden voorgesteld door Knopen.",
-        "en": "Enter your translation here"
+        "en": "Curvilinear network element that connects two positions and represents a homogeneous path in the Network. The connected positions are represented by Nodes."
       }
     },
     {
@@ -1970,11 +1970,11 @@
       "name": "Transportgebied",
       "label": {
         "nl": "Transportgebied",
-        "en": "Enter your translation here"
+        "en": "TransportArea"
       },
       "definition": {
         "nl": "Tweedimensionaal Transportobject in een Transportnetwerk.",
-        "en": "Enter your translation here"
+        "en": "Two dimensional Transport Object in a Transport Network"
       }
     },
     {
@@ -1982,11 +1982,11 @@
       "name": "Transportknoop",
       "label": {
         "nl": "Transportknoop",
-        "en": "Enter your translation here"
+        "en": "TransportNode"
       },
       "definition": {
         "nl": "Significante positie in het Transportnetwerk die steeds samenvalt met het begin of het einde van een Transportlink.",
-        "en": "Enter your translation here"
+        "en": "Significant position in the Transport Network that always coincides with the beginning or the end of a Transport Link."
       }
     },
     {
@@ -1994,15 +1994,15 @@
       "name": "Transportnetwerk",
       "label": {
         "nl": "Transportnetwerk",
-        "en": "Enter your translation here"
+        "en": "TransportNetwork"
       },
       "definition": {
         "nl": "Verzameling van Netwerkelementen die eenzelfde vervoerswijze vertegenwoordigen.",
-        "en": "Enter your translation here"
+        "en": "Collection of Network Elements representing the same mode of transport."
       },
       "usage": {
         "nl": "De vervoerswijze is minimaal weg, spoor, lucht en water. Verdere opdeling in Transportnetwerken volgens vervoermiddel, aandrijftype, dienstverleningstype is mogelijk.",
-        "en": "Enter your translation here"
+        "en": "The transport mode is at least road, rail, air and water. Further subdivision into Transport Networks according to means of transport, drive type, service type is possible."
       }
     },
     {
@@ -2010,11 +2010,11 @@
       "name": "Transportobject",
       "label": {
         "nl": "Transportobject",
-        "en": "Enter your translation here"
+        "en": "TransportObject"
       },
       "definition": {
         "nl": "Element in een Transportnetwerk dat daarin een functie van belang vervult.",
-        "en": "Enter your translation here"
+        "en": "Element in a Transport Network that performs a function of importance therein."
       }
     },
     {
@@ -2022,11 +2022,11 @@
       "name": "Geldbedrag",
       "label": {
         "nl": "Geldbedrag",
-        "en": "Enter your translation here"
+        "en": "MonetaryAmount"
       },
       "definition": {
         "nl": "Een geldwaarde of -bereik.",
-        "en": "Enter your translation here"
+        "en": "A monetary value or range."
       }
     },
     {
@@ -2034,15 +2034,15 @@
       "name": "Getal",
       "label": {
         "nl": "Getal",
-        "en": "Enter your translation here"
+        "en": "Number"
       },
       "definition": {
         "nl": "Aanduiding van een hoeveelheid.",
-        "en": "Enter your translation here"
+        "en": "Indication of a quantity."
       },
       "usage": {
         "nl": "In praktijk de primitieve datatypes waarmee een hoeveelheid kan worden aangeduid,zie xsd datatypes float,double,decimal,integer etc.",
-        "en": "Enter your translation here"
+        "en": "In praktijk de primitieve datatypes waarmee een hoeveelheid kan worden aangeduid,zie xsd datatypes float, double, decimal, integer, etc."
       }
     },
     {
@@ -2050,15 +2050,15 @@
       "name": "Prijsplan",
       "label": {
         "nl": "Prijsplan",
-        "en": "Enter your translation here"
+        "en": "PricePlan"
       },
       "definition": {
         "nl": "Prijs van de Reizen die met de Mobiliteitsdienst kunnen worden uitgevoerd.",
-        "en": "Enter your translation here"
+        "en": "Price of the Journeys that can be made using the Mobility Service."
       },
       "usage": {
         "nl": "Laat toe te achterhalen hoeveel een specifieke Reis gaat kosten, rekening houdend met bv de reisweg of de afgelegde afstand of hoe lang men van de Mobiliteitsdienst gebruik maakt. Inclusief eventuele kortingen voor doelgroepen bv korting voor kinderen onder 12 jaar.",
-        "en": "Enter your translation here"
+        "en": "Allows to find out how much a specific Journey will cost, taking into account e.g. the distance travelled or how long the Mobility Service is used. Including any discounts for target groups e.g. discount for children under 12 years."
       }
     },
     {
@@ -2066,15 +2066,15 @@
       "name": "Kwantitatieve Waarde",
       "label": {
         "nl": "Kwantitatieve Waarde",
-        "en": "Enter your translation here"
+        "en": "QuantitativeValue"
       },
       "definition": {
         "nl": "Aanduiding van de kwantiteit van een bepaald kenmerk van een object.",
-        "en": "Enter your translation here"
+        "en": "Indication of the quantity of a certain characteristic of an object."
       },
       "usage": {
         "nl": "Bv de hoogte van een object,het gewicht,de temperatuur etc. Het gaat om een kenmerk dat numeriek uitgedrukt kan worden en in een bepaalde eenheid. Kwalitatieve aanduidingen zoals hoog,laag ed vallen hier dus niet onder.",
-        "en": "Enter your translation here"
+        "en": "E.g. the height of an object, the weight, the temperature etc. It concerns a characteristic that can be expressed numerically and in a certain unit. Qualitative indications such as high, low, etc. do not come under this heading."
       }
     },
     {
@@ -2082,15 +2082,15 @@
       "name": "Reis",
       "label": {
         "nl": "Reis",
-        "en": "Enter your translation here"
+        "en": "Trip"
       },
       "definition": {
         "nl": "Vrijwillige verplaatsing van een Persoon van de ene Locatie naar een andere Locatie.",
-        "en": "Enter your translation here"
+        "en": "Voluntary movement of a Person from one Location to another Location."
       },
       "usage": {
         "nl": "De reis verloopt eventueel via andere Locaties. De Locatie waar de Reis begint kan gelijk zijn aan deze waar de Reis eindigt (bv heen- en terugreis).",
-        "en": "Enter your translation here"
+        "en": "The journey may take place via other Locations. The Location where the Journey starts can be the same as where the Journey ends (e.g. outward and return journey)."
       }
     }
   ],
@@ -2100,11 +2100,11 @@
       "name": "waarde",
       "label": {
         "nl": "waarde",
-        "en": "Enter your translation here"
+        "en": "value"
       },
       "definition": {
         "nl": "Waarde van de Voorkeur van de Reiziger.",
-        "en": "Enter your translation here"
+        "en": "Value of the Traveller's Preference."
       }
     },
     {
@@ -2112,11 +2112,11 @@
       "name": "waarde",
       "label": {
         "nl": "waarde",
-        "en": "Enter your translation here"
+        "en": "value"
       },
       "definition": {
         "nl": "Waarde van het Kenmerk van de reiziger.",
-        "en": "Enter your translation here"
+        "en": "Value of the traveller's characteristic."
       }
     },
     {
@@ -2124,11 +2124,11 @@
       "name": "waarde",
       "label": {
         "nl": "waarde",
-        "en": "Enter your translation here"
+        "en": "value"
       },
       "definition": {
         "nl": "Getal waarmee de kwantiteit van het kenmerk kan worden uitgedrukt.",
-        "en": "Enter your translation here"
+        "en": "Number by which the quantity of the characteristic can be expressed."
       }
     },
     {
@@ -2136,15 +2136,15 @@
       "name": "eenheid",
       "label": {
         "nl": "eenheid",
-        "en": "Enter your translation here"
+        "en": "unit"
       },
       "definition": {
         "nl": "De eenheid waarin de waarde is uitgedrukt.",
-        "en": "Enter your translation here"
+        "en": "The unit in which the value is expressed."
       },
       "usage": {
         "nl": "Te gebruiken als geen standaard eenheid gekend is.",
-        "en": "Enter your translation here"
+        "en": "To be used when no standard unit is known."
       }
     },
     {
@@ -2152,11 +2152,11 @@
       "name": "standaard eenheid",
       "label": {
         "nl": "standaard eenheid",
-        "en": "Enter your translation here"
+        "en": "standardUnit"
       },
       "definition": {
         "nl": "De gestandaardiseerde eenheid waarin de waarde is uitgedrukt.",
-        "en": "Enter your translation here"
+        "en": "The standardised unit in which the value is expressed."
       }
     },
     {
@@ -2164,11 +2164,11 @@
       "name": "prijs",
       "label": {
         "nl": "prijs",
-        "en": "Enter your translation here"
+        "en": "price"
       },
       "definition": {
         "nl": "Prijs die voor de geboekte Reis of gereserveerde Resource is betaald.",
-        "en": "Enter your translation here"
+        "en": "Price paid for the booked Journey or reserved Resource."
       }
     },
     {
@@ -2176,11 +2176,11 @@
       "name": "prijs",
       "label": {
         "nl": "prijs",
-        "en": "Enter your translation here"
+        "en": "price"
       },
       "definition": {
         "nl": "Prijs die voor het Vervoersbewijs is betaald.",
-        "en": "Enter your translation here"
+        "en": "Price paid for the Transport Ticket"
       }
     },
     {
@@ -2188,11 +2188,11 @@
       "name": "openingsuren",
       "label": {
         "nl": "openingsuren",
-        "en": "Enter your translation here"
+        "en": "openingHours"
       },
       "definition": {
         "nl": "Uren waarop iets beschikbaar is.",
-        "en": "Enter your translation here"
+        "en": "Hours when something is available."
       }
     },
     {
@@ -2200,15 +2200,15 @@
       "name": "vertrektijdstip",
       "label": {
         "nl": "vertrektijdstip",
-        "en": "Enter your translation here"
+        "en": "departureTime"
       },
       "definition": {
         "nl": "Tijdstip waarop de Reis aanvangt of waarop de Reiziger zou willen dat ze aanvangt.",
-        "en": "Enter your translation here"
+        "en": "Time at which the Journey starts or at which the Passenger would like it to start."
       },
       "usage": {
         "nl": "Doorgaans wordt enkel een vertrek- of een aankomsttijdstip opgegeven.",
-        "en": "Enter your translation here"
+        "en": "Usually only a departure or arrival time is given."
       }
     },
     {
@@ -2216,15 +2216,15 @@
       "name": "aankomsttijdstip",
       "label": {
         "nl": "aankomsttijdstip",
-        "en": "Enter your translation here"
+        "en": "arrivalTime"
       },
       "definition": {
         "nl": "Tijdstip waarop de Reis afgelopen is of waarop de Reiziger zou willen dat ze is afgelopen.",
-        "en": "Enter your translation here"
+        "en": "Time at which the Journey ends or at which the Passenger would like it to end."
       },
       "usage": {
         "nl": "Doorgaans wordt enkel een vertrek- of een aankomsttijdstip opgegeven.",
-        "en": "Enter your translation here"
+        "en": "Usually only a departure or arrival time is given."
       }
     },
     {
@@ -2232,11 +2232,11 @@
       "name": "geografische naam",
       "label": {
         "nl": "geografische naam",
-        "en": "Enter your translation here"
+        "en": "geographicalName"
       },
       "definition": {
         "nl": "Naam van het Transportobject.",
-        "en": "Enter your translation here"
+        "en": "Name of the Transport Object"
       }
     },
     {
@@ -2244,11 +2244,11 @@
       "name": "verbindt",
       "label": {
         "nl": "verbindt",
-        "en": "Enter your translation here"
+        "en": "connects"
       },
       "definition": {
         "nl": "Transportobjecten die door deTransportconnectie verbonden zijn.",
-        "en": "Enter your translation here"
+        "en": "Transport Objects that are connected throug the Transport Connection"
       }
     },
     {
@@ -2256,11 +2256,11 @@
       "name": "richting",
       "label": {
         "nl": "richting",
-        "en": "Enter your translation here"
+        "en": "direction"
       },
       "definition": {
         "nl": "Geeft aan of de richting van de link overeenstemt met zijn positieve of zijn negatieve richting.",
-        "en": "Enter your translation here"
+        "en": "Indicates whether the direction of the link corresponds to its positive or negative direction."
       }
     },
     {
@@ -2268,11 +2268,11 @@
       "name": "identificator",
       "label": {
         "nl": "identificator",
-        "en": "Enter your translation here"
+        "en": "identifier"
       },
       "definition": {
         "nl": "Identificator van het Transportgebied.",
-        "en": "Enter your translation here"
+        "en": "Identifier of the Transport Area"
       }
     },
     {
@@ -2280,11 +2280,11 @@
       "name": "identificator",
       "label": {
         "nl": "identificator",
-        "en": "Enter your translation here"
+        "en": "identifier"
       },
       "definition": {
         "nl": "Identificator van de Transportknoop.",
-        "en": "Enter your translation here"
+        "en": "Identifier of the Transport Node"
       }
     },
     {
@@ -2292,11 +2292,11 @@
       "name": "identificator",
       "label": {
         "nl": "identificator",
-        "en": "Enter your translation here"
+        "en": "identifier"
       },
       "definition": {
         "nl": "Identificator van de Transportconnectie.",
-        "en": "Enter your translation here"
+        "en": "Identifier of the Transport Connection"
       }
     },
     {
@@ -2304,11 +2304,11 @@
       "name": "geometriemiddellijn",
       "label": {
         "nl": "geometriemiddellijn",
-        "en": "Enter your translation here"
+        "en": "geometryMidline"
       },
       "definition": {
         "nl": "Geometrie van de midellijn van de Link.",
-        "en": "Enter your translation here"
+        "en": "Geometry of the Link's centre line."
       }
     },
     {
@@ -2316,11 +2316,11 @@
       "name": "bestaat uit",
       "label": {
         "nl": "bestaat uit",
-        "en": "Enter your translation here"
+        "en": "consistsOf"
       },
       "definition": {
         "nl": "Transportobjecten waaruit het Transportnetwerk bestaat.",
-        "en": "Enter your translation here"
+        "en": "Transport objects that make up the Transport Network."
       }
     },
     {
@@ -2328,11 +2328,11 @@
       "name": "geometrie",
       "label": {
         "nl": "geometrie",
-        "en": "Enter your translation here"
+        "en": "geometry"
       },
       "definition": {
         "nl": "Beschrijving van de geometrie van het Transportgebied.",
-        "en": "Enter your translation here"
+        "en": "Description of the geometry of the Transport Area."
       }
     },
     {
@@ -2340,11 +2340,11 @@
       "name": "geometrie",
       "label": {
         "nl": "geometrie",
-        "en": "Enter your translation here"
+        "en": "geometry"
       },
       "definition": {
         "nl": "Locatie van de Transportknoop.",
-        "en": "Enter your translation here"
+        "en": "Location of the Transport Node"
       }
     },
     {
@@ -2352,11 +2352,11 @@
       "name": "link",
       "label": {
         "nl": "link",
-        "en": "Enter your translation here"
+        "en": "link"
       },
       "definition": {
         "nl": "Verwijzing naar de Link.",
-        "en": "Enter your translation here"
+        "en": "Reference to the Link."
       }
     },
     {
@@ -2364,15 +2364,15 @@
       "name": "registratie",
       "label": {
         "nl": "registratie",
-        "en": "Enter your translation here"
+        "en": "registration"
       },
       "definition": {
         "nl": "Identificator die de organisatie verkreeg bij registratie.",
-        "en": "Enter your translation here"
+        "en": "Identifier that the organisation obtained by registration."
       },
       "usage": {
         "nl": "In de KBO is dit het ondernemingsnummer.",
-        "en": "Enter your translation here"
+        "en": "In the CBE this is the enterprise number."
       }
     },
     {
@@ -2380,11 +2380,11 @@
       "name": "geometrie",
       "label": {
         "nl": "geometrie",
-        "en": "Enter your translation here"
+        "en": "geometry"
       },
       "definition": {
         "nl": "Locatie van de Routeknoop.",
-        "en": "Enter your translation here"
+        "en": "Location of the Route Node"
       }
     },
     {
@@ -2392,11 +2392,11 @@
       "name": "geometrie",
       "label": {
         "nl": "geometrie",
-        "en": "Enter your translation here"
+        "en": "geometry"
       },
       "definition": {
         "nl": "Geometrie van de plaats of het gebied.",
-        "en": "Enter your translation here"
+        "en": "Geometry of the place or the area."
       }
     },
     {
@@ -2404,15 +2404,15 @@
       "name": "identificator",
       "label": {
         "nl": "identificator",
-        "en": "Enter your translation here"
+        "en": "identifier"
       },
       "definition": {
         "nl": "Identificator van de Publieke Organisatie.",
-        "en": "Enter your translation here"
+        "en": "Identifier of the Public Organisation."
       },
       "usage": {
         "nl": "Indien Geregistreerde Organisatie: Identificator die de organisatie verkreeg bij registratie.",
-        "en": "Enter your translation here"
+        "en": "If Registered Organisation: Identifier obtained by the organisation upon registration."
       }
     },
     {
@@ -2420,11 +2420,11 @@
       "name": "voorkeursnaam",
       "label": {
         "nl": "voorkeursnaam",
-        "en": "Enter your translation here"
+        "en": "preferredName"
       },
       "definition": {
         "nl": "Naam waarmee de Organisatie bij voorkeur wordt aangeduid.",
-        "en": "Enter your translation here"
+        "en": "Name preferred by the Organisation."
       }
     },
     {
@@ -2432,11 +2432,11 @@
       "name": "voorkeursnaam",
       "label": {
         "nl": "voorkeursnaam",
-        "en": "Enter your translation here"
+        "en": "preferredName"
       },
       "definition": {
         "nl": "Naam waarmee de Organisatie bij voorkeur wordt aangeduid.",
-        "en": "Enter your translation here"
+        "en": "Name preferred by the Organisation."
       }
     },
     {
@@ -2444,11 +2444,11 @@
       "name": "plaatsnaam",
       "label": {
         "nl": "plaatsnaam",
-        "en": "Enter your translation here"
+        "en": "placeName"
       },
       "definition": {
         "nl": "Naam van de plaats of van het gebied.",
-        "en": "Enter your translation here"
+        "en": "Name of the place or the area."
       }
     },
     {
@@ -2456,15 +2456,15 @@
       "name": "wkt",
       "label": {
         "nl": "wkt",
-        "en": "Enter your translation here"
+        "en": "wkt"
       },
       "definition": {
         "nl": "Geometrie uitgedrukt in wkt-formaat.",
-        "en": "Enter your translation here"
+        "en": "Geometry expressed in wkt format."
       },
       "usage": {
         "nl": "Gebruik http://www.opengis.net/ont/geosparql#wktLiteral als datatype.",
-        "en": "Enter your translation here"
+        "en": "Use http://www.opengis.net/ont/geosparql#wktLiteral as data type."
       }
     },
     {
@@ -2472,15 +2472,15 @@
       "name": "gml",
       "label": {
         "nl": "gml",
-        "en": "Enter your translation here"
+        "en": "gml"
       },
       "definition": {
         "nl": "Geometrie uitgedrukt in gml-formaat.",
-        "en": "Enter your translation here"
+        "en": "Geometry expressed in gml format"
       },
       "usage": {
         "nl": "Gebruik http://www.opengis.net/ont/geosparql#gmlLiteral als datatype.",
-        "en": "Enter your translation here"
+        "en": "Use http://www.opengis.net/ont/geosparql#gmlLiteral as data type."
       }
     },
     {
@@ -2488,11 +2488,11 @@
       "name": "is deel van",
       "label": {
         "nl": "is deel van",
-        "en": "Enter your translation here"
+        "en": "isPartOf"
       },
       "definition": {
         "nl": "Deel van een volledige Reis dat op zichzelf ook beschouwd kan worden als een Reis.",
-        "en": "Enter your translation here"
+        "en": "Part of a complete Journey that can also be considered a Journey in itself."
       }
     },
     {
@@ -2500,15 +2500,15 @@
       "name": "openingsurenString",
       "label": {
         "nl": "openingsurenString",
-        "en": "Enter your translation here"
+        "en": "openingHoursString"
       },
       "definition": {
         "nl": "Uren waarop iets beschikbaar is.",
-        "en": "Enter your translation here"
+        "en": "Hours when something is available."
       },
       "usage": {
         "nl": "Syntax volgens schema.org voor openingsuren. Bv als contact kan worden opgenomen tussen 8 en 20u maandag tot zaterdag en tussen 8 en 18u op zondag wordt dit gecodeerd als Ma-za 08:00-20:00, zo 08:00-18:00.",
-        "en": "Enter your translation here"
+        "en": "Syntax according to schema.org for opening hours. E.g. if contact can be made between 8 and 20h Monday to Saturday and between 8 and 18h on Sunday this is coded as Mon-Sat 08:00-20:00, Sun 08:00-18:00."
       }
     },
     {
@@ -2516,15 +2516,15 @@
       "name": "reisweg",
       "label": {
         "nl": "reisweg",
-        "en": "Enter your translation here"
+        "en": "itinerary"
       },
       "definition": {
         "nl": "Opeenvolging van Locaties die men tijdens de Reis wil aandoen.",
-        "en": "Enter your translation here"
+        "en": "Sequence of Locations to be visited during the Trip."
       },
       "usage": {
         "nl": "Inclusief de Locatie waar de Reis aanvangt en eindigt.",
-        "en": "Enter your translation here"
+        "en": "Including the Location where the Trip starts and ends."
       }
     },
     {
@@ -2532,11 +2532,11 @@
       "name": "contactinfo",
       "label": {
         "nl": "contactinfo",
-        "en": "Enter your translation here"
+        "en": "contactInformation"
       },
       "definition": {
         "nl": "Informatie zoals email, telefoon... die toelaat de Organisatie te contacteren.",
-        "en": "Enter your translation here"
+        "en": "Information such as email, telephone... which allows the Organisation to be contacted."
       }
     },
     {
@@ -2544,11 +2544,11 @@
       "name": "contactinfo",
       "label": {
         "nl": "contactinfo",
-        "en": "Enter your translation here"
+        "en": "contactInformation"
       },
       "definition": {
         "nl": "Informatie zoals email, telefoon... die toelaat de Organisatie te contacteren.",
-        "en": "Enter your translation here"
+        "en": "Information such as email, telephone... which allows the Organisation to be contacted."
       }
     },
     {
@@ -2556,15 +2556,15 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van de Route.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Route"
       },
       "usage": {
         "nl": "Bv kortste, snelste...",
-        "en": "Enter your translation here"
+        "en": "E.g. shortest, fastest..."
       }
     },
     {
@@ -2572,11 +2572,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van de Routeknoop.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Route Node"
       }
     },
     {
@@ -2584,15 +2584,15 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van de mobiliteitsdienst.",
-        "en": "Enter your translation here"
+        "en": "Nature of the mobility service"
       },
       "usage": {
         "nl": "Bv openbaar vervoer, parking etc. Combinaties zijn mogelijk, bv collectief vervoer & openbaar vervoer (bv NMBS), individueel vervoer & privé vervoer (taxi's)...",
-        "en": "Enter your translation here"
+        "en": "E.g. public transport, parking etc. Combinations are possible, e.g. collective transport & public transport (e.g. SNCB), individual transport & private transport (taxis)..."
       }
     },
     {
@@ -2600,11 +2600,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van de Resource.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Resource"
       }
     },
     {
@@ -2612,11 +2612,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van het Transportnetwerk volgens de vervoerswijze.",
-        "en": "Enter your translation here"
+        "en": "Nature of the transport network according to the mode."
       }
     },
     {
@@ -2624,11 +2624,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van de Voorkeur van de Reiziger.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Passenger's Preference."
       }
     },
     {
@@ -2636,11 +2636,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van het Kenmerk van de Reiziger.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Characteristic of the Passenger."
       }
     },
     {
@@ -2648,15 +2648,15 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van het Vervoersbewijs.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Transport Ticket"
       },
       "usage": {
         "nl": "Beperkt tot types die op een kwalitatieve manier aangeven in welke mate de Mobiliteitsdienst gebruikt mag worden met het gegeven Vervoersbewijs. Bv dagticket geeft aan dat de Mobiliteitsdienst ongelimiteerd gebruikt mag worden gedurende 1 dag...",
-        "en": "Enter your translation here"
+        "en": "Limited to types that qualitatively indicate the extent to which the Mobility Service may be used with the given Ticket. E.g. day ticket indicates that the Mobility Service can be used without limits during 1 day..."
       }
     },
     {
@@ -2664,11 +2664,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van het Transportgebied.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Transport Area"
       }
     },
     {
@@ -2676,11 +2676,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van de Transportknoop.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Transport Node"
       }
     },
     {
@@ -2688,11 +2688,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van de Transportconnectie.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Transport Connection"
       }
     },
     {
@@ -2700,11 +2700,11 @@
       "name": "type",
       "label": {
         "nl": "type",
-        "en": "Enter your translation here"
+        "en": "type"
       },
       "definition": {
         "nl": "Aard van de Toegankelijkheid.",
-        "en": "Enter your translation here"
+        "en": "Nature of the Accessibility"
       }
     },
     {
@@ -2712,11 +2712,11 @@
       "name": "naam",
       "label": {
         "nl": "naam",
-        "en": "Enter your translation here"
+        "en": "name"
       },
       "definition": {
         "nl": "Naam van de Mobiliteitsdienst.",
-        "en": "Enter your translation here"
+        "en": "Name of the Mobility Service"
       }
     },
     {
@@ -2724,11 +2724,11 @@
       "name": "naam",
       "label": {
         "nl": "naam",
-        "en": "Enter your translation here"
+        "en": "name"
       },
       "definition": {
         "nl": "Naam van de Routeplanner.",
-        "en": "Enter your translation here"
+        "en": "Name of the Route Planner"
       }
     },
     {
@@ -2736,11 +2736,11 @@
       "name": "naam",
       "label": {
         "nl": "naam",
-        "en": "Enter your translation here"
+        "en": "name"
       },
       "definition": {
         "nl": "Naam vh formeel kader.",
-        "en": "Enter your translation here"
+        "en": "Name of the formal framework"
       }
     },
     {
@@ -2748,11 +2748,11 @@
       "name": "naam",
       "label": {
         "nl": "naam",
-        "en": "Enter your translation here"
+        "en": "name"
       },
       "definition": {
         "nl": "Naam van het Prijsplan.",
-        "en": "Enter your translation here"
+        "en": "Name of the Price Plan"
       }
     },
     {
@@ -2760,11 +2760,11 @@
       "name": "werkingsgebied",
       "label": {
         "nl": "werkingsgebied",
-        "en": "Enter your translation here"
+        "en": "operatingArea"
       },
       "definition": {
         "nl": "Administratief gebied dat de Publieke Organisatie dekt.",
-        "en": "Enter your translation here"
+        "en": "Administrative area covering the Public Organisation."
       },
       "usage": {
         "nl": " ",
@@ -2776,15 +2776,15 @@
       "name": "ruimtelijke dekking",
       "label": {
         "nl": "ruimtelijke dekking",
-        "en": "Enter your translation here"
+        "en": "spatialCoverage"
       },
       "definition": {
         "nl": "Gebied of Plaats waarbinnen de Mobiliteitsdienst wordt aangeboden.",
-        "en": "Enter your translation here"
+        "en": "Area or Place within which the Mobility Service is offered."
       },
       "usage": {
         "nl": "Bv Brussels Gewest, Antwerpen...",
-        "en": "Enter your translation here"
+        "en": "E.g. Brussels Region, Antwerp..."
       }
     },
     {
@@ -2792,15 +2792,15 @@
       "name": "ruimtelijke dekking",
       "label": {
         "nl": "ruimtelijke dekking",
-        "en": "Enter your translation here"
+        "en": "spatialCoverage"
       },
       "definition": {
         "nl": "Plaats waar de Resource zich bevindt.",
-        "en": "Enter your translation here"
+        "en": "Place where the Resource is located."
       },
       "usage": {
         "nl": "Dit kan bv de realtime Locatie zijn van het voertuig bv bij free floating deelvervoer.",
-        "en": "Enter your translation here"
+        "en": "This can be the real-time location of the vehicle, e.g. in free-floating part transport."
       }
     },
     {
@@ -2808,11 +2808,11 @@
       "name": "is gerelateerd aan",
       "label": {
         "nl": "is gerelateerd aan",
-        "en": "Enter your translation here"
+        "en": "isRelatedTo"
       },
       "definition": {
         "nl": "Ander formeel kader dat met het formeel kader verband houdt.",
-        "en": "Enter your translation here"
+        "en": "Other formal framework related to the formal framework."
       }
     },
     {
@@ -2820,11 +2820,11 @@
       "name": "beschrijving",
       "label": {
         "nl": "beschrijving",
-        "en": "Enter your translation here"
+        "en": "description"
       },
       "definition": {
         "nl": "Beschrijving van het formeel kader.",
-        "en": "Enter your translation here"
+        "en": "Desription of the formal framework"
       }
     },
     {
@@ -2832,11 +2832,11 @@
       "name": "beschrijving",
       "label": {
         "nl": "beschrijving",
-        "en": "Enter your translation here"
+        "en": "description"
       },
       "definition": {
         "nl": "Beschrijving van het Prijsplan.",
-        "en": "Enter your translation here"
+        "en": "Description of the Price Plan"
       }
     },
     {
@@ -2844,11 +2844,11 @@
       "name": "periode",
       "label": {
         "nl": "periode",
-        "en": "Enter your translation here"
+        "en": "period"
       },
       "definition": {
         "nl": "Periode waarvoor het Vervoersbewijs geldt.",
-        "en": "Enter your translation here"
+        "en": "Period for which the Ticket is valid."
       }
     },
     {
@@ -2856,11 +2856,11 @@
       "name": "periode",
       "label": {
         "nl": "periode",
-        "en": "Enter your translation here"
+        "en": "period"
       },
       "definition": {
         "nl": "Periode waarvoor de Licentie geldt.",
-        "en": "Enter your translation here"
+        "en": "Period for which the Licence is valid."
       }
     },
     {
@@ -2868,11 +2868,11 @@
       "name": "periode",
       "label": {
         "nl": "periode",
-        "en": "Enter your translation here"
+        "en": "period"
       },
       "definition": {
         "nl": "Periode waarvoor iets gereserveerd wordt.",
-        "en": "Enter your translation here"
+        "en": "Period for which something is reserved."
       }
     },
     {
@@ -2880,15 +2880,15 @@
       "name": "datum",
       "label": {
         "nl": "datum",
-        "en": "Enter your translation here"
+        "en": "date"
       },
       "definition": {
         "nl": "Tijdstip waarop de Boeking is gebeurd.",
-        "en": "Enter your translation here"
+        "en": "Time the booking was made."
       },
       "usage": {
         "nl": "Dit tijdstip ligt typisch voor het vertrektijdstip van de Reis.",
-        "en": "Enter your translation here"
+        "en": "This time is typically before the departure time of the Journey."
       }
     },
     {
@@ -2896,15 +2896,15 @@
       "name": "toepassingsgebied",
       "label": {
         "nl": "toepassingsgebied",
-        "en": "Enter your translation here"
+        "en": "territorialApplication"
       },
       "definition": {
         "nl": "Het geografisch bereik vh formeel kader.",
-        "en": "Enter your translation here"
+        "en": "The geographical scope of the formal framework"
       },
       "usage": {
         "nl": "Maw of bvb Europees, nationaal, lokaal is.",
-        "en": "Enter your translation here"
+        "en": "In other words, whether it is European, national or local."
       }
     },
     {
@@ -2912,11 +2912,11 @@
       "name": "toepassingsgebied",
       "label": {
         "nl": "toepassingsgebied",
-        "en": "Enter your translation here"
+        "en": "territorialApplication"
       },
       "definition": {
         "nl": "Gebied of Plaats waarbinnen de Licentie geldt.",
-        "en": "Enter your translation here"
+        "en": "Area or Place in which the Licence is valid."
       }
     },
     {
@@ -2924,11 +2924,11 @@
       "name": "begin",
       "label": {
         "nl": "begin",
-        "en": "Enter your translation here"
+        "en": "begin"
       },
       "definition": {
         "nl": "Aanvang van de tijdsduur.",
-        "en": "Enter your translation here"
+        "en": "Start of the time period."
       }
     },
     {
@@ -2936,11 +2936,11 @@
       "name": "einde",
       "label": {
         "nl": "einde",
-        "en": "Enter your translation here"
+        "en": "end"
       },
       "definition": {
         "nl": "Einde vd tijdsduur.",
-        "en": "Enter your translation here"
+        "en": "End of the time period."
       }
     }
   ]
