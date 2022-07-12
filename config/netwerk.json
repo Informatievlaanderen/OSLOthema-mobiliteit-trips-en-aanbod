@@ -22,7 +22,7 @@
       "mergefile":"network-voc_en_merged.jsonld"
     },{
       "language":"nl",
-      "template": "network-voc.j2",
+      "template": "netwerk-voc.j2",
       "title": "Netwerk (Vocabularium)",
       "translationjson":"network-voc_nl.json",
       "mergefile":"network-voc_nl_merged.jsonld"

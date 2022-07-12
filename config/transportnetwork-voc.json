@@ -22,7 +22,7 @@
       "mergefile":"transportnetwork-voc_en_merged.jsonld"
     },{
       "language":"nl",
-      "template": "transportnetwork-voc.j2",
+      "template": "transportnetwerk-voc.j2",
       "title": "Transportnetwerk (Vocabularium)",
       "translationjson":"transportnetwerk-voc_nl.json",
       "mergefile":"transportnetwerk-voc_nl_merged.jsonld"
