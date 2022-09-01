@@ -1,5 +1,8 @@
 {% extends "ap2_en.j2" %}
- 
+{% block license %}
+<p><spanrel="dct:type"property="dct:title"href="http://purl.org/dc/dcmitype/Text"xmlns:dct="http://purl.org/dc/terms/">This specification</span> of <arel="cc:attributionURL"property="cc:attributionName"href="ORGANISATION"xmlns:cc="http://creativecommons.org/ns#">ORGANISATION</a> is published under <ahref="{{ metadata.license }}"rel="license">"CC0"</a>.</p>
+{% endblock %}
+
 {% block summary %}
 <p>
 The application profile OSLO-Mobility: Trips and Offers shows how terms from the corresponding <a href="https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod">vocabulary</a> should be used to exchange data on 1) trips made by individuals and 2) the mobility services available to them.
