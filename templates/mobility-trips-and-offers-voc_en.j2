@@ -1,5 +1,9 @@
 {% extends "voc2_en.j2" %}
 
+{% block license %}
+<p><spanrel="dct:type"property="dct:title"href="http://purl.org/dc/dcmitype/Text"xmlns:dct="http://purl.org/dc/terms/">This specification</span> of <arel="cc:attributionURL"property="cc:attributionName"href="ORGANISATION"xmlns:cc="http://creativecommons.org/ns#">ORGANISATION</a> is published under <ahref="{{ metadata.license }}"rel="license">"CC0"</a>.</p>
+{% endblock %}
+
 {% block summary %}
 <p>The vocabulary "OSLO-Mobility: Trips and Offers" defines terms that apply to (1) trips undertaken by individuals and (2) the mobility services available to them.</p>
 <p>The trips are defined in terms of the route taken, the services/resources/infrastructure used, the operator, the tickets purchased, traveller preferences and characteristics.</p>
