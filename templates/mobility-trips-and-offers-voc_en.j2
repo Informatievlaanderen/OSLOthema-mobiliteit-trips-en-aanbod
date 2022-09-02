@@ -1,5 +1,13 @@
 {% extends "voc2_en.j2" %}
 
+{% block introduction %}
+<p>
+This document describes an<strong>application profile</strong>, in this case <strong>{{ metadata.title }}</strong>.
+The application profile specifies a semantic data model covering a set of usecases. 
+The specification consists of terms with their constraints (cardinalities, codelists, usage guidelines).  
+</p>
+{% endblock %}
+
 {% block license %}
 <p><spanrel="dct:type"property="dct:title"href="http://purl.org/dc/dcmitype/Text"xmlns:dct="http://purl.org/dc/terms/">This specification</span> of <arel="cc:attributionURL"property="cc:attributionName"href="ORGANISATION"xmlns:cc="http://creativecommons.org/ns#">ORGANISATION</a> is published under <ahref="{{ metadata.license }}"rel="license">"CC0"</a>.</p>
 {% endblock %}
