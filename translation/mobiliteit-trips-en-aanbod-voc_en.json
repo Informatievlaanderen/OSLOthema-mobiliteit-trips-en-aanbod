@@ -113,11 +113,11 @@
       },
       "definition": {
         "nl": "Logische verbinding tussen twee Routeknopen.",
-        "en": "Logical connection between two Route nodes."
+        "en": "Logical connection between two Route Nodes."
       },
       "usage": {
         "nl": "Bedoeld om de overgang tussen twee Routesegmenten te beschrijven indien deze niet zelf door een Routesegment wordt voorgesteld. Men kan overstappen tussen twee dezelfde Routeknopen (bv overstap van de ene trein op de andere in hetzelfde station) of tussen twee verschillende (bv overstap van de parking bij het station naar - de perrons van - het station).",
-        "en": "Means to describe the transition between two Route segments if not represented by a Route segment itself. One can interchange between two same Route nodes (e.g. changing from one train to another at the same station) or between two different ones (e.g. interchanging from the station car park to the station platforms)."
+        "en": "Means to describe the transition between two Route Segments if not represented by a Route Segment itself. One can interchange between two same Route Nodes (e.g. changing from one train to another at the same station) or between two different ones (e.g. interchanging from the station car park to the station platforms)."
       }
     },
     {
@@ -193,7 +193,7 @@
       },
       "definition": {
         "nl": "Beschrijving van een Route.",
-        "en": "Description of a Route"
+        "en": "Description of a Route."
       },
       "usage": {
         "nl": "Typisch de beschrijving zoals ze in een Routeplanner zou worden getoond.",
@@ -209,7 +209,7 @@
       },
       "definition": {
         "nl": "Significante positie in de Route die steeds samenvalt met het begin of het einde van een Routesegment.",
-        "en": "Significant position in the Route that always coincides with the beginning or the end of a Route segment."
+        "en": "Significant position in the Route that always coincides with the beginning or the end of a Route Segment."
       }
     },
     {
