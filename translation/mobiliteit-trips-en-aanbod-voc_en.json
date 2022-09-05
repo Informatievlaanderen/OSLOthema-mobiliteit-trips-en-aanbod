@@ -1075,7 +1075,7 @@
       },
       "definition": {
         "nl": "Resource van de Mobiliteitsdienst die de reiziger heeft gebruikt in de Routeknoop.",
-        "en": "Resource of the Mobility Service that the traveller has used in the Route node."
+        "en": "Resource of the Mobility Service that the traveller has used in the Route Node."
       },
       "usage": {
         "nl": "Bv parkeerplaats.",
@@ -1091,7 +1091,7 @@
       },
       "definition": {
         "nl": "Mobiliteitsdienst die de Reiziger heeft gebruikt in de Routeknoop.",
-        "en": "Mobility service used by the Passenger in the Route node."
+        "en": "Mobility service used by the Passenger in the Route Node."
       },
       "usage": {
         "nl": "Bv parking.",
@@ -1119,7 +1119,7 @@
       },
       "usage": {
         "nl": "Af te leiden uit de kenmerken vd Route, typisch uit de geometrie van de Routesegmenten.",
-        "en": "Enter your translation here"
+        "en": "Derived from the characteristics of the Route, typically from the geometry of the Route segments."
       }
     },
     {
@@ -1127,7 +1127,7 @@
       "name": "aankomsttijdstip",
       "label": {
         "nl": "aankomsttijdstip",
-        "en": "Derived from the characteristics of the Route, typically from the geometry of the Route segments."
+        "en": "arrivalTime"
       },
       "definition": {
         "nl": "Tijdstip waarop de Route eindigt.",
