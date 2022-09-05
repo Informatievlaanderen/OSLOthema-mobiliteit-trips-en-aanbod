@@ -379,7 +379,7 @@
         "en": "Node where the Route Segment starts."
       },
       "usage": {
-        "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt",
+        "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt	",
         "en": "Useful if at the departure or arrival point a Mobility Service or Resource is used (e.g. car park) or to indicate with which Transport Object the point coincides."
       }
     },
