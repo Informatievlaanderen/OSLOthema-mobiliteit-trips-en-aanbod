@@ -1183,7 +1183,7 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "actuator"
+        "en": "propulsion"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel.",
@@ -1203,7 +1203,7 @@
       },
       "usage": {
         "nl": "",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
@@ -1227,7 +1227,7 @@
       "name": "boeking",
       "label": {
         "nl": "Boeking",
-        "en": "booking"
+        "en": "Booking"
       },
       "definition": {
         "nl": "Referentie naar verbonden klasse.",
@@ -1235,7 +1235,7 @@
       },
       "usage": {
         "nl": "",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
@@ -1311,7 +1311,7 @@
       },
       "usage": {
         "nl": "",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
@@ -1327,7 +1327,7 @@
       },
       "usage": {
         "nl": "",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
