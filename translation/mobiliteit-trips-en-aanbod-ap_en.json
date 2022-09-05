@@ -2652,7 +2652,7 @@
       },
       "definition": {
         "nl": "Aard van het Vervoersbewijs.",
-        "en": "Nature of the Transport Ticket"
+        "en": "Nature of the Transport Ticket."
       },
       "usage": {
         "nl": "Beperkt tot types die op een kwalitatieve manier aangeven in welke mate de Mobiliteitsdienst gebruikt mag worden met het gegeven Vervoersbewijs. Bv dagticket geeft aan dat de Mobiliteitsdienst ongelimiteerd gebruikt mag worden gedurende 1 dag...",
@@ -2668,7 +2668,7 @@
       },
       "definition": {
         "nl": "Aard van het Transportgebied.",
-        "en": "Nature of the Transport Area"
+        "en": "Nature of the Transport Area."
       }
     },
     {
@@ -2680,7 +2680,7 @@
       },
       "definition": {
         "nl": "Aard van de Transportknoop.",
-        "en": "Nature of the Transport Node"
+        "en": "Nature of the Transport Node."
       }
     },
     {
@@ -2692,7 +2692,7 @@
       },
       "definition": {
         "nl": "Aard van de Transportconnectie.",
-        "en": "Nature of the Transport Connection"
+        "en": "Nature of the Transport Connection."
       }
     },
     {
@@ -2704,7 +2704,7 @@
       },
       "definition": {
         "nl": "Aard van de Toegankelijkheid.",
-        "en": "Nature of the Accessibility"
+        "en": "Nature of the Accessibility."
       }
     },
     {
@@ -2728,7 +2728,7 @@
       },
       "definition": {
         "nl": "Naam van de Routeplanner.",
-        "en": "Name of the Route Planner"
+        "en": "Name of the Route Planner."
       }
     },
     {
@@ -2740,7 +2740,7 @@
       },
       "definition": {
         "nl": "Naam vh formeel kader.",
-        "en": "Name of the formal framework"
+        "en": "Name of the formal framework."
       }
     },
     {
@@ -2752,7 +2752,7 @@
       },
       "definition": {
         "nl": "Naam van het Prijsplan.",
-        "en": "Name of the Price Plan"
+        "en": "Name of the Price Plan."
       }
     },
     {
@@ -2768,7 +2768,7 @@
       },
       "usage": {
         "nl": " ",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
@@ -2824,7 +2824,7 @@
       },
       "definition": {
         "nl": "Beschrijving van het formeel kader.",
-        "en": "Desription of the formal framework"
+        "en": "Desription of the formal framework."
       }
     },
     {
@@ -2836,7 +2836,7 @@
       },
       "definition": {
         "nl": "Beschrijving van het Prijsplan.",
-        "en": "Description of the Price Plan"
+        "en": "Description of the Price Plan."
       }
     },
     {
@@ -2884,7 +2884,7 @@
       },
       "definition": {
         "nl": "Tijdstip waarop de Boeking is gebeurd.",
-        "en": "Time the booking was made."
+        "en": "Time the Booking was made."
       },
       "usage": {
         "nl": "Dit tijdstip ligt typisch voor het vertrektijdstip van de Reis.",
@@ -2900,7 +2900,7 @@
       },
       "definition": {
         "nl": "Het geografisch bereik vh formeel kader.",
-        "en": "The geographical scope of the formal framework"
+        "en": "The geographical scope of the formal framework."
       },
       "usage": {
         "nl": "Maw of bvb Europees, nationaal, lokaal is.",
