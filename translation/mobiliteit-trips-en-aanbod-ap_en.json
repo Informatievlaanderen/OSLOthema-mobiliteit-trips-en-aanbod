@@ -712,7 +712,7 @@
       },
       "definition": {
         "nl": "Identificator van de Resource.",
-        "en": "Identifier of the Resource"
+        "en": "Identifier of the Resource."
       },
       "usage": {
         "nl": "Bv nummerplaat van de huurauto, nummer vd zitplaats...",
@@ -852,7 +852,7 @@
       },
       "usage": {
         "nl": "Coordinaten van dit punt kunnen afgeleid worden uit de set van Routesegmenten. Vooral nuttig om de ligging dmv een toponiem, adreslabel of verwijzing naar een plaats aan te duiden.",
-        "en": "Coordinates of this point can be derived from the set of Route segments. Especially useful to indicate the location by a toponym, address label or reference to a place."
+        "en": "Coordinates of this point can be derived from the set of Route Segments. Especially useful to indicate the location by a toponym, address label or reference to a place."
       }
     },
     {
@@ -864,7 +864,7 @@
       },
       "definition": {
         "nl": "Knoop waar het Routesegment eindigt.",
-        "en": "Node where the route segment ends."
+        "en": "Node where the Route Segment ends."
       },
       "usage": {
         "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt.",
@@ -896,7 +896,7 @@
       },
       "definition": {
         "nl": "De aanbieder van de Mobiliteitsdienst.",
-        "en": "The provider of the Mobility Service"
+        "en": "The provider of the Mobility Service."
       }
     },
     {
@@ -952,7 +952,7 @@
       },
       "usage": {
         "nl": "Bv of het Transportobject toegankelijk is voor personen met een beperking.",
-        "en": "E.g. whether the Transport object is accessible for persons with a disability."
+        "en": "E.g. whether the Transport Object is accessible for persons with a disability."
       }
     },
     {
@@ -964,7 +964,7 @@
       },
       "definition": {
         "nl": "Beschikbaarheid van het Transportobject.",
-        "en": "Availability of the Transport Object"
+        "en": "Availability of the Transport Object."
       },
       "usage": {
         "nl": "Bv openingsuren.",
@@ -1052,7 +1052,7 @@
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee het Routesegment is afgelegd.",
-        "en": "Propulsion of the means of transport by which the route segment was covered."
+        "en": "Propulsion of the means of transport by which the Route Segment was covered."
       }
     },
     {
@@ -1064,11 +1064,11 @@
       },
       "definition": {
         "nl": "Vervoersbewijs dat nodig is of gebruikt is in de Routeknoop.",
-        "en": "Ticket needed or used in the Route node."
+        "en": "Ticket needed or used in the Route Node."
       },
       "usage": {
         "nl": "Bv het parkeerticket nodig voor het parkeren van zijn auto in de Routeknoop.",
-        "en": "E.g. the parking ticket needed for parking his car in the Routeknoop."
+        "en": "E.g. the parking ticket needed for parking his car in the Route Node."
       }
     },
     {
@@ -1080,7 +1080,7 @@
       },
       "definition": {
         "nl": "Transportobject dat met de Routeknoop samenvalt.",
-        "en": "Transport object that coincides with the Route node."
+        "en": "Transport object that coincides with the Route Node."
       },
       "usage": {
         "nl": "Bv de halte waar men op- of afstapt, de parking waar men zijn auto parkeert, het deelfietsstation waar men een fiets ophaalt.",
@@ -1096,7 +1096,7 @@
       },
       "definition": {
         "nl": "Resource van de Mobiliteitsdienst die de reiziger heeft gebruikt in de Routeknoop.",
-        "en": "Resource of the Mobility Service that the traveller has used in the Route node."
+        "en": "Resource of the Mobility Service that the traveller has used in the Route Node."
       },
       "usage": {
         "nl": "Bv parkeerplaats.",
@@ -1112,7 +1112,7 @@
       },
       "definition": {
         "nl": "Mobiliteitsdienst die de Reiziger heeft gebruikt in de Routeknoop.",
-        "en": "Mobility service used by the Passenger in the Route node."
+        "en": "Mobility service used by the Passenger in the Route Node."
       },
       "usage": {
         "nl": "Bv parking.",
@@ -1140,7 +1140,7 @@
       },
       "usage": {
         "nl": "Af te leiden uit de kenmerken vd Route, typisch uit de geometrie van de Routesegmenten.",
-        "en": "Derived from the characteristics of the Route, typically from the geometry of the Route segments."
+        "en": "Derived from the characteristics of the Route, typically from the geometry of the Route Segments."
       }
     },
     {
@@ -1152,7 +1152,7 @@
       },
       "definition": {
         "nl": "Tijdstip waarop de Route eindigt.",
-        "en": "Time when the route ends."
+        "en": "Time when the Route ends."
       }
     },
     {
@@ -1204,7 +1204,7 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "actuator"
+        "en": "propulsion"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel.",
@@ -1224,7 +1224,7 @@
       },
       "usage": {
         "nl": "",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
@@ -1256,7 +1256,7 @@
       },
       "usage": {
         "nl": "",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
@@ -1268,7 +1268,7 @@
       },
       "definition": {
         "nl": "Vervoersbewijs van de Reiziger.",
-        "en": "transportTicket of the Traveler"
+        "en": "transportTicket of the Traveler."
       },
       "usage": {
         "nl": "Kan los staan van een Reis, ttz men kan beschikken over een Vervoersbewijs waarbij de Reis nog niet vastligt of nog niet is uitgevoerd, bv een abonnement of een dagkaart.",
@@ -1324,15 +1324,15 @@
       "name": "routeknoop (target)",
       "label": {
         "nl": "Routeknoop (target)",
-        "en": ""
+        "en": "routeNode (target)"
       },
       "definition": {
         "nl": "Referentie naar verbonden klasse.",
-        "en": "Enter your translation here"
+        "en": "Reference to connected class."
       },
       "usage": {
         "nl": "",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
@@ -1348,7 +1348,7 @@
       },
       "usage": {
         "nl": "",
-        "en": "Enter your translation here"
+        "en": ""
       }
     },
     {
