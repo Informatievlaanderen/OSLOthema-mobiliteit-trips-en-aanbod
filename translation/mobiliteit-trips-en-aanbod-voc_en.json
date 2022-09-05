@@ -971,7 +971,7 @@
       },
       "definition": {
         "nl": "Type vervoermiddel waarmee het Routesegment is afgelegd.",
-        "en": "Type of means of transport the route segment was covered with."
+        "en": "Type of means of transport the Route Segment was covered with."
       }
     },
     {
@@ -983,7 +983,7 @@
       },
       "definition": {
         "nl": "Tijdstip waarop het Routesegment begint.",
-        "en": "Time when the route segment starts."
+        "en": "Time when the Route Segment starts."
       }
     },
     {
@@ -1019,7 +1019,7 @@
       },
       "definition": {
         "nl": "Tijdstip waarop het Routesegment eindigt.",
-        "en": "Time at which the route segment ends."
+        "en": "Time at which the Route Segment ends."
       }
     },
     {
@@ -1027,11 +1027,11 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "actuator"
+        "en": "propulsion"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee het Routesegment is afgelegd.",
-        "en": "Propulsion of the means of transport by which the route segment was covered."
+        "en": "Propulsion of the means of transport by which the Route Segment was covered."
       }
     },
     {
@@ -1043,11 +1043,11 @@
       },
       "definition": {
         "nl": "Vervoersbewijs dat nodig is of gebruikt is in de Routeknoop.",
-        "en": "Ticket needed or used in the Route node."
+        "en": "Ticket needed or used in the Route Node."
       },
       "usage": {
         "nl": "Bv het parkeerticket nodig voor het parkeren van zijn auto in de Routeknoop.",
-        "en": "E.g. the parking ticket needed for parking his car in the Routeknoop."
+        "en": "E.g. the parking ticket needed for parking his car in the Route Node."
       }
     },
     {
