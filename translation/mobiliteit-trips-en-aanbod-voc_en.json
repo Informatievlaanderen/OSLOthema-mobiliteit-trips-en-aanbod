@@ -233,7 +233,7 @@
       },
       "definition": {
         "nl": "Deel van een Route dat zonder Overstap wordt afgelegd met hetzelfde vervoermiddel.",
-        "en": "Part of a Route that is travelled without a transfer using the same means of transport.e"
+        "en": "Part of a Route that is travelled without a transfer using the same means of transport."
       }
     },
     {
@@ -305,7 +305,7 @@
       },
       "usage": {
         "nl": "Bv routetype, vervoermiddel...",
-        "en": "E.g. type of route, means of transport ..."
+        "en": "E.g. type of route, means of transport..."
       }
     },
     {
@@ -347,7 +347,7 @@
       },
       "definition": {
         "nl": "Publieke Organisatie verantwoordelijk voor het verkeersmanagement of de planning, controle of het beheer van een bepaald vervoersnetwerk of vervoerswijze, of beide, die onder haar territoriale bevoegdheid vallen.",
-        "en": "Public organisation responsible for traffic management or the planning, control or management of a particular transport network or mode of transport, or both, that falls under its territorial competence."
+        "en": "Public Organisation responsible for traffic management or the planning, control or management of a particular transport network or mode of transport, or both, that falls under its territorial competence."
       }
     },
     {
