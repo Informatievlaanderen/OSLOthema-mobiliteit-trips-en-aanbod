@@ -447,7 +447,7 @@
       },
       "usage": {
         "nl": "Af te leiden uit andere kenmerken van de Route, bv de routesegmenten waaruit de Route bestaat en de kenmerken daarvan.",
-        "en": "Inferred from other features of the Route, e.g. the route segments that make up the Route and their characteristics.e"
+        "en": "Inferred from other features of the Route, e.g. the route segments that make up the Route and their characteristics."
       }
     },
     {
@@ -471,7 +471,7 @@
       },
       "definition": {
         "nl": "Reis die geboekt wordt.",
-        "en": "Trip that is booked"
+        "en": "Trip that is booked."
       }
     },
     {
@@ -539,14 +539,14 @@
       },
       "definition": {
         "nl": "Routeknoop waarnaar wordt overgestapt.",
-        "en": "Route node to which is switched."
+        "en": "Route Node to which is switched."
       }
     },
     {
       "EA-Guid": "{A9986069-25A2-4c5d-94B4-589C7B5A7D22}",
       "name": "onderneemt",
       "label": {
-        "nl": "Onderneemt",
+        "nl": "onderneemt",
         "en": "undertakes"
       },
       "definition": {
