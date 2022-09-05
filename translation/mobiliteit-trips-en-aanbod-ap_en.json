@@ -1048,7 +1048,7 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "actuator"
+        "en": "propulsion"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee het Routesegment is afgelegd.",
