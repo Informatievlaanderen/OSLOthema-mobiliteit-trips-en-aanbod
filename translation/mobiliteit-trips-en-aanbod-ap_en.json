@@ -2384,7 +2384,7 @@
       },
       "definition": {
         "nl": "Locatie van de Routeknoop.",
-        "en": "Location of the Route Node"
+        "en": "Location of the Route Node."
       }
     },
     {
@@ -2576,7 +2576,7 @@
       },
       "definition": {
         "nl": "Aard van de Routeknoop.",
-        "en": "Nature of the Route Node"
+        "en": "Nature of the Route Node."
       }
     },
     {
@@ -2588,7 +2588,7 @@
       },
       "definition": {
         "nl": "Aard van de mobiliteitsdienst.",
-        "en": "Nature of the mobility service"
+        "en": "Nature of the Mobility Service."
       },
       "usage": {
         "nl": "Bv openbaar vervoer, parking etc. Combinaties zijn mogelijk, bv collectief vervoer & openbaar vervoer (bv NMBS), individueel vervoer & privé vervoer (taxi's)...",
@@ -2604,7 +2604,7 @@
       },
       "definition": {
         "nl": "Aard van de Resource.",
-        "en": "Nature of the Resource"
+        "en": "Nature of the Resource."
       }
     },
     {
@@ -2616,7 +2616,7 @@
       },
       "definition": {
         "nl": "Aard van het Transportnetwerk volgens de vervoerswijze.",
-        "en": "Nature of the transport network according to the mode."
+        "en": "Nature of the Transport Network according to the mode."
       }
     },
     {
