@@ -1139,7 +1139,7 @@
         "en": "distance"
       },
       "usage": {
-        "nl": "Af te leiden uit de kenmerken vd Route, typisch uit de geometrie van de Routesegmenten.",
+        "nl": "f te leiden uit de kenmerken vd Route, typisch uit de geometrie van de Routesegmenten.",
         "en": "Derived from the characteristics of the Route, typically from the geometry of the Route Segments."
       }
     },
