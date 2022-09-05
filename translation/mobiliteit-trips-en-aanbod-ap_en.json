@@ -348,7 +348,7 @@
       },
       "definition": {
         "nl": "Publieke Organisatie verantwoordelijk voor het verkeersmanagement of de planning, controle of het beheer van een bepaald vervoersnetwerk of vervoerswijze, of beide, die onder haar territoriale bevoegdheid vallen.",
-        "en": "Public organisation responsible for traffic management or the planning, control or management of a particular transport network or mode of transport, or both, that falls under its territorial competence."
+        "en": "Public Organisation responsible for traffic management or the planning, control or management of a particular transport network or mode of transport, or both, that falls under its territorial competence."
       }
     },
     {
@@ -364,7 +364,7 @@
       },
       "usage": {
         "nl": "Coordinaten van dit punt kunnen afgeleid worden uit de set van Routesegmenten. Vooral nuttig om de ligging dmv een toponiem, adreslabel of verwijzing naar een plaats aan te duiden.",
-        "en": "Coordinates of this point can be derived from the set of Route segments. Especially useful to indicate the location by a toponym, address label or reference to a place."
+        "en": "Coordinates of this point can be derived from the set of Route Segments. Especially useful to indicate the location by a toponym, address label or reference to a place."
       }
     },
     {
@@ -439,8 +439,8 @@
         "en": "Executor of the Mobility Service."
       },
       "usage": {
-        "nl": "May differ from the Provider.",
-        "en": "Enter your translation here"
+        "nl": "Kan verschillen van de Aanbieder.",
+        "en": "May differ from the Provider."
       }
     },
     {
@@ -452,11 +452,11 @@
       },
       "definition": {
         "nl": "Beschrijving van de Route.",
-        "en": "Description of the Route"
+        "en": "Description of the Route."
       },
       "usage": {
         "nl": "Af te leiden uit andere kenmerken van de Route, bv de routesegmenten waaruit de Route bestaat en de kenmerken daarvan.",
-        "en": "Inferred from other features of the Route, e.g. the route segments that make up the Route and their characteristics."
+        "en": "Inferred from other features of the Route, e.g. the Route Segments that make up the Route and their characteristics."
       }
     },
     {
@@ -552,7 +552,7 @@
       },
       "definition": {
         "nl": "Routeknoop waarnaar wordt overgestapt.",
-        "en": "Route node to which is switched."
+        "en": "Route Node to which is switched."
       }
     },
     {
@@ -668,7 +668,7 @@
       },
       "definition": {
         "nl": "Kenmerk van de Reiziger.",
-        "en": "Characteristic of the Traveler"
+        "en": "Characteristic of the Traveler."
       }
     },
     {
