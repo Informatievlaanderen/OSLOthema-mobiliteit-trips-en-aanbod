@@ -1372,7 +1372,7 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "actuator"
+        "en": "propulsion"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee de Overstap gebeurt.",
@@ -1404,7 +1404,7 @@
       },
       "definition": {
         "nl": "Toegankelijkheid van de Mobiliteitsdienst.",
-        "en": "Accessibility of the Mobility Service"
+        "en": "Accessibility of the Mobility Service."
       },
       "usage": {
         "nl": "Bv of de Mobiliteitsdienst toegankelijk is voor personen met een beperking.",
@@ -1448,7 +1448,7 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "actuator"
+        "en": "Propulsion"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee of waarvoor de Mobiliteitsdienst doorgaans wordt georganiseerd.",
