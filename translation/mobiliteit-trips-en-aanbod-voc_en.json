@@ -643,7 +643,7 @@
       },
       "usage": {
         "nl": "Bv de som van de kostprijs van de aangekochte Vervoersbewijzen.",
-        "en": "E.g. the sum of the cost of the purchased Tickets.e"
+        "en": "E.g. the sum of the cost of the purchased Tickets."
       }
     },
     {
@@ -799,7 +799,7 @@
       },
       "definition": {
         "nl": "Routeplanner waarmee de Route is berekend.",
-        "en": "Route planner used to calculate the route."
+        "en": "Route Planner used to calculate the route."
       }
     },
     {
