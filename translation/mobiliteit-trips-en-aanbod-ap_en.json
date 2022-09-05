@@ -1323,7 +1323,7 @@
       "EA-Guid": "Derived:{5EE2E57A-2685-496b-A5B1-9947A1D3BE83}->{35453307-F7E3-4052-B532-CC571E30CE34}",
       "name": "routeknoop (target)",
       "label": {
-        "nl": "Routeknoop (target)",
+        "nl": "routeknoop (target)",
         "en": "routeNode (target)"
       },
       "definition": {
