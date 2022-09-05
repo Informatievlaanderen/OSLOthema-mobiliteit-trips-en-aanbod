@@ -2180,7 +2180,7 @@
       },
       "definition": {
         "nl": "Prijs die voor het Vervoersbewijs is betaald.",
-        "en": "Price paid for the Transport Ticket"
+        "en": "Price paid for the Transport Ticket."
       }
     },
     {
@@ -2236,7 +2236,7 @@
       },
       "definition": {
         "nl": "Naam van het Transportobject.",
-        "en": "Name of the Transport Object"
+        "en": "Name of the Transport Object."
       }
     },
     {
@@ -2248,7 +2248,7 @@
       },
       "definition": {
         "nl": "Transportobjecten die door deTransportconnectie verbonden zijn.",
-        "en": "Transport Objects that are connected throug the Transport Connection"
+        "en": "Transport Objects that are connected throug the Transport Connection."
       }
     },
     {
@@ -2272,7 +2272,7 @@
       },
       "definition": {
         "nl": "Identificator van het Transportgebied.",
-        "en": "Identifier of the Transport Area"
+        "en": "Identifier of the Transport Area."
       }
     },
     {
@@ -2320,7 +2320,7 @@
       },
       "definition": {
         "nl": "Transportobjecten waaruit het Transportnetwerk bestaat.",
-        "en": "Transport objects that make up the Transport Network."
+        "en": "Transport objects that make up t;he Transport Network."
       }
     },
     {
@@ -2344,7 +2344,7 @@
       },
       "definition": {
         "nl": "Locatie van de Transportknoop.",
-        "en": "Location of the Transport Node"
+        "en": "Location of the Transport Node."
       }
     },
     {
