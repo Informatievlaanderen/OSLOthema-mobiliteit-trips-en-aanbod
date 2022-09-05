@@ -1522,7 +1522,7 @@
       },
       "definition": {
         "nl": "Een Organisatie die volgens een wettelijk kader behoort tot de publieke sector, ongeacht het bestuursniveau waarop dat kader van kracht is.",
-        "en": "An organisation that, according to a legal framework, belongs to the public sector, regardless of the level of government at which that framework applies."
+        "en": "An Organisation that, according to a legal framework, belongs to the public sector, regardless of the level of government at which that framework applies."
       },
       "usage": {
         "nl": "De overheids- en semioverheidsorganisaties die tot men zo tot de publieke sector kan rekenen worden in Europese richtlijn 2003/98/EG \"openbaar lichaam\" genoemd en gedefinieerd als: \"de staat, zijn territoriale lichamen, publiekrechtelijke instellingen, en verenigingen gevormd door een of meer van deze lichamen of een of meer van deze publiekrechtelijke instellingen\". En onder een publiekrechtelijke instelling verstaat men \" iedere instelling die a) is opgericht met het specifieke doel te voorzien in behoeften van algemeen belang die niet van industriële of commerciële aard zijn, en b) rechtspersoonlijkheid heeft, en c) waarvan hetzij de activiteiten in hoofdzaak door de staat of zijn territoriale lichamen of andere publiekrechtelijke instellingen worden gefinancierd, hetzij het beheer is onderworpen aan toezicht door deze laatste, hetzij de leden van het bestuursorgaan, het leidinggevend orgaan of het toezichthoudend orgaan voor meer dan de helft door de staat, zijn territoriale lichamen of andere publiekrechtelijke instellingen zijn aangewezen.\".",
@@ -1726,7 +1726,7 @@
       },
       "definition": {
         "nl": "Aard van een Dienstverlening.",
-        "en": "Nature of the Service"
+        "en": "Nature of the Service."
       }
     },
     {
@@ -1858,7 +1858,7 @@
       },
       "definition": {
         "nl": "Aard van een Connectie.",
-        "en": "Nature of the Connection"
+        "en": "Nature of the Connection."
       }
     },
     {
@@ -1974,7 +1974,7 @@
       },
       "definition": {
         "nl": "Tweedimensionaal Transportobject in een Transportnetwerk.",
-        "en": "Two dimensional Transport Object in a Transport Network"
+        "en": "Two dimensional Transport Object in a Transport Network."
       }
     },
     {
@@ -2042,7 +2042,7 @@
       },
       "usage": {
         "nl": "In praktijk de primitieve datatypes waarmee een hoeveelheid kan worden aangeduid,zie xsd datatypes float,double,decimal,integer etc.",
-        "en": "In praktijk de primitieve datatypes waarmee een hoeveelheid kan worden aangeduid,zie xsd datatypes float, double, decimal, integer, etc."
+        "en": "In practice the primitive datatypes which indicate an amount, see xsd datatypes float, double, decimal, integer, etc."
       }
     },
     {
