@@ -1,0 +1,22 @@
+{% extends "voc2_en.j2" %}
+
+{% block introduction %}
+<p>
+This document describes a  <strong>vocabularium</strong>, for this case <strong>{{ metadata.title }}</strong>.
+Please note that this vocabularium is an English translation of the Dutch vocabularium <a href="https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-mobiliteit-trips-en-aanbod.html">OSLO-Mobiliteit: Trips & Aanbod</a>.
+A vocabularium is a collection of reusable terms (classes and properties), whose meaning is given by a label and a definition. There are additional formal agreements available for the terms defined in this domain.
+The additional formal agreements can be found in external sources for external terms.
+</p>
+{% endblock %}
+
+{% block license %}
+<p>
+<spanrel="dct:type"property="dct:title"href="http://purl.org/dc/dcmitype/Text"xmlns:dct="http://purl.org/dc/terms/">This specification</span> of <a rel="cc:attributionURL"property="cc:attributionName"href="https://www.vlaanderen.be/digitaal-vlaanderen"xmlns:cc="http://creativecommons.org/ns#">Digitaal Vlaanderen</a> is published under <a href="{{ metadata.license }}"rel="license">"Model license Free Reuse - v1.0"</a>.
+</p>
+{% endblock %}
+
+{% block summary %}
+<p>The vocabulary "OSLO-Mobility: Trips and Offers" defines terms that apply to (1) trips undertaken by individuals and (2) the mobility services available to them.</p>
+<p>The trips are defined in terms of the route taken, the services/resources/infrastructure used, the operator, the tickets purchased, traveller preferences and characteristics.</p>
+<p>The mobility services include concepts such as the resources to be reserved by the traveller, the infrastructure available to the service, information about the provider and operator, and the licences they hold.</p>
+{% endblock %}

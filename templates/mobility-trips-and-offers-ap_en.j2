@@ -1,0 +1,63 @@
+{% extends "ap2_en.j2" %}
+
+{% block introduction %}
+<p>
+This document describes an <strong>application profile</strong>, in this case <strong>{{ metadata.title }}</strong>.
+Please note that this application profile is an English translation of the Dutch model <a href="https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-mobiliteit-trips-en-aanbod.html">OSLO-Mobiliteit: Trips & Aanbod</a>. 
+An application profile specifies a semantic data model covering a set of usecases. The specification consists of terms with their constraints (cardinalities, codelists, usage guidelines).  
+</p>
+{% endblock %}
+
+{% block license %}
+<p>
+<spanrel="dct:type"property="dct:title"href="http://purl.org/dc/dcmitype/Text"xmlns:dct="http://purl.org/dc/terms/">This specification</span> of <a rel="cc:attributionURL"property="cc:attributionName"href="https://www.vlaanderen.be/digitaal-vlaanderen"xmlns:cc="http://creativecommons.org/ns#">Digitaal Vlaanderen</a> is published under <a href="{{ metadata.license }}"rel="license">"Model license Free Reuse - v1.0"</a>.
+</p>
+{% endblock %}
+
+{% block summary %}
+<p>
+The application profile OSLO-Mobility: Trips and Offers shows how terms from the corresponding <a href="https://data.vlaanderen.be/ns/mobiliteit/trips-en-aanbod">vocabulary</a> should be used to exchange data on 1) trips made by individuals and 2) the mobility services available to them.
+</p>
+ 
+<p>
+With this data, mobility demand and supply can be better matched, e.g. through aggregation and analysis of trip and supply data. The ultimate goal is to realise increased basic accessibility, e.g. by means of intermodal transport.
+</p>
+ 
+<p>
+The model consists of a part that describes the journey and the related route, and a part that models the mobility service and the related concepts, including the transport network that is used to realise the services and ultimately the journey.
+</p>
+ 
+<p>
+The entity Traveller describes (anonymously) the person undertaking the Trip. It takes into account personal and situational Characteristics and Preferences. A Traveller may be accompanied by fellow Travellers. A Trip can be part of a larger Trip, e.g. composed of an outward and a return Trip.
+</p>
+ 
+<p>
+There are Routes associated with a Trip. There are the possible Routes proposed by a Route Planner, for example, and the Route ultimately chosen from them. There may be several selected Routes if the Passenger changes his Route once the Trip has begun. Finally, there is the Route that is actually executed.
+</p>
+ 
+<p>
+A Route is a sequence of Route segments where a segment represents the part of the Route travelled by the same means of transport. For example, a Trip may consist of a segment realised by car, a second segment by train, and a final segment on foot. A Transfer between two same modes of transport (e.g. from one train to another) will also create two Route segments. The class Route node describes the start and end point of the Route segment. The class Transition can be used to describe Trips more simply. E.g. the trip from platform 2 to platform 8 can be described as a full Route Segment or more concisely modelled as a Transfer.
+</p>
+ 
+<p>
+A Trip is defined by one or more Bookings whereby the Passenger acquires the necessary Tickets for the Mobility Services he uses. A Reservation can possibly include a Reservation of a certain Resource, e.g. a parking place, a seat on a train, etc. A Passenger may also acquire the necessary Tickets in advance, such as in the case of a season ticket or a ten-ride ticket.
+</p>
+ 
+<p>
+The Mobility Service takes a central role in the model and describes what the Provider has in place to enable the movement of people between locations. This can be scheduled services or shared steps, but also parking spaces or bicycle pumps. A Mobility Service can include other Mobility Services, e.g. in the case of a MaaS Provider integrating different services into one service, but also in the case of a Provider describing its services at different levels of granularity (e.g. at a high level, the service "shared mobility in Flanders" and at a lower level, the services "shared cars in Antwerp" and "shared bicycles in Ghent").
+</p>
+ 
+<p>
+A Mobility Service is performed by an Operator (often but not always the same as the Provider), and has a certain Accessibility and Availability. A Mobility Service is usually offered within a certain Formal Framework, such as a law, and has obtained through a License the necessary permission to operate in a certain area. A Mobility Service has a number of Resources (e.g. parking spaces at a car pool, seats on a train, cars in the case of car sharing etc.).
+</p>
+ 
+<p>
+Finally, the Transport Network consists of different Transport Objects. In particular, we describe Transport Connections, Transport Nodes (E.g. stops, stations etc.) and Transport Areas (E.g. mobipoints, dropzones etc.). We used the Vocabulary <a href="https://data.vlaanderen.be/ns/transportnetwerk">OSLO-Transportnetwerk</a>.
+</p>
+
+<p>
+Enumerations are basically described outside the application profile, so the enumeration values shown in the diagram are illustrative.
+</p>
+ 
+{% endblock %}
+ 

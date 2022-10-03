@@ -1,0 +1,2245 @@
+{
+  "classes": [
+    {
+      "EA-Guid": "{1F7F0018-8739-4555-ABC6-433C972B5D74}",
+      "name": "Aanbieder",
+      "label": {
+        "nl": "Aanbieder",
+        "en": "Provider"
+      },
+      "definition": {
+        "nl": "Geregistreerde Organisatie die Mobiliteitsdiensten aanbiedt.",
+        "en": "Registered Organisation providing Mobility Services."
+      },
+      "usage": {
+        "nl": "Onder een Geregistreerde Organisaties verstaan we een Organisatie met een juridisch statuut (vastgelegd door registratie), bv NV, VZW...",
+        "en": "By a Registered Organisation, we mean an organisation with a legal status (established through registration), e.g. SA, NPO..."
+      }
+    },
+    {
+      "EA-Guid": "{DB3F01B3-24BB-4262-86B6-B93242F00821}",
+      "name": "Beschikbaarheid",
+      "label": {
+        "nl": "Beschikbaarheid",
+        "en": "Availability"
+      },
+      "definition": {
+        "nl": "Mate waarin iets voorhanden is voor gebruik.",
+        "en": "Degree to which something is available for use."
+      },
+      "usage": {
+        "nl": "Bv uren waarin een dienst wordt aangeboden of openingsuren van een gebouw.",
+        "en": "E.g. hours when a service is offered or opening hours of a building."
+      }
+    },
+    {
+      "EA-Guid": "{A419A900-C5E7-4065-AB99-375E59BAD860}",
+      "name": "Boeking",
+      "label": {
+        "nl": "Boeking",
+        "en": "Booking"
+      },
+      "definition": {
+        "nl": "Het vastleggen van een Reis door aankoop van een Vervoersbewijs en/of het reserveren van een Resource.",
+        "en": "Committing to a Trip by purchasing a Ticket and/or reserving a Resource."
+      },
+      "usage": {
+        "nl": "Bv het aankopen van een treinticket of het reserveren van een zitplaats op de trein.",
+        "en": "E.g. buying a train ticket or reserving a seat on the train."
+      }
+    },
+    {
+      "EA-Guid": "{DD6CB179-1647-44e2-9734-0716446D5FE8}",
+      "name": "Dienstregeling",
+      "label": {
+        "nl": "Dienstregeling",
+        "en": "Timetable"
+      },
+      "definition": {
+        "nl": "Planning in tijd en ruimte van een dienst.",
+        "en": "Planning in time and space of a service."
+      }
+    },
+    {
+      "EA-Guid": "{DF4C042E-3DEC-41dd-AB36-2282E4492D27}",
+      "name": "Kenmerk",
+      "label": {
+        "nl": "Kenmerk",
+        "en": "Characteristic"
+      },
+      "definition": {
+        "nl": "Eigenschap van de Reiziger.",
+        "en": "Feature of the Traveller."
+      },
+      "usage": {
+        "nl": "Bv leeftijd, beperking, rijbewijs.",
+        "en": "E.g. age, disability, driving licence."
+      }
+    },
+    {
+      "EA-Guid": "{3713C962-301D-445b-843F-5F2A1572F7BD}",
+      "name": "Licentie",
+      "label": {
+        "nl": "Licentie",
+        "en": "License"
+      },
+      "definition": {
+        "nl": "Formele toestemming om een Mobiliteitsdienst aan te bieden.",
+        "en": "Formal authorisation to offer a Mobility Service."
+      }
+    },
+    {
+      "EA-Guid": "{7C74831B-E583-4bfd-A78F-A76F55C2FE54}",
+      "name": "Mobiliteitsdienst",
+      "label": {
+        "nl": "Mobiliteitsdienst",
+        "en": "MobilityService"
+      },
+      "definition": {
+        "nl": "Dienstverlening die verplaatsingen van Personen tussen Locaties mogelijk maakt.",
+        "en": "Service that enables movement of Persons between Locations."
+      },
+      "usage": {
+        "nl": "Hieronder verstaan we zowel klassieke mobiliteitsdiensten zoals openbaar vervoer (typisch aangeboden als lijndienst, bv metrolijn 5 in Brussel), maar ook deelvervoer zoals free floating deelsteps (bv deelsteps in grote steden).",
+        "en": "This includes classical mobility services such as public transport (typically offered as a scheduled service, e.g. Metro Line 5 in Brussels), but also partial transport such as free-floating partial steps (e.g. partial steps in large cities)."
+      }
+    },
+    {
+      "EA-Guid": "{5EE2E57A-2685-496b-A5B1-9947A1D3BE83}",
+      "name": "Overstap",
+      "label": {
+        "nl": "Overstap",
+        "en": "Transfer"
+      },
+      "definition": {
+        "nl": "Logische verbinding tussen twee Routeknopen.",
+        "en": "Logical connection between two Route Nodes."
+      },
+      "usage": {
+        "nl": "Bedoeld om de overgang tussen twee Routesegmenten te beschrijven indien deze niet zelf door een Routesegment wordt voorgesteld. Men kan overstappen tussen twee dezelfde Routeknopen (bv overstap van de ene trein op de andere in hetzelfde station) of tussen twee verschillende (bv overstap van de parking bij het station naar - de perrons van - het station).",
+        "en": "Means to describe the transition between two Route Segments if not represented by a Route Segment itself. One can interchange between two same Route Nodes (e.g. changing from one train to another at the same station) or between two different ones (e.g. interchanging from the station car park to the station platforms)."
+      }
+    },
+    {
+      "EA-Guid": "{116752D3-70EC-4b99-99BA-DA6F2641001E}",
+      "name": "Pseudoniem",
+      "label": {
+        "nl": "Pseudoniem",
+        "en": "Pseudonym"
+      },
+      "definition": {
+        "nl": "Naam van een Persoon die afwijkt van zijn werkelijke naam.",
+        "en": "Name of a Person differing from his real name."
+      }
+    },
+    {
+      "EA-Guid": "{6B2BE1C3-8CA5-4df0-8C6D-05F30B6BB8CE}",
+      "name": "Reiziger",
+      "label": {
+        "nl": "Reiziger",
+        "en": "Traveller"
+      },
+      "definition": {
+        "nl": "Persoon die een Reis onderneemt of wil ondernemen.",
+        "en": "Person who undertakes or wants to undertake a Trip."
+      }
+    },
+    {
+      "EA-Guid": "{DEC227CD-E22B-4cf5-8BC7-17C011FF1C5B}",
+      "name": "Reservatie",
+      "label": {
+        "nl": "Reservatie",
+        "en": "Reservation"
+      },
+      "definition": {
+        "nl": "Kenmerken van de Reservatie van een Resource bij een Boeking.",
+        "en": "Characteristics of the Reservation of a Resource at a Reservation."
+      }
+    },
+    {
+      "EA-Guid": "{C3E40BFA-E2CF-45d9-9AB3-56983A5805A3}",
+      "name": "Resource",
+      "label": {
+        "nl": "Resource",
+        "en": "Resource"
+      },
+      "definition": {
+        "nl": "Middel dat de Mobiliteitsdienst aan de Reiziger kan aanbieden om zijn verplaatsing te maken.",
+        "en": "Means the Mobility Service can offer to the Passenger to make the trip."
+      },
+      "usage": {
+        "nl": "Bv zitplaats op een trein, deelfiets aan een station, parkeerplaats in een parking.",
+        "en": "E.g. a seat on a train, a shared bicycle at a station, a parking space in a car park."
+      }
+    },
+    {
+      "EA-Guid": "{0EACA0CD-FE2B-4d5a-9F54-51E605D0E4CB}",
+      "name": "Route",
+      "label": {
+        "nl": "Route",
+        "en": "Route"
+      },
+      "definition": {
+        "nl": "Mogelijke, gekozen of afgelegde weg tussen twee Locaties (resp het vertrekpunt en het aankomstpunt).",
+        "en": "Possible, chosen or travelled route between two Locations (respectively the departure point and the arrival point)."
+      }
+    },
+    {
+      "EA-Guid": "{E6272A95-932C-44b8-A834-E16BFC627894}",
+      "name": "Routebeschrijving",
+      "label": {
+        "nl": "Routebeschrijving",
+        "en": "RouteDescription"
+      },
+      "definition": {
+        "nl": "Beschrijving van een Route.",
+        "en": "Description of a Route."
+      },
+      "usage": {
+        "nl": "Typisch de beschrijving zoals ze in een Routeplanner zou worden getoond.",
+        "en": "Typically the description as it would be shown in a Route Planner."
+      }
+    },
+    {
+      "EA-Guid": "{35453307-F7E3-4052-B532-CC571E30CE34}",
+      "name": "Routeknoop",
+      "label": {
+        "nl": "Routeknoop",
+        "en": "RouteNode"
+      },
+      "definition": {
+        "nl": "Significante positie in de Route die steeds samenvalt met het begin of het einde van een Routesegment.",
+        "en": "Significant position in the Route that always coincides with the beginning or the end of a Route Segment."
+      }
+    },
+    {
+      "EA-Guid": "{6C7EFC88-8A14-403e-B18C-C9EBF1D75BAF}",
+      "name": "Routeplanner",
+      "label": {
+        "nl": "Routeplanner",
+        "en": "RoutePlanner"
+      },
+      "definition": {
+        "nl": "Software waarmee de Route van een Reis kan worden berekend.",
+        "en": "Software that can calculate the Route of a Trip."
+      }
+    },
+    {
+      "EA-Guid": "{B7ABB2D4-1CC2-456e-B5F8-3F699487F2BB}",
+      "name": "Routesegment",
+      "label": {
+        "nl": "Routesegment",
+        "en": "RouteSegment"
+      },
+      "definition": {
+        "nl": "Deel van een Route dat zonder Overstap wordt afgelegd met hetzelfde vervoermiddel.",
+        "en": "Part of a Route that is travelled without a transfer using the same means of transport."
+      }
+    },
+    {
+      "EA-Guid": "{3C5E01C0-0325-4b4e-BD1E-5D1334620A4C}",
+      "name": "Toegankelijkheid",
+      "label": {
+        "nl": "Toegankelijkheid",
+        "en": "Accessibility"
+      },
+      "definition": {
+        "nl": "Mate waarin iets bereikt kan worden.",
+        "en": "Degree to which something can be accessed."
+      },
+      "usage": {
+        "nl": "Bv fysieke toegankelijkheid van een dienst of gebouw voor personen met een beperking.",
+        "en": "E.g. physical accessibility of a service or building for persons with disabilities."
+      }
+    },
+    {
+      "EA-Guid": "{39CCE16A-24F1-4310-BFE7-B4EB17069C4A}",
+      "name": "Transportconnectie",
+      "label": {
+        "nl": "Transportconnectie",
+        "en": "TransportConnection"
+      },
+      "definition": {
+        "nl": "Logische verbinding tussen twee of meer Transportobjecten in verschillende Transportnetwerken.",
+        "en": "Logical connection between two or more Transport objects in different Transport Networks."
+      }
+    },
+    {
+      "EA-Guid": "{389DA05D-4D79-4653-9A35-03688FD158F8}",
+      "name": "Uitvoerder",
+      "label": {
+        "nl": "Uitvoerder",
+        "en": "Executor"
+      },
+      "definition": {
+        "nl": "Agent die Mobiliteitsdienst uitvoert.",
+        "en": "Agent that executes the Mobility Service."
+      }
+    },
+    {
+      "EA-Guid": "{AE6E849B-E2BB-4a9b-8853-060D1FE2308E}",
+      "name": "Vervoersbewijs",
+      "label": {
+        "nl": "Vervoersbewijs",
+        "en": "TransportTicket"
+      },
+      "definition": {
+        "nl": "Bewijs van bepaald recht op vervoer of diensten daarmee geassocieerd.",
+        "en": "Proof of certain right to transport or services associated with it."
+      },
+      "usage": {
+        "nl": "Vervoer of dienst zijn nog te consumeren of al geconsumeerd. Typisch een ticket voor of een abonnement op een Mobiliteitsdienst zoals openbaar vervoer, maar kan ook bv een parkeerticket zijn.",
+        "en": "Transport or service to be consumed or already consumed. Typically a ticket or a subscription to a mobility service such as public transport, but can also be a parking ticket, for example."
+      }
+    },
+    {
+      "EA-Guid": "{060F191D-B5E9-490e-BA80-AEBE66C0017B}",
+      "name": "Voorkeur",
+      "label": {
+        "nl": "Voorkeur",
+        "en": "Preference"
+      },
+      "definition": {
+        "nl": "Voorkeur van de Reiziger.",
+        "en": "Preference of the Traveller."
+      },
+      "usage": {
+        "nl": "Bv routetype, vervoermiddel...",
+        "en": "E.g. type of route, means of transport..."
+      }
+    },
+    {
+      "EA-Guid": "{47BF6552-2D1A-4430-9CAF-7D9DBDED4728}",
+      "name": "Waarde",
+      "label": {
+        "nl": "Waarde",
+        "en": "Value"
+      },
+      "definition": {
+        "nl": "De concrete, kwantitatieve of kwalitatieve invulling van een grootheid of categorie.",
+        "en": "The concrete, quantitative or qualitative interpretation of a quantity or category."
+      },
+      "usage": {
+        "nl": "Kwantitatief bv gewicht, kwalitatief bv categorie.",
+        "en": "Quantitative e.g. weight, qualitative e.g. category."
+      }
+    }
+  ],
+  "properties": [
+    {
+      "EA-Guid": "{C5831D5B-D289-4361-B52C-A1212E61305D}",
+      "name": "voorkeur",
+      "label": {
+        "nl": "voorkeur",
+        "en": "preference"
+      },
+      "definition": {
+        "nl": "Voorkeuren van de Reiziger.",
+        "en": "Preferences of the Traveller."
+      }
+    },
+    {
+      "EA-Guid": "{AF03447E-5989-4428-A984-CB1563D7CB9B}",
+      "name": "vervoersautoriteit",
+      "label": {
+        "nl": "vervoersautoriteit",
+        "en": "transportAuthority"
+      },
+      "definition": {
+        "nl": "Publieke Organisatie verantwoordelijk voor het verkeersmanagement of de planning, controle of het beheer van een bepaald vervoersnetwerk of vervoerswijze, of beide, die onder haar territoriale bevoegdheid vallen.",
+        "en": "Public Organisation responsible for traffic management or the planning, control or management of a particular transport network or mode of transport, or both, that falls under its territorial competence."
+      }
+    },
+    {
+      "EA-Guid": "{509E2412-CB9D-4f16-AA2F-019A961099AA}",
+      "name": "vertrekpunt",
+      "label": {
+        "nl": "vertrekpunt",
+        "en": "departurePoint"
+      },
+      "definition": {
+        "nl": "Locatie waar de Route begint.",
+        "en": "Location where the Route starts."
+      }
+    },
+    {
+      "EA-Guid": "{4D4ACD26-0FC7-4d4f-A239-232B97EC26E0}",
+      "name": "vertrekknoop",
+      "label": {
+        "nl": "vertrekknoop",
+        "en": "departureNode"
+      },
+      "definition": {
+        "nl": "Knoop waar het Routesegment begint.",
+        "en": "Node where the Route Segment starts."
+      }
+    },
+    {
+      "EA-Guid": "{18206C98-DCB8-4106-82D8-F00D0E5DAF9A}",
+      "name": "verkregen binnen",
+      "label": {
+        "nl": "verkregen binnen",
+        "en": "obtainedWithin"
+      },
+      "definition": {
+        "nl": "Formeel Kader waarbinnen de Licentie is verkregen.",
+        "en": "Formal Framework within which the Licence is obtained."
+      },
+      "usage": {
+        "nl": "Bv de set van criteria waaraan een Mobiliteitsdienst moet voldoen.",
+        "en": "E.g. the set of criteria that a Mobility Service has to meet."
+      }
+    },
+    {
+      "EA-Guid": "{DB547908-92B3-401a-8098-3FD69A9C4B7C}",
+      "name": "uitvoerder",
+      "label": {
+        "nl": "uitvoerder",
+        "en": "executor"
+      },
+      "definition": {
+        "nl": "Uitvoerder van het Routesegment.",
+        "en": "Executor of the Route Segment"
+      }
+    },
+    {
+      "EA-Guid": "{269047CB-43DF-4a6e-B9C3-8A8B3F863DD4}",
+      "name": "uitgevoerde route",
+      "label": {
+        "nl": "uitgevoerde route",
+        "en": "performedRoute"
+      },
+      "definition": {
+        "nl": "Route die uiteindelijk uitgevoerd is om de Reis te realiseren.",
+        "en": "Route finally implemented to realise the Trip."
+      },
+      "usage": {
+        "nl": "Werkelijke aankomst- en vertrektijdstip, reisduur etc.",
+        "en": "Actual time of arrival and departure, duration of the trip, etc."
+      }
+    },
+    {
+      "EA-Guid": "{E9070272-29B0-4bf2-AFF8-92CE82042D14}",
+      "name": "uitgevoerd door",
+      "label": {
+        "nl": "uitgevoerd door",
+        "en": "performedBy"
+      },
+      "definition": {
+        "nl": "Uitvoerder van de Mobiliteitsdienst.",
+        "en": "Executor of the Mobility Service"
+      },
+      "usage": {
+        "nl": "Kan verschillen van de Aanbieder.",
+        "en": "May differ from the Provider."
+      }
+    },
+    {
+      "EA-Guid": "{B2200689-85CA-4b9b-9C6B-2ED1A3EFBEED}",
+      "name": "routebeschrijving",
+      "label": {
+        "nl": "routebeschrijving",
+        "en": "routeDescription"
+      },
+      "definition": {
+        "nl": "Beschrijving van de Route.",
+        "en": "Description of the Route."
+      },
+      "usage": {
+        "nl": "Af te leiden uit andere kenmerken van de Route, bv de routesegmenten waaruit de Route bestaat en de kenmerken daarvan.",
+        "en": "Inferred from other features of the Route, e.g. the route segments that make up the Route and their characteristics."
+      }
+    },
+    {
+      "EA-Guid": "{75E41EDC-0D9D-4010-992B-77EACB66AA65}",
+      "name": "reisduur",
+      "label": {
+        "nl": "reisduur",
+        "en": "travelTime"
+      },
+      "definition": {
+        "nl": "Tijd waarin de Route wordt afgelegd.",
+        "en": "Time in which the Route is traveled."
+      }
+    },
+    {
+      "EA-Guid": "{1BCCFAB1-61A3-45a7-B1DF-2678D5295A3E}",
+      "name": "reis",
+      "label": {
+        "nl": "reis",
+        "en": "trip"
+      },
+      "definition": {
+        "nl": "Reis die geboekt wordt.",
+        "en": "Trip that is booked."
+      }
+    },
+    {
+      "EA-Guid": "{3AAE0FC0-6461-4d74-9277-F0906469A510}",
+      "name": "pseudoniem",
+      "label": {
+        "nl": "pseudoniem",
+        "en": "pseudonym"
+      },
+      "definition": {
+        "nl": "Naam van de Reiziger die afwijkt van zijn werkelijke naam.",
+        "en": "Name of the Traveller which differs from his actual name."
+      },
+      "usage": {
+        "nl": "Doel is dat de werkelijke identiteit van de Reiziger niet meer achterhaald kan worden maar dat tripdata toch op individueel niveau bestudeerd kan worden.",
+        "en": "The aim is that the real identity of the Traveller can no longer be traced but that trip data can still be studied on an individual level."
+      }
+    },
+    {
+      "EA-Guid": "{168F70B0-9238-4289-B7CA-C238C4C1AF8E}",
+      "name": "prijsplan",
+      "label": {
+        "nl": "prijsplan",
+        "en": "pricePlan"
+      },
+      "definition": {
+        "nl": "Prijsplan van de Mobiliteitsdienst.",
+        "en": "the Price Plan of the Mobility Service."
+      }
+    },
+    {
+      "EA-Guid": "{0C3CEA66-5D98-42a7-982E-7C79F5CF8C19}",
+      "name": "periode",
+      "label": {
+        "nl": "periode",
+        "en": "period"
+      },
+      "definition": {
+        "nl": "Periode waarin iets beschikbaar is.",
+        "en": "Period in which something is available."
+      },
+      "usage": {
+        "nl": "Bv startdatum zonder einddatum voor dienstverlening die nog actief is of een aanduiding van het seizoen waarin de dienstverlening wordt aangeboden. Een ingevulde einddatum geeft aan wanneer de dienstverlening werd beëindigd. Begin- en einddatum volgens ISO8601 syntax.",
+        "en": "E.g. start date without end date for services that are still active or an indication of the season in which the services are offered. A completed end date indicates when the service was terminated. Start and end date according to ISO8601 syntax."
+      }
+    },
+    {
+      "EA-Guid": "{8324DEAA-D632-498a-9CAE-2A108C936D57}",
+      "name": "overstaptijd",
+      "label": {
+        "nl": "overstaptijd",
+        "en": "transferTime"
+      },
+      "definition": {
+        "nl": "Tijd waarin de overstap gebeurt.",
+        "en": "Time in which the transfer takes place."
+      }
+    },
+    {
+      "EA-Guid": "{F7435016-014A-49c8-AB1A-ECB17013C537}",
+      "name": "overstap",
+      "label": {
+        "nl": "overstap",
+        "en": "transfer"
+      },
+      "definition": {
+        "nl": "Routeknoop waarnaar wordt overgestapt.",
+        "en": "Route Node to which is switched."
+      }
+    },
+    {
+      "EA-Guid": "{A9986069-25A2-4c5d-94B4-589C7B5A7D22}",
+      "name": "onderneemt",
+      "label": {
+        "nl": "onderneemt",
+        "en": "undertakes"
+      },
+      "definition": {
+        "nl": "Reis die een Reiziger onderneemt of wil ondernemen.",
+        "en": "Trip that a Traveller undertakes or wants to undertake."
+      }
+    },
+    {
+      "EA-Guid": "{AE47E5D0-545E-44bb-BD49-79408E379DCD}",
+      "name": "onderdeel",
+      "label": {
+        "nl": "onderdeel",
+        "en": "part"
+      },
+      "definition": {
+        "nl": "Deel van de dienst of infrastructuur waarop de Toegankelijkheid betrekking heeft..",
+        "en": "Part of the service or infrastructure to which Accessibility relates."
+      }
+    },
+    {
+      "EA-Guid": "{83EC3E9D-61B7-4ce0-9E67-321372A6A68E}",
+      "name": "omvat",
+      "label": {
+        "nl": "omvat",
+        "en": "includes"
+      },
+      "definition": {
+        "nl": "Meer specifieke Mobiliteitsdiensten waaruit de Mobiliteitsdienst is samengesteld.",
+        "en": "More specific Mobility Services that make up the Mobility Service."
+      },
+      "usage": {
+        "nl": "Bv openbaar vervoer in Brussel aangeboden door de MIVB bestaat uit een aantal metrolijnen bv lijn 5 Erasmus-Herman-Debroux.Of een MAAS-aanbieder integreert meerdere diensten, bv openbaar vervoer en deelvervoer.",
+        "en": "For example, public transport in Brussels offered by STIB consists of a number of metro lines, e.g. line 5 Erasmus-Herman-Debroux, or a MAAS provider integrates several services, e.g. public transport and shared transport."
+      }
+    },
+    {
+      "EA-Guid": "{B35F2423-61FF-4bd2-AD89-1FE38E7E91D2}",
+      "name": "niveau",
+      "label": {
+        "nl": "niveau",
+        "en": "level"
+      },
+      "definition": {
+        "nl": "Niveau van toegankelijkheid.",
+        "en": "Level of accessibility."
+      }
+    },
+    {
+      "EA-Guid": "{25068839-AD60-43bb-ACFD-1630ECD91715}",
+      "name": "mogelijke route",
+      "label": {
+        "nl": "mogelijke route",
+        "en": "possibleRoute"
+      },
+      "definition": {
+        "nl": "Routes die gevolgd kunnen worden om de Reis uit te voeren.",
+        "en": "Routes that can be followed to perform the Trip."
+      }
+    },
+    {
+      "EA-Guid": "{78F2E472-840D-4592-A2E7-5A736F3272E9}",
+      "name": "link",
+      "label": {
+        "nl": "link",
+        "en": "link"
+      },
+      "definition": {
+        "nl": "Opeenvolging van Gerichte Links waaruit het Routesegment bestaat.",
+        "en": "Sequence of Targeted Links that make up the Route Segment."
+      }
+    },
+    {
+      "EA-Guid": "{9E326C58-0FE5-4d47-87C6-C8CFD16222B4}",
+      "name": "licentie",
+      "label": {
+        "nl": "licentie",
+        "en": "license"
+      },
+      "definition": {
+        "nl": "Licentie waaronder de Mobiliteitsdienst wordt aangeboden.",
+        "en": "Licence under which the Mobility Service is offered."
+      }
+    },
+    {
+      "EA-Guid": "{C16EEF63-82B7-4a76-9CA6-3807814894BB}",
+      "name": "kostprijs",
+      "label": {
+        "nl": "kostprijs",
+        "en": "costPrice"
+      },
+      "definition": {
+        "nl": "Prijs van de Route.",
+        "en": "Price of the Route."
+      },
+      "usage": {
+        "nl": "Bv de som van de kostprijs van de aangekochte Vervoersbewijzen.",
+        "en": "E.g. the sum of the cost of the purchased Tickets."
+      }
+    },
+    {
+      "EA-Guid": "{C2CAAF4B-15AD-4ae6-83EA-4B63F5B336CF}",
+      "name": "kenmerk",
+      "label": {
+        "nl": "kenmerk",
+        "en": "characteristic"
+      },
+      "definition": {
+        "nl": "Kenmerk van de Reiziger.",
+        "en": "Feature of the Traveller."
+      }
+    },
+    {
+      "EA-Guid": "{5A692EDF-D32E-4fe8-B888-CB4CE85BC8E8}",
+      "name": "is medereiziger van",
+      "label": {
+        "nl": "is medereiziger van",
+        "en": "isFellowTravellerOf"
+      },
+      "definition": {
+        "nl": "Reiziger die de Reiziger vergezelt tijdens de Reis.",
+        "en": "Traveller who accompanies the Traveller on the Trip."
+      },
+      "usage": {
+        "nl": "Bv de kinderen van een gezin dat samenreist. Van belang bij bv bij het bepalen van de prijs van een Vervoersbewijs wanneer jonge kinderen gratis meereizen.",
+        "en": "E.g. the children of a family travelling together. Important e.g. when determining the price of a Ticket when young children travel for free."
+      }
+    },
+    {
+      "EA-Guid": "{F51F0BEB-2CD9-4ae1-9644-5CCD6A6342FA}",
+      "name": "integreert info over",
+      "label": {
+        "nl": "integreert info over",
+        "en": "integratesInfoAbout"
+      },
+      "definition": {
+        "nl": "Info over Transportnetwerken die een Routeplanner gebruikt om Routes te berekenen.",
+        "en": "Info about Transport Networks that a Route Planner uses to calculate Routes."
+      },
+      "usage": {
+        "nl": "Die integratie houdt typisch in  het samenvoegen van beschrijvingen van Transportnetwerken tot een graph waarover kortste, snelste etc paden kunnen worden berekend.",
+        "en": "This integration typically involves merging descriptions of Transport Networks into a graph over which shortest, fastest etc paths can be calculated."
+      }
+    },
+    {
+      "EA-Guid": "{F4CFDB15-9A70-4c0e-A89D-37E021B026F9}",
+      "name": "identificator",
+      "label": {
+        "nl": "identificator",
+        "en": "identifier"
+      },
+      "definition": {
+        "nl": "Identificator van de Resource.",
+        "en": "Identifier of a Resource."
+      },
+      "usage": {
+        "nl": "Bv nummerplaat van de huurauto, nummer vd zitplaats...",
+        "en": "E.g. number plate of the hire car, number of the seat..."
+      }
+    },
+    {
+      "EA-Guid": "{311BDB1A-9284-4e47-8D37-A7FD4A80CF2F}",
+      "name": "gekozen route",
+      "label": {
+        "nl": "gekozen route",
+        "en": "chosenRoute"
+      },
+      "definition": {
+        "nl": "Route die de Reiziger kiest uit de mogelijke Routes.",
+        "en": "Route which the Passenger chooses from the possible Routes."
+      },
+      "usage": {
+        "nl": "Eventueel meer dan 1 gekozen Route als de reiziger onderweg van Route verandert.",
+        "en": "Possibly more than 1 selected Route if the traveller changes Route on the way."
+      }
+    },
+    {
+      "EA-Guid": "{902122CA-E600-49c9-BCC0-4CC624E93329}",
+      "name": "gebruiker",
+      "label": {
+        "nl": "gebruiker",
+        "en": "user"
+      },
+      "definition": {
+        "nl": "Type gebruiker waarvoor de beschikbaarheid geldt.",
+        "en": "Type of user to which the availability applies."
+      }
+    },
+    {
+      "EA-Guid": "{FD9D8929-067B-4b10-BBAA-A4C24CD73D1A}",
+      "name": "duur",
+      "label": {
+        "nl": "duur",
+        "en": "duration"
+      },
+      "definition": {
+        "nl": "Totale tijd waarvan men met het Vervoersbewijs van een Mobiliteitsdienst gebruik mag maken.",
+        "en": "Total time a Mobility Service can be used with the Ticket."
+      },
+      "usage": {
+        "nl": "Bv 1 uur in het geval van een metroticket of 1 dag voor een dagticket of een krediet van 120 minuten deelstep.",
+        "en": "E.g. 1 hour in the case of a metro ticket or 1 day for a day ticket or a credit of 120 minutes part step."
+      }
+    },
+    {
+      "EA-Guid": "{E28513F6-4C8A-465c-8865-E3D502C18A2A}",
+      "name": "dienstregeling",
+      "label": {
+        "nl": "dienstregeling",
+        "en": "timetable"
+      },
+      "definition": {
+        "nl": "Schema met tijdstippen waarop iets wordt aangeboden.",
+        "en": "Schedule of times when something is offered."
+      }
+    },
+    {
+      "EA-Guid": "{62F255B8-D3BE-477f-BBED-7EC3F3542C9F}",
+      "name": "bestaat uit",
+      "label": {
+        "nl": "bestaat uit",
+        "en": "consistsOf"
+      },
+      "definition": {
+        "nl": "Opeenvolging van Routesegmenten waaruit de Route bestaat.",
+        "en": "Sequence of Route Segments that make up the Route."
+      }
+    },
+    {
+      "EA-Guid": "{5EB582C0-4E6D-48e7-91D1-C815F7B05515}",
+      "name": "beschikbaar op",
+      "label": {
+        "nl": "beschikbaar op",
+        "en": "availableOn"
+      },
+      "definition": {
+        "nl": "Transportobject waarop de Mobiliteitsdienst wordt aangeboden.",
+        "en": "Transport object on which the Mobility Service is offered."
+      },
+      "usage": {
+        "nl": "Bv P+R wordt aangeboden op parking van station, deelfiets+trein aangeboden in combipunt.",
+        "en": "E.g. P+R is offered in station car park, shared bicycle + train in combination point."
+      }
+    },
+    {
+      "EA-Guid": "{ED0C2F8E-DE3B-4fd5-BFEE-C754681FF8B8}",
+      "name": "berekend met",
+      "label": {
+        "nl": "berekend met",
+        "en": "calculatedWith"
+      },
+      "definition": {
+        "nl": "Routeplanner waarmee de Route is berekend.",
+        "en": "Route Planner used to calculate the route."
+      }
+    },
+    {
+      "EA-Guid": "{49BDA6CD-DA32-4213-8F11-7C0D855D6075}",
+      "name": "bedrag",
+      "label": {
+        "nl": "bedrag",
+        "en": "amount"
+      },
+      "definition": {
+        "nl": "Geldbedrag dat aan de Mobiliteitsdienst kan worden besteed.",
+        "en": "Amount of money that can be spent on the Mobility Service."
+      }
+    },
+    {
+      "EA-Guid": "{9AD3C152-4C7B-47ff-A4AF-72F42D8FDB60}",
+      "name": "aantal",
+      "label": {
+        "nl": "aantal",
+        "en": "number"
+      },
+      "definition": {
+        "nl": "Aantal reizen dat men met het Vervoersbewijs kan afleggen.",
+        "en": "Number of trips that can be made with the Ticket."
+      }
+    },
+    {
+      "EA-Guid": "{55C35D88-7F30-468e-B4FF-5800B158A733}",
+      "name": "aankomstpunt",
+      "label": {
+        "nl": "aankomstpunt",
+        "en": "arrivalPoint"
+      },
+      "definition": {
+        "nl": "Locatie waar de Route eindigt.",
+        "en": "Location where the Route ends."
+      }
+    },
+    {
+      "EA-Guid": "{59495D8D-DAA6-4be0-97D6-1C7B9AE7D2D6}",
+      "name": "aankomstknoop",
+      "label": {
+        "nl": "aankomstknoop",
+        "en": "arrivalNode"
+      },
+      "definition": {
+        "nl": "Knoop waar het Routesegment eindigt.",
+        "en": "Node where the Route Segment ends."
+      }
+    },
+    {
+      "EA-Guid": "{907CA626-F013-4a32-97C2-952109580CA5}",
+      "name": "aangeboden binnen",
+      "label": {
+        "nl": "aangeboden binnen",
+        "en": "offeredWithin"
+      },
+      "definition": {
+        "nl": "Formeel Kader waarbinnen de Mobiliteitsdienst wordt aangeboden.",
+        "en": "Formal Framework within which the Mobility Service is offered."
+      },
+      "usage": {
+        "nl": "Bv Besluit waarin de criteria voor het vergunnen van een Mobiliteitsdienst zijn opgesomd.",
+        "en": "E.g. Decree listing the criteria for authorising a Mobility Service."
+      }
+    },
+    {
+      "EA-Guid": "{344B6404-7ADE-441a-BD7C-4D499DC854D8}",
+      "name": "aanbieder",
+      "label": {
+        "nl": "aanbieder",
+        "en": "provider"
+      },
+      "definition": {
+        "nl": "De aanbieder van de Mobiliteitsdienst.",
+        "en": "The Mobility Service Provider."
+      }
+    },
+    {
+      "EA-Guid": "{BF41CA07-8A31-4c91-A4AD-C37EB91FC5F5}",
+      "name": "reisweg",
+      "label": {
+        "nl": "reisweg",
+        "en": "itinerary"
+      },
+      "definition": {
+        "nl": "Opeenvolging van Locaties waarvoor het Vervoersbewijs geldig is.",
+        "en": "Sequence of Locations for which the Ticket is valid."
+      },
+      "usage": {
+        "nl": "Typisch de twee opeenvolgende Locaties waartussen men mag reizen met het Vervoersbewijs, bv een treinabonnement tussen Brussel en Gent (waarbij het type Vervoersbewijs dan doorgaans \"retourticket\" is, maw ook een Reis van Gent naar Brussel is mogelijk). Maar kan ook gewoon het Gebied of de Plaats zijn waarvoor het Vervoersbewijs geldt, bv Antwerpen.",
+        "en": "Typically the two consecutive Locations between which one may travel with the Ticket, e.g. a train ticket between Brussels and Ghent (whereby the Ticket type is then usually 'return ticket', i.e. also a Journey from Ghent to Brussels is possible). But it can also be simply the Area or Place for which the Ticket is valid, e.g. Antwerp."
+      }
+    },
+    {
+      "EA-Guid": "{CBE59648-0F2C-4a05-B968-3143F9C0F22A}",
+      "name": "dienst",
+      "label": {
+        "nl": "dienst",
+        "en": "service"
+      },
+      "definition": {
+        "nl": "Mobiliteitsdienst waarvan men met het Vervoersbewijs gebruik mag maken.",
+        "en": "Mobility service which the Ticket allows one to use."
+      }
+    },
+    {
+      "EA-Guid": "{BF6C29AC-7B59-4661-915E-38A92DEAC985}",
+      "name": "afstand",
+      "label": {
+        "nl": "afstand",
+        "en": "distance"
+      },
+      "definition": {
+        "nl": "Gecumuleerde afstand die men met het Vervoersbewijs mag afleggen.",
+        "en": "Cumulative distance that can be covered with the Ticket."
+      }
+    },
+    {
+      "EA-Guid": "{A52649C8-2C1E-4d61-B232-ED50E6AA82D1}",
+      "name": "toegankelijkheid",
+      "label": {
+        "nl": "toegankelijkheid",
+        "en": "accessibility"
+      },
+      "definition": {
+        "nl": "Toegankelijkheid van het Transportobject.",
+        "en": "Accessibility of the Transport Object."
+      },
+      "usage": {
+        "nl": "Bv of het Transportobject toegankelijk is voor personen met een beperking.",
+        "en": "E.g. whether the Transport object is accessible for persons with a disability."
+      }
+    },
+    {
+      "EA-Guid": "{D4E619F3-1C72-4f87-A209-C60F918E163E}",
+      "name": "beschikbaarheid",
+      "label": {
+        "nl": "beschikbaarheid",
+        "en": "availability"
+      },
+      "definition": {
+        "nl": "Beschikbaarheid van het Transportobject.",
+        "en": "Availability of the Transport Object."
+      },
+      "usage": {
+        "nl": "Bv openingsuren.",
+        "en": "E.g. opening hours."
+      }
+    },
+    {
+      "EA-Guid": "{611CC00B-FE5C-4a0b-859E-5CAE73EEE9E0}",
+      "name": "vervoersbewijs",
+      "label": {
+        "nl": "vervoersbewijs",
+        "en": "transportTicket"
+      },
+      "definition": {
+        "nl": "Vervoersbewijs waarmee het Routesegment kan worden afgelegd of is afgelegd.",
+        "en": "Ticket with which the Route Segment can be travelled or has been travelled."
+      }
+    },
+    {
+      "EA-Guid": "{B4658789-9020-42a5-A4EB-05544D8FC434}",
+      "name": "vervoermiddel",
+      "label": {
+        "nl": "vervoermiddel",
+        "en": "meansOfTransport"
+      },
+      "definition": {
+        "nl": "Type vervoermiddel waarmee het Routesegment is afgelegd.",
+        "en": "Type of means of transport the Route Segment was covered with."
+      }
+    },
+    {
+      "EA-Guid": "{37978FAF-FB04-49b0-983C-C80417E37EEC}",
+      "name": "vertrektijdstip",
+      "label": {
+        "nl": "vertrektijdstip",
+        "en": "departureTime"
+      },
+      "definition": {
+        "nl": "Tijdstip waarop het Routesegment begint.",
+        "en": "Time when the Route Segment starts."
+      }
+    },
+    {
+      "EA-Guid": "{A6D75F8C-AA18-49aa-9F1E-5F1864160835}",
+      "name": "gerealiseerd met",
+      "label": {
+        "nl": "gerealiseerd met",
+        "en": "realisedWith"
+      },
+      "definition": {
+        "nl": "Resource van de Mobiliteitsdienst die de Reiziger heeft gebruikt bij het afleggen van het Routesegment.",
+        "en": "Resource of the Mobility Service used by the Traveller when travelling the Route Segment."
+      }
+    },
+    {
+      "EA-Guid": "{E5ACCCAF-28CE-4049-BB15-51EBA56945CD}",
+      "name": "gerealiseerd door",
+      "label": {
+        "nl": "gerealiseerd door",
+        "en": "realisedBy"
+      },
+      "definition": {
+        "nl": "Mobiliteitsdienst die de Reiziger heeft gebruikt bij het afleggen van het Routesegment.",
+        "en": "Mobility Service which the Passenger has used in travelling the Route Segment."
+      }
+    },
+    {
+      "EA-Guid": "{1B71487A-F958-479e-A681-68A788AADC45}",
+      "name": "aankomsttijdstip",
+      "label": {
+        "nl": "aankomsttijdstip",
+        "en": "arrivalTime"
+      },
+      "definition": {
+        "nl": "Tijdstip waarop het Routesegment eindigt.",
+        "en": "Time at which the Route Segment ends."
+      }
+    },
+    {
+      "EA-Guid": "{082FBBE1-AB98-409e-8D76-7BC05E79D605}",
+      "name": "aandrijving",
+      "label": {
+        "nl": "aandrijving",
+        "en": "propulsion"
+      },
+      "definition": {
+        "nl": "Aandrijving van het vervoermiddel waarmee het Routesegment is afgelegd.",
+        "en": "Propulsion of the means of transport by which the Route Segment was covered."
+      }
+    },
+    {
+      "EA-Guid": "{98B9BB26-B4E6-42b9-84A9-DD31218559DC}",
+      "name": "vervoersbewijs",
+      "label": {
+        "nl": "vervoersbewijs",
+        "en": "transportTicket"
+      },
+      "definition": {
+        "nl": "Vervoersbewijs dat nodig is of gebruikt is in de Routeknoop.",
+        "en": "Ticket needed or used in the Route Node."
+      },
+      "usage": {
+        "nl": "Bv het parkeerticket nodig voor het parkeren van zijn auto in de Routeknoop.",
+        "en": "E.g. the parking ticket needed for parking his car in the Route Node."
+      }
+    },
+    {
+      "EA-Guid": "{1420F03B-6F50-4f27-B8DD-B24ECCF1B2D0}",
+      "name": "gerealiseerd op",
+      "label": {
+        "nl": "gerealiseerd op",
+        "en": "realisedOn"
+      },
+      "definition": {
+        "nl": "Transportobject dat met de Routeknoop samenvalt.",
+        "en": "Transport object coinciding with the Route Node."
+      },
+      "usage": {
+        "nl": "Bv de halte waar men op- of afstapt, de parking waar men zijn auto parkeert, het deelfietsstation waar men een fiets ophaalt.",
+        "en": "E.g. the bus stop where you get on or off, the car park where you park your car, the shared bicycle station where you pick up your bicycle."
+      }
+    },
+    {
+      "EA-Guid": "{3511500B-965F-401d-8E64-0DA492C4286E}",
+      "name": "gerealiseerd met",
+      "label": {
+        "nl": "gerealiseerd met",
+        "en": "realisedWith"
+      },
+      "definition": {
+        "nl": "Resource van de Mobiliteitsdienst die de reiziger heeft gebruikt in de Routeknoop.",
+        "en": "Resource of the Mobility Service that the traveller has used in the Route Node."
+      },
+      "usage": {
+        "nl": "Bv parkeerplaats.",
+        "en": "E.g. parking area."
+      }
+    },
+    {
+      "EA-Guid": "{9EFF1CFB-6B8B-4395-8051-0139DE69FEE5}",
+      "name": "gerealiseerd door",
+      "label": {
+        "nl": "gerealiseerd door",
+        "en": "realisedBy"
+      },
+      "definition": {
+        "nl": "Mobiliteitsdienst die de Reiziger heeft gebruikt in de Routeknoop.",
+        "en": "Mobility service used by the Passenger in the Route Node."
+      },
+      "usage": {
+        "nl": "Bv parking.",
+        "en": "E.g. parking area"
+      }
+    },
+    {
+      "EA-Guid": "{B6D15961-12B4-4526-8853-A4E0BCAA5E70}",
+      "name": "vertrektijdstip",
+      "label": {
+        "nl": "vertrektijdstip",
+        "en": "departureTime"
+      },
+      "definition": {
+        "nl": "Tijdstip waarop de Route begint.",
+        "en": "Time at which the Route starts."
+      }
+    },
+    {
+      "EA-Guid": "{D047FC9C-AC32-4c28-AD8C-EEE2F2A3766A}",
+      "name": "afstand",
+      "label": {
+        "nl": "afstand",
+        "en": "distance"
+      },
+      "usage": {
+        "nl": "Af te leiden uit de kenmerken vd Route, typisch uit de geometrie van de Routesegmenten.",
+        "en": "Derived from the characteristics of the Route, typically from the geometry of the Route segments."
+      }
+    },
+    {
+      "EA-Guid": "{27315055-EC35-459b-ACB2-B2D21449A0FC}",
+      "name": "aankomsttijdstip",
+      "label": {
+        "nl": "aankomsttijdstip",
+        "en": "arrivalTime"
+      },
+      "definition": {
+        "nl": "Tijdstip waarop de Route eindigt.",
+        "en": "Time at which the Route ends."
+      }
+    },
+    {
+      "EA-Guid": "{E686E2D8-B7A3-40e9-B150-20FD94461BDA}",
+      "name": "vervoermiddel",
+      "label": {
+        "nl": "vervoermiddel",
+        "en": "meansOfTransport"
+      },
+      "definition": {
+        "nl": "Het type vervoermiddel van de Resource.",
+        "en": "The type of means of transport of the Resource."
+      },
+      "usage": {
+        "nl": "Vooral relevant als de resource een voertuig is.",
+        "en": "Especially relevant if the resource is a vehicle."
+      }
+    },
+    {
+      "EA-Guid": "{B9D49D06-1310-4427-A1F5-F544B68FF563}",
+      "name": "status",
+      "label": {
+        "nl": "status",
+        "en": "status"
+      },
+      "definition": {
+        "nl": "Toestand waarin een Resource zich bevindt.",
+        "en": "State of a Resource."
+      },
+      "usage": {
+        "nl": "Bv gereserveerd, inactief, beschikbaar. Bepaalt of een Resource gebruikt kan worden.",
+        "en": "E.g. reserved, inactive, available. Determines whether a resource can be used."
+      }
+    },
+    {
+      "EA-Guid": "{6E003FF1-A4CB-4852-A344-BFAD98356201}",
+      "name": "dienst",
+      "label": {
+        "nl": "dienst",
+        "en": "service"
+      },
+      "definition": {
+        "nl": "Mobiliteitsdienst van de Resource.",
+        "en": "Mobility Service of the Resource."
+      }
+    },
+    {
+      "EA-Guid": "{1FB35B02-13D2-4fd9-9735-3B6C49D0034E}",
+      "name": "aandrijving",
+      "label": {
+        "nl": "aandrijving",
+        "en": "propulsion"
+      },
+      "definition": {
+        "nl": "Aandrijving van het vervoermiddel.",
+        "en": "Propulsion of the means of transport."
+      }
+    },
+    {
+      "EA-Guid": "Derived:{DEC227CD-E22B-4cf5-8BC7-17C011FF1C5B}->{C3E40BFA-E2CF-45d9-9AB3-56983A5805A3}",
+      "name": "resource",
+      "label": {
+        "nl": "Resource",
+        "en": "resource"
+      },
+      "definition": {
+        "nl": "Referentie naar verbonden klasse.",
+        "en": "Reference to associated class."
+      },
+      "usage": {
+        "nl": "",
+        "en": ""
+      }
+    },
+    {
+      "EA-Guid": "{45976BF5-480F-4b09-994D-FD5CFD17B29E}",
+      "name": "reisweg",
+      "label": {
+        "nl": "reisweg",
+        "en": "itinerary"
+      },
+      "definition": {
+        "nl": "Reisweg waarvoor iets gereserveerd wordt.",
+        "en": "Itinerary for which something is reserved."
+      },
+      "usage": {
+        "nl": "Bv zitplaats van Brussel naar Parijs.",
+        "en": "E.g. seat from Brussels to Paris."
+      }
+    },
+    {
+      "EA-Guid": "Derived:{DEC227CD-E22B-4cf5-8BC7-17C011FF1C5B}->{A419A900-C5E7-4065-AB99-375E59BAD860}",
+      "name": "boeking",
+      "label": {
+        "nl": "Boeking",
+        "en": "Booking"
+      },
+      "definition": {
+        "nl": "Referentie naar verbonden klasse.",
+        "en": "Reference to associated class."
+      },
+      "usage": {
+        "nl": "",
+        "en": ""
+      }
+    },
+    {
+      "EA-Guid": "{0DE1BC80-FA8D-49d7-AB79-659C0556836D}",
+      "name": "vervoersbewijs",
+      "label": {
+        "nl": "vervoersbewijs",
+        "en": "transportTicket"
+      },
+      "definition": {
+        "nl": "Vervoersbewijs van de Reiziger.",
+        "en": "Ticket of the Traveller."
+      },
+      "usage": {
+        "nl": "Kan los staan van een Reis, ttz men kan beschikken over een Vervoersbewijs waarbij de Reis nog niet vastligt of nog niet is uitgevoerd, bv een abonnement of een dagkaart.",
+        "en": "Can be independent of a Trip, i.e. have a Ticket where the Journey is not yet fixed or executed, e.g. a season ticket or a day ticket."
+      }
+    },
+    {
+      "EA-Guid": "{D796078E-2AEA-4f26-AE4E-49A959C5B410}",
+      "name": "vervoersbewijs",
+      "label": {
+        "nl": "vervoersbewijs",
+        "en": "transportTicket"
+      },
+      "definition": {
+        "nl": "Vervoersbewijs voor de Reis.",
+        "en": "Ticket for the Trip."
+      },
+      "usage": {
+        "nl": "Dit is het Vervoersbewijs waarmee men de Reis wil uitvoeren of men de Reis heeft uitgevoerd. Bv het gekochte ticket of het abonnement waarover men beschikt.",
+        "en": "This is the Ticket with which you intend to travel or have traveled. E.g. the purchased Ticket or the season ticket."
+      }
+    },
+    {
+      "EA-Guid": "{45739BE7-DFB4-4584-896B-3F32DAA49250}",
+      "name": "boeking",
+      "label": {
+        "nl": "boeking",
+        "en": "booking"
+      },
+      "definition": {
+        "nl": "Boeking van de Reis.",
+        "en": "Booking of the Trip."
+      }
+    },
+    {
+      "EA-Guid": "{3B9219AC-5FB9-472f-8B0E-5B83C4330DA8}",
+      "name": "vervoermiddel",
+      "label": {
+        "nl": "vervoermiddel",
+        "en": "meansOfTransport"
+      },
+      "definition": {
+        "nl": "Vervoermiddel waarmee de Overstap gebeurt.",
+        "en": "Means of transport by which the Transfer is made."
+      },
+      "usage": {
+        "nl": "Doorgaans te voet.",
+        "en": "Usually on foot."
+      }
+    },
+    {
+      "EA-Guid": "Derived:{5EE2E57A-2685-496b-A5B1-9947A1D3BE83}->{35453307-F7E3-4052-B532-CC571E30CE34}",
+      "name": "routeknoop (target)",
+      "label": {
+        "nl": "Routeknoop (target)",
+        "en": "RouteNode (target)"
+      },
+      "definition": {
+        "nl": "Referentie naar verbonden klasse.",
+        "en": "Reference to associated class."
+      },
+      "usage": {
+        "nl": "",
+        "en": ""
+      }
+    },
+    {
+      "EA-Guid": "Derived:{5EE2E57A-2685-496b-A5B1-9947A1D3BE83}->{35453307-F7E3-4052-B532-CC571E30CE34}",
+      "name": "routeknoop (source)",
+      "label": {
+        "nl": "Routeknoop (source)",
+        "en": "RouteNode (source)"
+      },
+      "definition": {
+        "nl": "Referentie naar verbonden klasse.",
+        "en": "Reference to associated class."
+      },
+      "usage": {
+        "nl": "",
+        "en": ""
+      }
+    },
+    {
+      "EA-Guid": "{5219430F-C744-483a-86BC-22377A64206C}",
+      "name": "gerealiseerd op",
+      "label": {
+        "nl": "gerealiseerd op",
+        "en": "realisedOn"
+      },
+      "definition": {
+        "nl": "Transportobject waarmee de Routeconnectie samenvalt.",
+        "en": "Transport object with which the Route Connection coincides."
+      },
+      "usage": {
+        "nl": "Bv de halte waar men overstapt tussen twee metrolijnen, het Adresgebied waarbinnen men overstapt tussen twee vervoersmodi.",
+        "en": "E.g. the stop where one changes between two metro lines, the Address area where one changes between two modes of transport."
+      }
+    },
+    {
+      "EA-Guid": "{B63199AB-92DA-43bf-9ED4-F9CB694721F9}",
+      "name": "aandrijving",
+      "label": {
+        "nl": "aandrijving",
+        "en": "propulsion"
+      },
+      "definition": {
+        "nl": "Aandrijving van het vervoermiddel waarmee de Overstap gebeurt.",
+        "en": "Propulsion of the means of transport by which the Transfer is made."
+      }
+    },
+    {
+      "EA-Guid": "{CDAB3490-BBF4-40a6-B902-15671D190F6E}",
+      "name": "vervoermiddel",
+      "label": {
+        "nl": "vervoermiddel",
+        "en": "meansOfTransport"
+      },
+      "definition": {
+        "nl": "Vervoermiddel waarmee of waarvoor de Mobiliteitsdienst doorgaans wordt georganiseerd.",
+        "en": "Means of transport by which or for which the Mobility Service is usually organised."
+      },
+      "usage": {
+        "nl": "Bv metro, tram, bus voor de MIVB. Bv auto, fiets voor parking Coovi.",
+        "en": "E.g. metro, tram, bus for STIB. E.g. car, bicycle for parking Coovi."
+      }
+    },
+    {
+      "EA-Guid": "{A23794A1-A0DB-467d-983F-AF9DED3E19DB}",
+      "name": "toegankelijkheid",
+      "label": {
+        "nl": "toegankelijkheid",
+        "en": "accessibility"
+      },
+      "definition": {
+        "nl": "Toegankelijkheid van de Mobiliteitsdienst.",
+        "en": "Accessibility of the Mobility Service."
+      },
+      "usage": {
+        "nl": "Bv of de Mobiliteitsdienst toegankelijk is voor personen met een beperking.",
+        "en": "E.g. whether the Mobility Service is accessible to persons with disabilities."
+      }
+    },
+    {
+      "EA-Guid": "{6E003FF1-A4CB-4852-A344-BFAD98356201}",
+      "name": "resource",
+      "label": {
+        "nl": "resource",
+        "en": "resource"
+      },
+      "definition": {
+        "nl": "Resource waarover de Mobiliteitsdienst beschikt.",
+        "en": "Resource available to the Mobility Service."
+      }
+    },
+    {
+      "EA-Guid": "{E5F04FDA-E253-4c39-B8A8-CA59C9003875}",
+      "name": "beschikbaarheid",
+      "label": {
+        "nl": "beschikbaarheid",
+        "en": "availability"
+      },
+      "definition": {
+        "nl": "Beschikbaarheid van de Mobiliteitsdienst.",
+        "en": "Availability of the Mobility Service."
+      },
+      "usage": {
+        "nl": "Bv dienstregeling of openingsuren.",
+        "en": "E.g. timetable or opening hours."
+      }
+    },
+    {
+      "EA-Guid": "{BAA6E19D-D031-4b87-B909-66FA1D18DF5E}",
+      "name": "aandrijving",
+      "label": {
+        "nl": "aandrijving",
+        "en": "propulsion"
+      },
+      "definition": {
+        "nl": "Aandrijving van het vervoermiddel waarmee of waarvoor de Mobiliteitsdienst doorgaans wordt georganiseerd.",
+        "en": "Drive of the means of transport with or for which the Mobility Service is usually organised."
+      }
+    },
+    {
+      "EA-Guid": "{21034189-594A-4b19-A529-3D333EA2BCD8}",
+      "name": "vervoersbewijs",
+      "label": {
+        "nl": "vervoersbewijs",
+        "en": "transportTicket"
+      },
+      "definition": {
+        "nl": "Vervoersbewijs voor de geboekte Reis.",
+        "en": "Ticket for the booked Trip."
+      }
+    },
+    {
+      "EA-Guid": "{EF9B7FAF-0CCE-4a59-8A6A-323E7F514139}",
+      "name": "status",
+      "label": {
+        "nl": "status",
+        "en": "status"
+      },
+      "definition": {
+        "nl": "Status van de Boeking.",
+        "en": "Status of the Booking"
+      },
+      "usage": {
+        "nl": "Bv of de Boeking nog hangende is of reeds bevestigd.",
+        "en": "E.g. whether the booking is still pending or already confirmed."
+      }
+    },
+    {
+      "EA-Guid": "{00E2D600-A132-476d-BAA7-175C2746AA4E}",
+      "name": "resource",
+      "label": {
+        "nl": "resource",
+        "en": "resource"
+      },
+      "definition": {
+        "nl": "Resource die is gereserveerd.",
+        "en": "Resource that is reserved."
+      }
+    }
+  ],
+  "externals": [
+    {
+      "EA-Guid": "{15A41B0D-59DA-4d0f-96B3-CD75D6EC22F5}",
+      "name": "Periode",
+      "label": {
+        "nl": "Periode",
+        "en": "Period"
+      }
+    },
+    {
+      "EA-Guid": "{8371296C-9779-4aa6-BD9C-D21A35A85193}",
+      "name": "Publieke Organisatie",
+      "label": {
+        "nl": "Publieke Organisatie",
+        "en": "PublicOrganisation"
+      }
+    },
+    {
+      "EA-Guid": "{CF8BE617-CF3A-44b5-8A94-9F813D8166A5}",
+      "name": "Locatie",
+      "label": {
+        "nl": "Locatie",
+        "en": "Location"
+      },
+      "definition": {
+        "nl": "Een ruimtelijk gebied of benoemde plaats.",
+        "en": "A spatial area or named place."
+      }
+    },
+    {
+      "EA-Guid": "{233D6F54-4263-41ef-8038-E2453E88CE42}",
+      "name": "Formeel Kader",
+      "label": {
+        "nl": "Formeel Kader",
+        "en": "FormalFramework"
+      }
+    },
+    {
+      "EA-Guid": "{F7B99039-9123-47d7-A2AA-C9D64DDB7C4C}",
+      "name": "Contactpunt",
+      "label": {
+        "nl": "Contactpunt",
+        "en": "ContactPoint"
+      }
+    },
+    {
+      "EA-Guid": "{3A4ED034-5173-415a-B60F-83CE8F68622D}",
+      "name": "Openingsurenspecificatie",
+      "label": {
+        "nl": "Openingsurenspecificatie",
+        "en": "OpeningHoursSpecification"
+      }
+    },
+    {
+      "EA-Guid": "{BB4AF149-C201-4680-B6BD-E32C199F1CCF}",
+      "name": "Lijnstring",
+      "label": {
+        "nl": "Lijnstring",
+        "en": "LineString"
+      }
+    },
+    {
+      "EA-Guid": "{DB725A54-E647-4722-AC83-81BE91CFA0ED}",
+      "name": "Punt",
+      "label": {
+        "nl": "Punt",
+        "en": "Point"
+      }
+    },
+    {
+      "EA-Guid": "{F1372BFC-0026-4e46-B449-5FD281236982}",
+      "name": "Polygoon",
+      "label": {
+        "nl": "Polygoon",
+        "en": "Polygon"
+      }
+    },
+    {
+      "EA-Guid": "{5DCE3B2D-B6CF-4c6a-A260-01382FBF5430}",
+      "name": "Geografische Naam",
+      "label": {
+        "nl": "Geografische Naam",
+        "en": "GeographicalName"
+      }
+    },
+    {
+      "EA-Guid": "{535BA9FF-A2D6-4400-8F6C-2AF6007CED6F}",
+      "name": "Taalstring",
+      "label": {
+        "nl": "Taalstring",
+        "en": "LanguageString"
+      }
+    },
+    {
+      "EA-Guid": "{117B285D-AA32-40f6-8F4A-58A061AC01BE}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{7D76BEC4-4458-4b1f-AB12-F1510808AE6E}",
+      "name": "Identificator",
+      "label": {
+        "nl": "Identificator",
+        "en": "Identifier"
+      }
+    },
+    {
+      "EA-Guid": "{A8377F99-D311-4bc6-A26B-D251BC03D99F}",
+      "name": "Geometrie",
+      "label": {
+        "nl": "Geometrie",
+        "en": "Geometry"
+      }
+    },
+    {
+      "EA-Guid": "{0F63A4DE-1F22-401f-898F-E711E06AC691}",
+      "name": "Locatie",
+      "label": {
+        "nl": "Locatie",
+        "en": "Location"
+      },
+      "definition": {
+        "nl": "Een locatie kan een identificeerbare geografische locatie zijn (ISO 19112),maar deze locatie kan ook een niet-geografische locatie zijn,zoals een directory,rij of kolom. Als zodanig zijn er talloze manieren waarop locatie kan worden uitgedrukt,zoals d",
+        "en": "A location can be an identifiable geographical location (ISO 19112), but this location can also be a non-geographical location, such as a directory, row or column. As such, there are numerous ways in which location can be expressed."
+      }
+    },
+    {
+      "EA-Guid": "{408ABE75-29D9-4afd-A50F-098F5FBA91A4}",
+      "name": "Standaard Eenheid",
+      "label": {
+        "nl": "Standaard Eenheid",
+        "en": "StandardUnit"
+      },
+      "definition": {
+        "nl": "Eenheid vastgelegd door een standaardiserende organisatie.",
+        "en": "Unity established by a standardising organisation."
+      }
+    },
+    {
+      "EA-Guid": "{D7EF5390-5A16-46ef-8F89-C072C3392548}",
+      "name": "Gerichte link",
+      "label": {
+        "nl": "Gerichte link",
+        "en": "DirectedLink"
+      },
+      "definition": {
+        "nl": "Link in hetzij zijn positieve, hetzij zijn negatieve richting.",
+        "en": "Link in either its positive or negative direction."
+      }
+    },
+    {
+      "EA-Guid": "{A00A6002-88F2-4fed-97D2-A297DF736737}",
+      "name": "Link",
+      "label": {
+        "nl": "Link",
+        "en": "Link"
+      },
+      "definition": {
+        "nl": "Curvilineair netwerkelement dat twee posities verbindt en een homogeen pad in het Netwerk vertegenwoordigt. De verbonden posities worden voorgesteld door Knopen.",
+        "en": "Curvilinear network element that connects two positions and represents a homogeneous path in the Network. The connected positions are represented by Nodes."
+      }
+    },
+    {
+      "EA-Guid": "{8E169220-7B3C-4241-B87B-F5849C5A6F05}",
+      "name": "Transportgebied",
+      "label": {
+        "nl": "Transportgebied",
+        "en": "TransportArea"
+      },
+      "definition": {
+        "nl": "Tweedimensionaal Transportobject in een Transportnetwerk.",
+        "en": "Two-dimensional Transport Object in a Transport Network."
+      }
+    },
+    {
+      "EA-Guid": "{3557E513-631B-4c32-83FB-8422A8489FC5}",
+      "name": "Transportknoop",
+      "label": {
+        "nl": "Transportknoop",
+        "en": "TransportNode"
+      },
+      "definition": {
+        "nl": "Significante positie in het Transportnetwerk die steeds samenvalt met het begin of het einde van een Transportlink.",
+        "en": "Significant position in the Transport Network that always coincides with the beginning or the end of a Transport Link."
+      }
+    },
+    {
+      "EA-Guid": "{81D18215-661B-4b9a-B033-C91A2328EE03}",
+      "name": "Transportnetwerk",
+      "label": {
+        "nl": "Transportnetwerk",
+        "en": "TransportNetwork"
+      },
+      "definition": {
+        "nl": "Verzameling van Netwerkelementen die eenzelfde vervoerswijze vertegenwoordigen.",
+        "en": "Collection of Network Elements representing the same mode of transport."
+      },
+      "usage": {
+        "nl": "De vervoerswijze is minimaal weg, spoor, lucht en water. Verdere opdeling in Transportnetwerken volgens vervoermiddel, aandrijftype, dienstverleningstype is mogelijk.",
+        "en": "The transport mode is at least road, rail, air and water. Further subdivision into Transport Networks according to means of transport, drive type, service type is possible."
+      }
+    },
+    {
+      "EA-Guid": "{DEF8037C-4468-4dbc-A543-4DFE77D6C610}",
+      "name": "Transportobject",
+      "label": {
+        "nl": "Transportobject",
+        "en": "TransportObject"
+      },
+      "definition": {
+        "nl": "Element in een Transportnetwerk dat daarin een functie van belang vervult.",
+        "en": "Element in a Transport Network that performs a function of importance therein."
+      }
+    },
+    {
+      "EA-Guid": "{12F5D57C-E2DE-4969-A0CA-2EA89E96E1FB}",
+      "name": "Geldbedrag",
+      "label": {
+        "nl": "Geldbedrag",
+        "en": "MonetaryAmount"
+      },
+      "definition": {
+        "nl": "Een geldwaarde of -bereik.",
+        "en": "A monetary value or range."
+      }
+    },
+    {
+      "EA-Guid": "{AE45489E-9990-4d8f-818C-BDEE0A64613C}",
+      "name": "Getal",
+      "label": {
+        "nl": "Getal",
+        "en": "Number"
+      }
+    },
+    {
+      "EA-Guid": "{56743B23-6DD1-411b-985A-54406C971015}",
+      "name": "Prijsspecificatie",
+      "label": {
+        "nl": "Prijsspecificatie",
+        "en": "PriceSpecification"
+      }
+    },
+    {
+      "EA-Guid": "{97504DAB-2329-43e1-9FE3-0D36338E83E8}",
+      "name": "Kwantitatieve Waarde",
+      "label": {
+        "nl": "Kwantitatieve Waarde",
+        "en": "QuantitativeValue"
+      }
+    },
+    {
+      "EA-Guid": "{457E1E23-40B0-4ca6-840C-49CD251C9EDD}",
+      "name": "Reis",
+      "label": {
+        "nl": "Reis",
+        "en": "Trip"
+      }
+    }
+  ],
+  "externalproperties": [
+    {
+      "EA-Guid": "{4DC6D979-20C7-4741-BFB1-C6F303D95149}",
+      "name": "waarde",
+      "label": {
+        "nl": "waarde",
+        "en": "value"
+      }
+    },
+    {
+      "EA-Guid": "{5D131D2E-CE71-4f51-AB75-212986889B84}",
+      "name": "waarde",
+      "label": {
+        "nl": "waarde",
+        "en": "value"
+      }
+    },
+    {
+      "EA-Guid": "{DF6FB068-D787-473d-B684-AAF774E61F4E}",
+      "name": "waarde",
+      "label": {
+        "nl": "waarde",
+        "en": "value"
+      }
+    },
+    {
+      "EA-Guid": "{910CB304-92E9-4e52-B961-C870B346D0A7}",
+      "name": "eenheidtekst",
+      "label": {
+        "nl": "eenheidtekst",
+        "en": "unitText"
+      }
+    },
+    {
+      "EA-Guid": "{BA826DCE-55CC-4496-A1E6-D0022ADE95DE}",
+      "name": "eenheidcode",
+      "label": {
+        "nl": "eenheidcode",
+        "en": "unitCode"
+      }
+    },
+    {
+      "EA-Guid": "{5FF9FCD4-08E1-48e0-94BA-893B482E7235}",
+      "name": "prijs",
+      "label": {
+        "nl": "prijs",
+        "en": "price"
+      }
+    },
+    {
+      "EA-Guid": "{97DC2D5A-5929-4654-B578-BCD892E04670}",
+      "name": "prijs",
+      "label": {
+        "nl": "prijs",
+        "en": "price"
+      }
+    },
+    {
+      "EA-Guid": "{647DCFB1-17C9-4488-AB7C-7310C9DB9E31}",
+      "name": "openingsuren",
+      "label": {
+        "nl": "openingsuren",
+        "en": "openingHours"
+      }
+    },
+    {
+      "EA-Guid": "{47D38C4C-8CC4-4011-A4C1-59C8E7551DFD}",
+      "name": "vertrektijd",
+      "label": {
+        "nl": "vertrektijd",
+        "en": "departureTime"
+      }
+    },
+    {
+      "EA-Guid": "{FB0B7D67-2F10-4c48-A58C-91DEA3FC2449}",
+      "name": "aankomsttijd",
+      "label": {
+        "nl": "aankomsttijd",
+        "en": "arrivalTime"
+      }
+    },
+    {
+      "EA-Guid": "{3BEED447-C3A9-4305-AEFA-DFACC244E7EA}",
+      "name": "geografische naam",
+      "label": {
+        "nl": "geografische naam",
+        "en": "geographicalName"
+      },
+      "definition": {
+        "nl": "Naam van het Transportobject.",
+        "en": "Name of the Transport Object"
+      }
+    },
+    {
+      "EA-Guid": "{20274C10-00C8-43be-82DD-F584CB169517}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{0A12594B-6CEE-4861-99C0-9536BBA74BB1}",
+      "name": "richting",
+      "label": {
+        "nl": "richting",
+        "en": "direction"
+      },
+      "definition": {
+        "nl": "Geeft aan of de richting van de link overeenstemt met zijn positieve of zijn negatieve richting.",
+        "en": "Indicates whether the direction of the link corresponds to its positive or negative direction."
+      }
+    },
+    {
+      "EA-Guid": "{E521F9BF-AD73-4f33-9831-2323285BC8D6}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{C6A74069-72A9-4bce-B0C5-8B1202D46B6F}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{4F85755D-5E33-44e8-B847-F9C7E036AFB9}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{8F72451D-6A44-4753-BB4E-0A9606C6198B}",
+      "name": "geometriemiddellijn",
+      "label": {
+        "nl": "geometriemiddellijn",
+        "en": "geometryCentreLine"
+      },
+      "definition": {
+        "nl": "Geometrie van de midellijn van de Link.",
+        "en": "Geometry of the centre line of the Link"
+      }
+    },
+    {
+      "EA-Guid": "{718F65DE-D0B7-4740-9E69-4B1D20F48885}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{5E951C25-C489-4d4e-BCD6-7A175AA047F7}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{D269DDC4-78F7-4a0f-85C5-B9F14857D8BC}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{74B0F83A-692D-417e-803F-9BFDADE8DF81}",
+      "name": "link",
+      "label": {
+        "nl": "link",
+        "en": "link"
+      },
+      "definition": {
+        "nl": "Verwijzing naar de Link.",
+        "en": "Reference to the Link."
+      }
+    },
+    {
+      "EA-Guid": "{566F5F5C-8076-4ed9-8DC9-FE0689CF6C84}",
+      "name": "registratie",
+      "label": {
+        "nl": "registratie",
+        "en": "registration"
+      }
+    },
+    {
+      "EA-Guid": "{1B5C4E7D-C758-4e73-B0A7-4E02727C2A77}",
+      "name": "geometrie",
+      "label": {
+        "nl": "geometrie",
+        "en": "geometry"
+      }
+    },
+    {
+      "EA-Guid": "{8700E3BE-4847-45e1-A1C5-D2316F2D4925}",
+      "name": "geometrie",
+      "label": {
+        "nl": "geometrie",
+        "en": "geometry"
+      },
+      "definition": {
+        "nl": "Geometrie van de plaats of het gebied.",
+        "en": "Geometry of the place or area."
+      }
+    },
+    {
+      "EA-Guid": "{AF435D89-F232-429e-AAA6-B8513245F252}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{8402CEE9-63F8-47d6-A1A8-14BC540ACBFB}",
+      "name": "voorkeursnaam",
+      "label": {
+        "nl": "voorkeursnaam",
+        "en": "preferredName"
+      },
+      "definition": {
+        "nl": "Naam waarmee de Organisatie bij voorkeur wordt aangeduid.",
+        "en": "Name preferred by the Organisation."
+      }
+    },
+    {
+      "EA-Guid": "{01A3C307-0EB0-4abb-92CF-97C1E0698B5B}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{918931CE-2F1A-4fbd-B43B-21F83E6E901B}",
+      "name": "plaatsnaam",
+      "label": {
+        "nl": "plaatsnaam",
+        "en": "placeName"
+      },
+      "definition": {
+        "nl": "Naam van de plaats of van het gebied.",
+        "en": "Name of the place or area."
+      }
+    },
+    {
+      "EA-Guid": "{626875D7-185A-43a2-9D4E-7A50F452479A}",
+      "name": "als WKT",
+      "label": {
+        "nl": "als WKT",
+        "en": "asWKT"
+      }
+    },
+    {
+      "EA-Guid": "{8CC620F9-ECAC-40ef-898B-AD1B712703EC}",
+      "name": "als GML",
+      "label": {
+        "nl": "als GML",
+        "en": "asGML"
+      }
+    },
+    {
+      "EA-Guid": "{22CC4F4A-1A60-4a2a-8230-704CB478AB74}",
+      "name": "deel van reis",
+      "label": {
+        "nl": "deel van reis",
+        "en": "partOfTheTrip"
+      }
+    },
+    {
+      "EA-Guid": "{41972CF6-0A26-41ca-881E-04F282168949}",
+      "name": "openingsuren",
+      "label": {
+        "nl": "openingsuren",
+        "en": "openingHours"
+      }
+    },
+    {
+      "EA-Guid": "{6EB064E9-69AB-44de-B066-97BEAA695D60}",
+      "name": "reisweg",
+      "label": {
+        "nl": "reisweg",
+        "en": "itinerary"
+      }
+    },
+    {
+      "EA-Guid": "{08B394DC-5741-4843-8A41-A0B6D73CDB81}",
+      "name": "contactinfo",
+      "label": {
+        "nl": "contactinfo",
+        "en": "contactInformation"
+      },
+      "definition": {
+        "nl": "Informatie zoals email, telefoon... die toelaat de Organisatie te contacteren.",
+        "en": "Information such as email, telephone... which allows the Organisation to be contacted."
+      }
+    },
+    {
+      "EA-Guid": "{25D58959-7482-438c-AFDF-163B67D45B1F}",
+      "name": ""
+    },
+    {
+      "EA-Guid": "{74F6A73E-00FD-4d2d-8BD4-14BA2DA593BE}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{8CA7926A-9C64-446c-A214-033EB7DFB6BC}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{BAA5B987-8371-42f8-8751-7E0C8315C0D5}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{527BAF85-06D1-47b0-BE81-DD8B587FEACD}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{E06699BB-F14E-4b9a-ADC9-B073E7E97CFE}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{CE77B65F-F4E8-41c3-9F85-614A36C6CC9A}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{26682F53-47E9-426a-B2FF-24827CBE43D8}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{9C66FE21-5318-4f62-B490-133CC514F738}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{CBE39D9C-9967-4f85-B915-FBB104ACF62A}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{746C0D9C-5657-454d-AA03-0C1A3694AD81}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{41BE4D88-BBEC-4930-9BC4-E09E32DF17CA}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{F37F4045-073A-4323-9716-D761BC632FB9}",
+      "name": "type",
+      "label": {
+        "nl": "type",
+        "en": "type"
+      }
+    },
+    {
+      "EA-Guid": "{3E175A51-6FE1-4a1f-94A8-65F43A200266}",
+      "name": "titel",
+      "label": {
+        "nl": "titel",
+        "en": "title"
+      }
+    },
+    {
+      "EA-Guid": "{9ACB47A5-9B8F-4221-9FC6-DC68319C4E53}",
+      "name": "naam",
+      "label": {
+        "nl": "naam",
+        "en": "name"
+      }
+    },
+    {
+      "EA-Guid": "{CB1E51BC-FF81-4844-9BA8-3763A3FC3D57}",
+      "name": "naam",
+      "label": {
+        "nl": "name"
+      }
+    },
+    {
+      "EA-Guid": "{C2240D85-B042-401a-B5BF-A29430B9041A}",
+      "name": "naam",
+      "label": {
+        "nl": "naam",
+        "en": "name"
+      }
+    },
+    {
+      "EA-Guid": "{37866E14-15B0-4e1b-B745-37CC1DBD7D5E}",
+      "name": "spatiaal",
+      "label": {
+        "nl": "spatiaal",
+        "en": "spatial"
+      }
+    },
+    {
+      "EA-Guid": "{0D4275A4-1122-43ff-8FE7-22ADC09EEB8B}",
+      "name": "ruimtelijke dekking",
+      "label": {
+        "nl": "ruimtelijke dekking",
+        "en": "spatialCoverage"
+      }
+    },
+    {
+      "EA-Guid": "{A47AD175-741E-497a-BD6D-8E7E652FC5A2}",
+      "name": "ruimtelijke dekking",
+      "label": {
+        "nl": "ruimtelijke dekking",
+        "en": "spatialCoverage"
+      }
+    },
+    {
+      "EA-Guid": "{5423A3D5-58D2-4f19-A50B-363B553F51DB}",
+      "name": "relatie",
+      "label": {
+        "nl": "relatie",
+        "en": "relation"
+      }
+    },
+    {
+      "EA-Guid": "{64462ADA-0368-45b9-9BBE-A307962D244B}",
+      "name": "beschrijving",
+      "label": {
+        "nl": "beschrijving",
+        "en": "description"
+      }
+    },
+    {
+      "EA-Guid": "{FD258CAF-7D3C-4880-B175-180230AD8FE9}",
+      "name": "beschrijving",
+      "label": {
+        "nl": "beschrijving",
+        "en": "description"
+      }
+    },
+    {
+      "EA-Guid": "{19FB0538-C0D0-486e-8420-BDA37FB5DC40}",
+      "name": "datum",
+      "label": {
+        "nl": "datum",
+        "en": "date"
+      }
+    },
+    {
+      "EA-Guid": "{B75E255D-359C-4af1-B11A-F8217BA22A96}",
+      "name": "datum",
+      "label": {
+        "nl": "datum",
+        "en": "date"
+      }
+    },
+    {
+      "EA-Guid": "{92F519E1-6886-41c4-9351-CEF6FFD23102}",
+      "name": "datum",
+      "label": {
+        "nl": "datum",
+        "en": "date"
+      }
+    },
+    {
+      "EA-Guid": "{0AD8D60F-61EB-49bc-9971-FC2B1DA37E7B}",
+      "name": "datum",
+      "label": {
+        "nl": "datum",
+        "en": "date"
+      }
+    },
+    {
+      "EA-Guid": "{53B0F8F7-A506-42f3-B6A9-7889E751F62A}",
+      "name": "territoriale toepassing",
+      "label": {
+        "nl": "territoriale toepassing",
+        "en": "territorialApplication"
+      }
+    },
+    {
+      "EA-Guid": "{CE94157A-6C82-4578-974C-4A440C895437}",
+      "name": "territoriale toepassing",
+      "label": {
+        "nl": "territoriale toepassing",
+        "en": "territorialApplication"
+      }
+    },
+    {
+      "EA-Guid": "{428395DC-60F5-41cf-B191-4FD9F62DA713}",
+      "name": "begin",
+      "label": {
+        "nl": "begin",
+        "en": "begin"
+      }
+    },
+    {
+      "EA-Guid": "{FAB7318F-AB3F-479a-8134-BA2410288DAA}",
+      "name": "einde",
+      "label": {
+        "nl": "einde",
+        "en": "end"
+      }
+    }
+  ]
+}
