@@ -546,8 +546,8 @@
       "EA-Guid": "{A9986069-25A2-4c5d-94B4-589C7B5A7D22}",
       "name": "onderneemt",
       "label": {
-        "nl": "onderneemt",
-        "en": "undertakes"
+        "nl": "Onderneemt",
+        "en": "Undertakes"
       },
       "definition": {
         "nl": "Reis die een Reiziger onderneemt of wil ondernemen.",
@@ -1904,10 +1904,10 @@
     },
     {
       "EA-Guid": "{8700E3BE-4847-45e1-A1C5-D2316F2D4925}",
-      "name": "geometrie",
+      "name": "Geometrie van de plaats of het gebied.",
       "label": {
-        "nl": "geometrie",
-        "en": "geometry"
+        "nl": "Geometrie van de plaats of het gebied.",
+        "en": "Geometry"
       },
       "definition": {
         "nl": "Geometrie van de plaats of het gebied.",
@@ -2118,7 +2118,8 @@
       "EA-Guid": "{CB1E51BC-FF81-4844-9BA8-3763A3FC3D57}",
       "name": "naam",
       "label": {
-        "nl": "name"
+        "nl": "naam",
+        "en": "name"
       }
     },
     {
