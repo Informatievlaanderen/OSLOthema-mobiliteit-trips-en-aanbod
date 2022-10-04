@@ -74,7 +74,7 @@
       },
       "usage": {
         "nl": "Bv leeftijd, beperking, rijbewijs.",
-        "en": "E.g. Age, disability, driving license."
+        "en": "E.g. age, disability, driving license."
       }
     },
     {
@@ -356,7 +356,7 @@
       "name": "vertrekpunt",
       "label": {
         "nl": "vertrekpunt",
-        "en": "startingPoint"
+        "en": "startingpoint"
       },
       "definition": {
         "nl": "Locatie waar de Route begint.",
@@ -379,7 +379,7 @@
         "en": "Node where the Route Segment starts."
       },
       "usage": {
-        "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt	",
+        "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt",
         "en": "Useful if at the departure or arrival point a Mobility Service or Resource is used (e.g. car park) or to indicate with which Transport Object the point coincides."
       }
     },
@@ -448,7 +448,7 @@
       "name": "routebeschrijving",
       "label": {
         "nl": "routebeschrijving",
-        "en": "routeDescription"
+        "en": "routedescription"
       },
       "definition": {
         "nl": "Beschrijving van de Route.",
@@ -464,7 +464,7 @@
       "name": "reisduur",
       "label": {
         "nl": "reisduur",
-        "en": "travelTime"
+        "en": "traveltime"
       },
       "definition": {
         "nl": "Tijd waarin de Route wordt afgelegd.",
@@ -508,7 +508,7 @@
       "name": "prijsplan",
       "label": {
         "nl": "prijsplan",
-        "en": "pricePlan"
+        "en": "priceplan"
       },
       "definition": {
         "nl": "Prijsplan van de Mobiliteitsdienst.",
@@ -536,7 +536,7 @@
       "name": "overstaptijd",
       "label": {
         "nl": "overstaptijd",
-        "en": "transferTime"
+        "en": "transfertime"
       },
       "definition": {
         "nl": "Tijd waarin de overstap gebeurt.",
@@ -559,12 +559,12 @@
       "EA-Guid": "{A9986069-25A2-4c5d-94B4-589C7B5A7D22}",
       "name": "onderneemt",
       "label": {
-        "nl": "onderneemt",
-        "en": "undertakes"
+        "nl": "Onderneemt",
+        "en": "Undertakes"
       },
       "definition": {
         "nl": "Reis die een Reiziger onderneemt of wil ondernemen.",
-        "en": "Trip that a traveler undertakes or wants to undertake."
+        "en": "Trip that a Traveler undertakes or wants to undertake."
       }
     },
     {
@@ -612,7 +612,7 @@
       "name": "mogelijke route",
       "label": {
         "nl": "mogelijke route",
-        "en": "possibleRoute"
+        "en": "possible route"
       },
       "definition": {
         "nl": "Routes die gevolgd kunnen worden om de Reis uit te voeren.",
@@ -648,7 +648,7 @@
       "name": "kostprijs",
       "label": {
         "nl": "kostprijs",
-        "en": "costPrice"
+        "en": "costprice"
       },
       "definition": {
         "nl": "Prijs van de Route.",
@@ -867,7 +867,7 @@
         "en": "Node where the Route Segment ends."
       },
       "usage": {
-        "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt.",
+        "nl": "Nuttig als op het vertrek- of aankomstpunt een Mobiliteitsdienst of Resource is gebruikt (bv parkeerplaats) of om aan te geven met welk Transportobject het punt samenvalt",
         "en": "Useful if at the departure or arrival point a Mobility Service or Resource is used (e.g. car park) or to indicate with which Transport Object the point coincides."
       }
     },
@@ -1215,8 +1215,8 @@
       "EA-Guid": "Derived:{DEC227CD-E22B-4cf5-8BC7-17C011FF1C5B}->{C3E40BFA-E2CF-45d9-9AB3-56983A5805A3}",
       "name": "resource",
       "label": {
-        "nl": "resource",
-        "en": "resource"
+        "nl": "Resource",
+        "en": "Resource"
       },
       "definition": {
         "nl": "Referentie naar verbonden klasse.",
@@ -1323,8 +1323,8 @@
       "EA-Guid": "Derived:{5EE2E57A-2685-496b-A5B1-9947A1D3BE83}->{35453307-F7E3-4052-B532-CC571E30CE34}",
       "name": "routeknoop (target)",
       "label": {
-        "nl": "routeknoop (target)",
-        "en": "routeNode (target)"
+        "nl": "Routeknoop (target)",
+        "en": "RouteNode (target)"
       },
       "definition": {
         "nl": "Referentie naar verbonden klasse.",
@@ -1339,7 +1339,7 @@
       "EA-Guid": "Derived:{5EE2E57A-2685-496b-A5B1-9947A1D3BE83}->{35453307-F7E3-4052-B532-CC571E30CE34}",
       "name": "routeknoop (source)",
       "label": {
-        "nl": "routeknoop (source)",
+        "nl": "Routeknoop (source)",
         "en": "routeNode (source)"
       },
       "definition": {
@@ -1448,7 +1448,7 @@
       "name": "aandrijving",
       "label": {
         "nl": "aandrijving",
-        "en": "Propulsion"
+        "en": "propulsion"
       },
       "definition": {
         "nl": "Aandrijving van het vervoermiddel waarmee of waarvoor de Mobiliteitsdienst doorgaans wordt georganiseerd.",
