@@ -3,7 +3,7 @@
   "name": "netwerk",
   "type": "voc",
   "eap": "OSLO-Netwerk.EAP",
-  "diagram": "OSLO-Netwerk",
+  "diagram": "OSLO-Netwerk-volledig",
   "template": "netwerk-voc.j2",
   "title": "Netwerk",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
