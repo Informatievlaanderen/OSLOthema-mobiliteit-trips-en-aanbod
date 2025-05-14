@@ -2,7 +2,7 @@
   "title": "Applicatieprofiel Mobiliteit: Trips en Aanbod",
   "category": "Applicatieprofiel",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "erkende-standaard",
+  "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
   "descriptionFileName": "ap-mobiliteit-trips-en-aanbod.md",
   "responsibleOrganisation": [
     {
