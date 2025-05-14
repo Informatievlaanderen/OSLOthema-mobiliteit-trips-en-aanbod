@@ -2,7 +2,7 @@
   "title": "Vocabularium Mobiliteit Trips en Aanbod",
   "category": "Vocabularium",
   "usage": "Aanbevolen (vrijwillig)",
-  "status": "erkende-standaard",
+  "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
   "descriptionFileName": "voc-mobiliteit-trips-en-aanbod.md",
   "responsibleOrganisation": [
     {
