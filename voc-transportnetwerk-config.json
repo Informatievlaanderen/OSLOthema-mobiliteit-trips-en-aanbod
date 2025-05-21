@@ -1,6 +1,6 @@
 {
   "title": "Vocabularium Transportnetwerk",
-  "category": "Vocabularium",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
   "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
   "descriptionFileName": "voc-transportnetwerk.md",
