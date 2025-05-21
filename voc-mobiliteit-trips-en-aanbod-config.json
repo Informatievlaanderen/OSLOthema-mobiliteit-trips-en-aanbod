@@ -1,6 +1,6 @@
 {
   "title": "Vocabularium Mobiliteit Trips en Aanbod",
-  "category": "Vocabularium",
+  "category": "https://data.vlaanderen.be/id/concept/StandaardType/Vocabularium",
   "usage": "https://data.vlaanderen.be/id/concept/StandaardGebruik/Aanbevolen",
   "status": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
   "descriptionFileName": "voc-mobiliteit-trips-en-aanbod.md",
