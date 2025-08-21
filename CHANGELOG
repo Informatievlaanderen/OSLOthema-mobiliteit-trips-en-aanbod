@@ -1,2 +1,16 @@
 19 sep 2019
   - opstart
+21 aug 2025
+   uitrol toolchain 4
+    
+
+   netwerk 
+     - diagramma netwerk-volledig bevat ook niet erkende termen.
+     - sommige connectoren bevatten rollen die niet erkend zijn.
+     - alle termen hebben een explicite status gekregen
+
+   mobiliteit trips en aanbod AP
+     - configureer de associatieklasse Reservatie
+     - verwijder 0..* cardinaliteit om generatie van ongewenste eigenschappen te vermijden
+ 
+   
