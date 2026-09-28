@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mobiliteit-Trips-En-Aanbod AP: Replace http://schema.org with https://schema.org
 - Mobiliteit-Trips-En-Aanbod AP: Replace abbreviations
 - Mobiliteit-Trips-En-Aanbod AP: Capitalise sentences
+- Mobiliteit-Trips-En-Aanbod AP: Association relationships
 
 ## 19 sep 2019
   - opstart
