@@ -15,10 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mobiliteit-Trips-En-Aanbod AP: Association relationships
 
 ### Added
-- Mobiliteit-Trips-En-Aanbod AP: Definition for enums "Toegankelijkheidstype"
-- Mobiliteit-Trips-En-Aanbod AP: Definition for enums "Aandrijftype"
-- Mobiliteit-Trips-En-Aanbod AP: Definition for enums "Boekingstatus"
-- Mobiliteit-Trips-En-Aanbod AP: Definition for enums "Toegankelijkheidsonderdeel"
+- Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Toegankelijkheidstype"
+- Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Aandrijftype"
+- Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Boekingstatus"
+- Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Toegankelijkheidsonderdeel"
 
 ## 19 sep 2019
   - opstart
