@@ -19,6 +19,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Aandrijftype"
 - Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Boekingstatus"
 - Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Toegankelijkheidsonderdeel"
+- Mobiliteit-Trips-En-Aanbod VOC: Label and definition for property "^geometrie"
+- Mobiliteit-Trips-En-Aanbod VOC: Label and definition for property "^identificator"
+- Mobiliteit-Trips-En-Aanbod VOC: Label and definition for property "^bestaatUit"
+- Mobiliteit-Trips-En-Aanbod VOC: Label and definition for property "^verbindt"
 
 ## 19 sep 2019
   - opstart
