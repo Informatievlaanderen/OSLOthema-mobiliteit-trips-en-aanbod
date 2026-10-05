@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mobiliteit-Trips-En-Aanbod AP: Replace abbreviations
 - Mobiliteit-Trips-En-Aanbod AP: Capitalise sentences
 - Mobiliteit-Trips-En-Aanbod AP: Association relationships
+- Netwerk VOC: Apply PascalCase and CamelCase
+- Netwerk VOC: Replace abbreviations
 
 ### Added
 - Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Toegankelijkheidstype"
