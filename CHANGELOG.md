@@ -26,5 +26,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mobiliteit-Trips-En-Aanbod VOC: Label and definition for property "^bestaatUit"
 - Mobiliteit-Trips-En-Aanbod VOC: Label and definition for property "^verbindt"
 
+### Fixed
+- Netwerk VOC: Unable to determine the range for attribute (Model:Domain Model:OSLO-Netwerk:Netwerkreferentie:element).
+
 ## 19 sep 2019
   - opstart
