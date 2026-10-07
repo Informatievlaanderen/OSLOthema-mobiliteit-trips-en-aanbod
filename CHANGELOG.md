@@ -31,5 +31,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Netwerk VOC: Unable to determine the range for attribute (Model:Domain Model:OSLO-Netwerk:Netwerkreferentie:element).
 
+### Removed
+- Transportnetwerk VOC: Empty tags
+
 ## 19 sep 2019
   - opstart
