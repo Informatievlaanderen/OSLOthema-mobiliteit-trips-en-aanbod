@@ -15,6 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Mobiliteit-Trips-En-Aanbod AP: Association relationships
 - Netwerk VOC: Apply PascalCase and CamelCase
 - Netwerk VOC: Replace abbreviations
+- Transportnetwerk VOC: Apply PascalCase and CamelCase
+- Transportnetwerk VOC: Replace abbreviations
 
 ### Added
 - Mobiliteit-Trips-En-Aanbod AP: Label and definition for enums "Toegankelijkheidstype"
